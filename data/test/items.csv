@@ -1,0 +1,6 @@
+id,name,description,category_id,rarity,type
+item_001,Frost Crystal,A beautiful crystal that enhances ice-based abilities,1,rare,accessory
+item_002,Flame Essence,A powerful essence that boosts fire-type attacks,1,rare,consumable
+item_003,Shadow Orb,A mysterious orb that amplifies dark energy,1,rare,accessory
+item_004,Thunder Pearl,A sparking pearl that increases electric power,1,rare,accessory
+item_005,Nature Seed,A magical seed that strengthens nature abilities,1,rare,consumable 

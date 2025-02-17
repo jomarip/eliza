@@ -1,0 +1,115 @@
+I ,Image,image,Name,Element,Monster ID,sound,Description,Height,Weight,common,shiny,egg,107/0
+TRUE,10011001,,Almega,Void,10011001,,Almega can see into the near future and predict upcoming attacks. They seem to ignore the laws of space-time.,9999,9999,0,140,Both,
+TRUE,10100101,,Kaiborg,Void,10101001,,"The Kaiborgs promised never to return to dust, so they created new selves of metal.",200,140,0,140,Both,
+TRUE,10101001,,Badara,Void,10100101,,"Its speed and strength are amplified in the moonlight. After sunset, there is little to nothing that can stop a Badara.",220,180,0,140,Lunar,
+TRUE,11111111,,Omnipotens,Void,11111111,,"In times of peace, they sleep in the shadows and wait. In the end of times, they shake the heavens with pillars of white light.",220,240,0,140,Solar,
+TRUE,,,Bamboozler,Plant,40,,"Although they might appear slow and simple, Bamboozlers are known to attack aggressively with quick combos of punches and kicks.",180,140,5000,140,Lunar,lunar
+TRUE,,,Slobloom,Plant,41,,Sloblooms are notorious for picking fights with those who deny their beauty.,140,50,5000,140,Lunar,6
+TRUE,,,Lunashroom,Plant,42,,A Lunashroom is a solitary monster with toxic fungi on its head and back for defense. They can emit fatal nitrogenous clouds from their breath.,90,40,5000,140,Lunar,solar
+TRUE,,,Florean,Plant,43,,Floreans move quickly through the air and disorient attackers with their stunning beauty and pollenated displays.,175,55,5000,140,Both,5
+TRUE,,,Absolopede,Plant,44,,"In spite of its intimidating size, Absaloms are unusually friendly even in the wild. They are prone to hugging and often refuse to let go, which can be unintentionally fatal. ",220,200,5000,140,Both,shared
+TRUE,,,Carathorn,Plant,45,,"These strange monsters pretend to be part of the forest. The Carathorn hunts via movement, so remaining calm is the best defense against its long, spiked horn and venomous gaze.",160,60,5000,140,Solar,12
+TRUE,,,Terassus,Plant,46,,"This prehistoric monster survives through the vitality of the forest and the beauty of its flowers. It tramples anyone or anything that threatens its trees and meadows, for the Terassus bears the weight of life.",320,2000,5000,140,Solar,
+TRUE,,,Turtapollen,Plant,47,,"The Turtapollen is a prehistoric monster that erupts with blinding and choking pollen. Its shell is harder than diamond, and it sparkles with the ancient power of the forest.",160,150,5000,140,Both,
+TRUE,,,Vindroll,Plant,48,,"A stealthy, carnivorous plant that appears as a beautiful shrub. It ambushes its prey by unleashing sharp blades of grass in fierce and quick attacks.",140,30,5000,140,Both,
+TRUE,,,Pongo,Plant,49,,"These powerful cyclopic monsters are able to move through the forest unnoticed. They are highly sentient and make tools and weapons with large branches.
+",210,800,5000,140,Lunar,
+TRUE,,,Mancia,Plant,50,,Mancia are usually found hanging down on jungle branches waiting to catch unsuspecting prey with their tentacle like petals,110,100,5000,140,Both,
+TRUE,,,Buzzkill,Plant,51,,"The herculean Buzzkill is a knightly force unto itself, capable of rapid flight, opponents who are shown mercy often only remember a loud buzzing blur before darkness.",180,150,5000,140,Both,
+TRUE,,,Lignicia,Plant,52,,"Lignicia are usually deep in the forests and camouflage so well, they are often not seen or heard, many wonder if they exist at all",175,75,5000,140,Both,
+TRUE,,,Growilla,Plant,53,,"Growillas are territorial like many other primates. Despite their size, they are very agile and will display tremendous speed and strength when threatened. ",185,450,5000,140,Both,
+TRUE,,,Tronk,Plant,54,,"Tronks are feral forest monsters who spend their youths in search of the perfect fighting log. Although not especially blood-thirsty, their competitiveness and athletic vigor often leads to rough housing.",195,120,5000,140,Lunar,
+TRUE,,,Pumelkin,Plant,55,,Pumelkins are aggressive monsters who aspire to compete in hatchy tournaments. They are easily pocketed by worthy Summoners but will fight ferociously against those it deems unworthy.  ,140,90,5000,140,Solar,
+TRUE,,,Shrubasaur,Plant,56,,"Shrubasaurs live in underground burrows and are often found in tall grass. These herbivores can change their skin color and texture to match the environment, even appearing as a leafless tree.",170,150,5000,140,Solar,
+TRUE,,,Rhynocker,Plant,57,,Rhynockers dwell on the edges of forests and defend their territories with devastating charges. These large monsters will roll and lift boulders with their horns to form small caves for their young.,250,3300,5000,140,Both,
+TRUE,,,Behemoth,Plant,58,,"Fast, ferocious, and voracious, a Behemoth is most dangerous when pushed against the ropes. As a last resort, these monsters deploy their powerful stingers and weaken themselves to paralyze their opponents. 
+ paralyze his opponent, although this attack will leave him very weak.",180,80,5000,140,Both,
+TRUE,,,Leaffur,Plant,59,,Leaffurs travel as large families throughout the forest and defend themselves with surprising strength and courage. They are very protective of their Summoners and will often pre-emptively attack a perceived opponent.,150,30,5000,140,Both,
+TRUE,,,Boppelsmash,Plant,60,,The Boppelsmash is an extremely athletic monster that jumps high in the air before crashing downward. Its impact creates small-scale tremors that can disorient its opponents.,165,40,5000,140,Both,
+TRUE,,,Biguana,Plant,61,,"Biguana are agile fighters with powerful tails and fast kicks. Each Biguana develops its own fighting style, making them tough to predict. ",170,90,5000,140,Solar,
+TRUE,,,Kalobber,Plant,62,,"Although it may appear lumbering and soft, a Kalobber eats leaves high up in trees, ready to drop down on unwary intruders.",160,50,5000,140,Lunar,
+TRUE,,,Hadrowhip,Water,63,,Hadrowhips shoot high-pressure water beams that whip across the waves and pierce through sheets of metal.,188,100,5000,140,Both,lunar
+TRUE,,,Psyren,Water,64,,"Psyrens are shy hatchies that usually avoid humans. They are found in small groups on exposed sea rocks, where their singing ironically attracts others to their beautiful sounds. ",176,60,5000,140,Both,5
+TRUE,,,Tentakill,Water,65,,"Usually solitary in nature, a Tentakill has eight venemous tentacles and two strong arms that paralyze and immobilize their prey.",168,43,5000,140,Both,solar
+TRUE,,,Clashsicle,Water,66,,"Able to move quickly through ice sheets and snow drifts, Clashicles channel water energy into sharp spears and projectiles.",175,45,5000,140,Both,6
+TRUE,,,Platasaur,Water,67,,Platasaurs blast powerful streams of bubbles with their mouth that can knock down or incapacitate their opponents.,160,70,5000,140,Both,shared
+TRUE,,,Swordsnout,Water,68,,Swordsnouts pierce through the ocean with their sharp beak-like noses and can swim great distances at top speed without relenting. They are fierce rivals against Sharakusii.,190,95,5000,140,Solar,12
+TRUE,,,Ramsplash,Water,69,,Ramsplashies gather enough speed and power to launch their target high enough into the air that the surface tension feels like concrete.,175,74,5000,140,Both,
+TRUE,,,Jabberwelt,Water,70,,"Jabberwelts are strange Hatchies, known to perform dance-like rituals, punching exhibitions, and rap battles to impress trainers they admire and mates they desire.",188,88,5000,140,Both,
+TRUE,,,Crocodiver,Water,71,,"Silent stalkers of rivers and shores, a Crocodiver will sometimes wait patiently among the green shallows for many days before striking.",182,105,5000,140,Lunar,
+TRUE,,,Hydroslam,Water,72,,"Sometimes called ""River Horses Plus,"" Hydroslams are not as cute and cuddly as they may appear. In fact, they are powerful waterwalkers, whose body slams splash even large ships from the water.",190,2500,5000,140,Lunar,
+TRUE,,,Tidalhorse,Water,73,,"Although shy and aloof, a loyal Tidalhorse serves as a tremendous water steed and life-long friend. Many Tidalhorses outlive their trainers and become part of the family.",270,3100,5000,140,Lunar,
+TRUE,,,Magentic,Water,74,,"Fiercely loyal and regal to the core, Magentics display both chivalry and style when they fight. Honor, Courage, Might. These are their oaths.",195,110,5000,140,Solar,
+TRUE,,,Malclam,Water,75,,Malclams shoot powerful beams of light that penetrate the dark and heavy deeps. They emerge from the deeps only to recharge in the sunlight of the Sky Egg.,185,220,5000,140,Solar,
+TRUE,,,Frosloth,Water,76,,Frosloths are powerful creatures that burrow deep into the permafrost to hibernate. It is never recommended to interrupt their slumber.,202,240,5000,140,Both,
+TRUE,,,Arcticlaw,Water,77,,The howling of Arcticlaws can be heard in the evening and ealy morning hours. They move and hunt in large and highly-organized packs.,210,140,5000,140,Lunar,
+TRUE,,,Painguin,Water,78,,"The sharp head-feathers of a Painguin can slice through any surface. Although voracious in the water, it is rather awkward and clumsy on dry land. With the right amount of fresh fish, they are easy to tame and train.",160,90,5000,140,Solar,
+TRUE,,,Krabsmack,Water,79,,"A Krabsmack can exert enough pressure with its powerful claws to snap even the toughest prey in half. What is more, it uses sensitive antennae to predict incoming attacks.",195,80,5000,140,Both,
+TRUE,,,Snowsquatch,Water,80,,Snowsquatches are known for wielding snowballs with incredible force. They are believed to cause avalanches.,230,450,5000,140,Both,
+TRUE,,,Riptyde,Water,81,,"Once drawn into combat, there is no escape from a Riptyde. Their massive arms and powerful forms crush and drown all those who swim in their way.",205,250,5000,140,Both,
+TRUE,,,Eelectra,Water,82,,"Eelectras are shockingly potent and surprisingly slippery in combat. When in water, their bolts of electricity are magnified and projected for a great distance.",160,40,5000,140,Solar,
+TRUE,,,Anchorvie,Water,83,,"Though seldom seen above the surface, Anchorvies inspired humans to craft shipweights called anchors.",190,94,5000,140,Both,
+TRUE,,,Speartle,Water,84,,"Speartles live in large, war-like communities that migrate throughout the seasons via underwater rivers. When a Spurtle evolves into a Speartle, it uses its indestructible shell as a round shield.",203,105,5000,140,Solar,
+TRUE,,,Coreeko,Water,85,,"Coreekos may appear like colorful plants in shallows and reefs, but they become fierce fighters when nibbled on by larger fish and water Hatchies.",155,88,5000,140,Lunar,
+TRUE,,,Lunamander,Fire,86,,"A distant cousin of the Solamander, the Lunamander is a nocturnal hunter of large insects. It is highly resistant to venoms and poisons of both plants and creatures.",180,220,5000,140,Lunar,lunar
+TRUE,,,Minotorch,Fire,87,,Large herds of Minotorches can be found on the lava fields and magmatic plains near firebergs. Their blazing stampedes can be felt for miles all around.,185,95,5000,140,Both,5
+TRUE,,,Scythepaw,Fire,88,,"Fast, agile, and ferocious, Scythepaws strike and slash from every direction and angle in combat. When they are not sleeping, they are reaping.",178,78,5000,140,Solar,solar
+TRUE,,,Butterflame,Fire,89,,"Related to Fireflies, the Butterflame is an elusive creature that lives within volcanoes and floats from fireflowers to magmapies.",111,35,5000,140,Both,5
+TRUE,,,Asheater,Fire,90,,"Contrary to popular belief, Asheaters do not eat burnt wood, but rather consume red ants, fire ants, and magmants in their ashen burrows.",120,43,5000,140,Both,shared
+TRUE,,,Embird,Fire,91,,"Embirds spend much of their lives both finding and collecting new logs for their nests, which always burn down in short time. ",150,37,5000,140,Both,13
+TRUE,,,Candlekin,Fire,92,,Candlekins are fiery little Hatchies who burn brighter as they get angrier.,175,55,5000,140,Both,
+TRUE,,,Charbeast,Fire,93,,"Powerful and wise, a Charbeast spends much of its time in meditation and thought. They dwell in caves on the sides of volcanoes.",180,125,5000,140,Both,
+TRUE,,,Taurrid,Fire,94,,Taurrids are solitary creatures in the wild. Even their own reflection makes them boil with red rage.,210,160,5000,140,Lunar,
+TRUE,,,Brunner,Fire,95,,"They burn when they run, and they run when they burn. Therefore, they never stop brunning.",120,45,5000,140,Lunar,
+TRUE,,,Flaemu,Fire,96,,"Flaemus are fast and noisy Hatchies who scorch the ground when they run. Although flightless, their feathers burn so hot that they must flap them continually.",192,70,5000,140,Both,
+TRUE,,,Firazel,Fire,97,,The favorite activity of Firazels includes hiking to the top of a volcano and bellyflopping into the magma far below.,179,77,5000,140,Both,
+TRUE,,,Emberslash,Fire,98,,"Do not approach an Emberslash during heat. In other words, never approach an Emberslash in the wild.",165,58,5000,140,Solar,
+TRUE,,,Blasthopper,Fire,99,,Rule #35 in Hatchy World: There is never just one Blasthopper. ,170,62,5000,140,Both,
+TRUE,,,Kungferno,Fire,100,,A Kungferno begins its training as a Hatchling and does not stop until it has mastered the arts of Karhoty.,150,55,5000,140,Lunar,
+TRUE,,,Pyren,Fire,101,,The pious priests called Pyrens dance on the tumultuous magmatic waves of inner volcanoes. ,162,65,5000,140,Both,
+TRUE,,,Flamane,Fire,102,,"Sometimes referred to as ""maneiacs,"" the Flamane is a short but hot-tempered Hatchy with surprisingly agility and acrobatic abilities.",145,45,5000,140,Solar,
+TRUE,,,Hotweiler,Fire,103,,"Hotweilers in the wild may be ferocious and untrusting, but they are fiercely loyal and protective of their beloved trainers.",192,165,5000,140,Both,
+TRUE,,,Bunsin,Fire,104,,"Few things burn hotter than a Bunsin, for which reason they are used to ignite large bunfires.",211,480,5000,140,Both,
+TRUE,,,Magmadon,Fire,105,,The Magmadon is one of the most feared wild Hatchies on the sides of volcanoes. They use their heads to smash and their large legs to stomp any intruder.,280,2200,5000,140,Solar,
+TRUE,,,Firret,Fire,106,,Firrets are pesky Hatchies that steal food from unwary travelers. They travel in groups and use distraction tactics.,80,30,5000,140,Both,
+TRUE,,,Incineraptor,Fire,107,,"Incineraptors travel in large packs, working together to bring down large prey. Not even dragons are considered too dangerous for these hellish Hatchies to torment.",200,90,5000,140,Solar,
+TRUE,,,Warmanger,Fire,108,,The fireptiles called Warmangers are hot-blooded and hotter tempered. It is difficult to distinguish their angry hissing from the escaping gases of magma.,350,78,5000,140,Lunar,
+TRUE,,,Diamoxius,Dark,109,,The large horn of the Diamoxius strikes fear and death into all who disturb its darkness.,340,80,5000,140,Lunar,lunar
+TRUE,,,Lucifell,Dark,110,,"Once the brightest of Hatchies in the world, the Lucifellae lost their light and cast themselves into the shadows of the deeps.",176,66,5000,140,Lunar,14
+TRUE,,,Doomcade,Dark,111,,"Once every ten years, the Doomcadae awaken from their slumbers in the forest and emerge in dark swarms that choke the sunlight of the Sky Egg.",160,60,5000,140,Lunar,solar
+TRUE,,,Shadarkan,Dark,112,,"Shadarkans are mysterious Hatchies with unclear ambitions. They enjoy riddles, tongue twisters, and obscure prophecies.",176,62,5000,140,Lunar,0
+TRUE,,,Noxi,Dark,113,,"When Noxii gather, their plumes of toxic gas become insurmountable and devastating. Even the most viruelent creatures avoid these noxious gatherings.",165,5,5000,140,Lunar,shared
+TRUE,,,Toadeth,Dark,114,,"The slimy skin of a Toadeth is so poisonous that it inspired the vow: ""Toadeth do us part.""",182,88,5000,140,Lunar,0
+TRUE,,,Dreamphibian,Dark,115,,The Dreamphibian uses sound and movement to hypnotize its prey into a trance like state.,169,61,5000,140,Lunar,
+TRUE,,,Murcial,Dark,116,,Murcials are fast and use deadly poisons they gather and trade amongst each other,170,48,5000,140,Lunar,
+TRUE,,,Leechblight,Dark,117,,"Leechblights are dangerous and should be avoided in the wild. When they latch onto prey, they suck the strength from their forms until pale and weak.",184,85,5000,140,Lunar,
+TRUE,,,Hypnoshade,Dark,118,,Hypnoshades are devious tricksters that play tricks on people for sheer amusement. It's all fun and games as long as someone loses an eye.,140,30,5000,140,Lunar,
+TRUE,,,Toxiloris,Dark,119,,A Toxiloris will use its large tail to launch itself on a target. A single sting from the toxic barbs on its horn causes painful paralysis and short breath.,150,55,5000,140,Lunar,
+TRUE,,,Bristlebain,Dark,120,,Bristlebains camouflage themselves like stones in the shade. Stepping on one of their spikes is the last wrong-step that a traveler can make.,174,65,5000,140,Lunar,
+TRUE,,,Abydon,Dark,121,,Abydons disappear into shadows and stalk their prey as silently as death itself.,310,130,5000,140,Lunar,
+TRUE,,,Doomhopper,Dark,122,,A herd of Doomhoppers is called a storm because they sound like rolling thunder across the horizon.,200,200,5000,140,Lunar,
+TRUE,,,Loprogard,Light,123,,These guardians are found near the Temple of Light. Loprogards are able to sense the intentions of those who approach them.,222,9999,5000,140,Solar,lunar
+TRUE,,,Dawnclaw,Light,124,,"Rising early to hunt in the twilight, a Dawnclaw cuts through the undergrowth with its razor sharp nails.",190,67,5000,140,Solar,0
+TRUE,,,Pixelite,Light,125,,"Pixelites spend their evenings in tall grasses and wide meadows, where they glow in fluttering dance.",170,53,5000,140,Solar,solar
+TRUE,,,Raydon,Light,126,,The slashing claws of a Raydon are as piercing as morning light and twice as blinding.,185,70,5000,140,Solar,14
+TRUE,,,Blitzard,Light,127,,Blitzards are lightning-fast Hatchies that use their powerful tails to propel themselves away from danger or towards a meal.,210,350,5000,140,Solar,shared
+TRUE,,,Knightlight,Light,128,,Knightlights are fierce warriors who belong to fraternal orders. Their code demands a lifetime of sacrifice against chaos.,202,74,5000,140,Solar,0
+TRUE,,,Flutterflight,Light,129,,Flutterflights are gentle and lovable Hatchies that dwell in flowerfields and grasslands. They are a favorite household friend of humans in Hatchy World.,120,33,5000,140,Solar,
+TRUE,,,Briteling,Light,130,,"Considered to be extremely lucky, Britelings are sought out by humans because a simple look in their direction brings two weeks good fortune.",140,45,5000,140,Solar,
+TRUE,,,Pharoclops,Light,131,,Pharaclops are solitary Hatchies who practice the powerful arts of the third-eye. They see what most others cannot.,170,80,5000,140,Solar,
+TRUE,,,Owluminate,Light,132,,"Owluminates are nocturnal creatures that can dim themselves while hunting. Once their prey is caught, however, they glow brightly to warn away other would-be scavengers.",150,50,5000,140,Solar,
+TRUE,,,Gaeltus,Light,133,,Its bronze beak and razor sharp talons make the Gaeltus a fearsome predator in the skies. Gaeltus feathers are so sharply thin that chefs use them for kitchen knives.,210,60,5000,140,Solar,
+TRUE,,,Seraphump,Light,134,,Seraphumps are slow-moving and sedentary in nature. Only when hungry do they move with a sense of urgency.,320,2800,5000,140,Solar,
+TRUE,,,Airsupial,Light,135,,Airsupials are so light in body and mind that clouds form underneath and carry them across the vaults of the sky.,160,70,5000,140,Solar,
+TRUE,,,Skyren,Light,136,,"Like their elemental cousins, the Skyrens are powerful conjurers of the energies that fill each domain.",183,65,5000,140,Solar,
+TRUE,,,Tarragonus,Plant,137,,"Believed to have been created by the primordial demigods of the Plant Hatchies, a Tarragonus can summon a forest at will.",3000,5000,0,140,Both,lunar
+TRUE,,,Frostvern,Water,138,,"Wherever a Frostvern chooses to nest, the land experiences a perpetual winter without growth.",3000,5000,0,140,Both,1
+TRUE,,,Firadra,Fire,139,,"Firadra are believed to live deep in the world's core, sleeping in the molten seas of rock.",3000,5000,0,140,Both,solar
+TRUE,,,Blasilisk,Dark,140,,Blasilisk horns are equipped with deadly poisons and acids that can eat through any material known to man.,3000,5000,0,140,Lunar,1
+TRUE,,,Lucirrus,Light,141,,Luccirrus unleashes powerful beams of light from its mouth that carve mountain ranges into valleys and plains.,3000,5000,0,140,Solar,shared
+TRUE,1011010,,Negato,Void,142,,The Void Spirit created the race of Negatos with special intent and gifted them the ability to bend space and time.,3000,5000,0,140,Both,4
+,fix desc,,,,,fix h w,,,shared,lunar,solar,,
+,0,,,,,0,,,43,32,32,,
+,,,,,,,,egg unique,egg shared,total each egg,total collection,,
+,,,,,,,,32,43,75,107,,
+,,,,,,,,,40.19%,29.91%,29.91%,,

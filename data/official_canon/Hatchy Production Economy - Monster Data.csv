@@ -1,0 +1,41 @@
+Name,Element,Monster ID,Image,sound,Description,Height,Weight
+Celestion,Void,0,celestion.gif,celestion.wav,"Celestion rarely appears from the void, their wings emit a strange energy and can evaporate objects that get too close",300,9999
+Solarion,Plant,1,solarion.gif,solarion.wav,"Self sufficient and able to produce their own light, Solarion often live in solidarity",180,450
+Mangris,Plant,2,mangris.gif,mangris.wav,Mangris are able to confuse prey with their floral crest to approach near enough to grab them with their deadly pincirs,60,20
+Sporeleon,Plant,3,sporeleon.gif,sporeleon.wav,"Able to traverse up tall trees, Sporeleon are often found perched high in the canopy",100,35
+Bazub,Plant,4,bazub.gif,bazub.wav,"Bazub swarms are deadly and destructive, a swarm can destroy an entire crop in minutes",30,5
+Bolbon,Plant,5,bolbon.gif,bolbon.wav,"Bolbon can sometimes be inactive for so long, that moss, shrubs or even small trees can grow on them",200,2000
+Nocterra,Plant,6,nocterra.gif,nocterra.wav,Nocterra can spread halucinogenic pollen which can severely disorient travellers,80,100
+Lycospore,Plant,7,lycospore.gif,lycospore.wav,Each of Lycospores billions of spores is potent enough to immobilise an attacker for upto several hours,60,120
+Florean,Plant,8,florean.gif,florean.wav,"Florean vines are extremely durable, they can root themselves to the ground and become immovable",210,90
+Koranok,Plant,9,koranok.gif,koranok.wav,Koranok claws are able to burrow through bedrock to nest,350,1400
+Sharakus,Water,10,sharakus.gif,sharakus.wav,Sharakus are able to generate enough power while swimming to cause waves several hundred metres overhead,220,200
+Sujin,Water,11,sujin.gif,sujin.wav,Sujin are mischevious tricksters that are able to shape their watery bodies at will to mimic anything they have already seen,180,1
+Leviathan,Water,12,leviathan.gif,leviathan.wav,Leviathan usually drift through the deep ocean,410,800
+Seaqueen,Water,13,seaqueen.gif,seaqueen.wav,Seaqueen horns are coated with a powerful toxin that can potentially paralyze a target or attacker for several days,60,40
+Naga,Water,14,naga.gif,naga.wav,The Naga have a powerful muscular body allowing them to manoeuvre underwater with ease ,160,60
+Mermos,Water,15,mermos.gif,mermos.wav,"Despite not having bones, each tentacle on a Mermos is capable of crushing small rocks",220,180
+Glacioise,Water,16,glacioise.gif,glacioise.wav,The icey shards on the back of Glacioise move around so slowly that its often mistaken as a solid,80,250
+Antarcticus,Water,17,antarcticus.gif,antarcticus.wav,The wings of an Antarcticus emit a cold that can cause saturated clouds to erupt in snow when passed,100,30
+Woover,Water,18,woover.gif,woover.wav,Woovers travel in packs and able to chase down prey over extremely long distances,180,60
+Lavekans,Fire,19,lavekans.gif,lavekans.wav,"Lavekans increase their elemental power when they are on firey ground, and often coil themselves up during combat to amplify that effect",520,640
+Calidus,Fire,20,calidus.gif,calidus.wav,When Calidus sense a threat they can start to burn hot enough to emit waves capable of burning steel from several metres away,250,4500
+Magmus,Fire,21,magmus.gif,magmus.wav,Magmus ooze a trail of lava as they move that can continue burning for several hours,220,550
+Chargoyle,Fire,22,chargoyle.gif,chargoyle.wav,"Chargoyles usually nest in groups and are easily startled, often erupting their manes simultaneously at any perceived threat",160,80
+Firadactus,Fire,23,firadactus.gif,firadactus.wav,"Firadactus use hot air under their wings to aid their flight, allowing them to soar for many days without needing to rest",230,250
+Ignis,Fire,24,ignis.gif,ignis.wav,When harmed Ignis emit a strong odour that alerts its hive of attackers,60,10
+Blazeo,Fire,25,blazeo.gif,blazeo.wav,"If threatened, Blazeo fans out its burning tail to shield itself from attacks",140,25
+Pheonix,Fire,26,pheonix.gif,pheonix.wav,"When Pheonix shed feathers, they can continue to burn unaided for many years, even underwater",150,45
+Flamus,Fire,27,flamus.gif,flamus.wav,Flamus can burn hot enough to melt the ground they stand on,170,25
+Goblen,Dark,28,goblen.gif,goblen.wav,"Goblens are social and work in groups, they can effectively communicate with eachother over long distances using their flames",155,60
+Depedus,Dark,29,depedus.gif,depedus.wav,"Depedus use earthquakes to form their complex tunnel networks, recorded in some areas at depths below the earths crust",320,250
+Darthys,Dark,30,darthys.gif,darthys.wav,"If something is killed nearby a Darthys, their soul may be sucked into the crystal on their back and trapped forever",130,210
+Wraith,Dark,31,wraith.gif,wraith.wav,Wraith claws are harder than diamonds and can easily cut through steel,150,60
+Wanderer,Dark,32,wanderer.gif,wanderer.wav,"Wanderers are said to be powerful warrior spirits, traveling the world, still searching for a worthy opponent",180,80
+Baphomet,Dark,33,baphomet.gif,baphomet.wav,The Baphomet are highly deceptive shapeshifters that once commited may maintain a disguise for a whole human lifetime,270,160
+Sentinel,Light,34,sentinel.gif,sentinel.wav,"Because they have no desires of their own, a Sentinel can stay alert in guard position indefinitely",333,3333
+Elkar,Light,35,elkar.gif,elkar.wav,The glowing golden antlers of the Elkar are so dense they can charge through diamond boulders,150,60
+Lumenicia,Light,36,lumenicia.gif,lumenicia.wav,"Highly sensitive, Lumenicia are able to communicate with light",180,1
+Gryphon,Light,37,gryphon.gif,gryphon.wav,Gryphon can whip their tail to send a shockwave capable cutting through boulders from upto 20 metres away,380,770
+Pegasus,Light,38,pegasus.gif,pegasus.wav,"Pegasus gallop through the sky at such a speed and shine so bright, that they are often mistaken for shooting stars",420,600
+Templar,Light,39,templar.gif,templar.wav,Templar wings are incredibly powerful allowing them to dart through the air and stop or take off immediately,270,160

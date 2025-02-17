@@ -1,0 +1,6 @@
+# Add to existing Eliza requirements
+langchain==0.1.14
+langchain-community==0.0.28
+aptos-sdk==3.1.0
+hatchyverse-models==0.9.2  # Your custom models
+political-lore-validator==1.0.0  # Conflict detection 

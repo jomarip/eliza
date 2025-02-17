@@ -1,0 +1,41 @@
+Name,Element,Description,Image,sound,Monster ID,Height,Weight
+Celestion,Void,"Celestions rarely appear from the void. Their wings emit a strange energy, which absorbs objects that get too close.",celestion.gif,celestion.wav,0,300,9999
+Solarion,Plant,"Self sufficient and able to produce their own light, Solarions often live in solidarity",solarion.gif,solarion.wav,1,180,450
+Mangris,Plant,"A Mangris will confuse its prey with floral appendages. Once it is near, its saw-like front legs strike at the speed of sound.",mangris.gif,mangris.wav,2,60,20
+Sporeleon,Plant,"Sporeleons are often found perched high in the forest canopy, waiting for an unsuspecting meal to pass underneath.",sporeleon.gif,sporeleon.wav,3,100,35
+Bazub,Plant,Bazub swarms are both deadly and destructive and can destroy entire croplands in mere minutes,bazub.gif,bazub.wav,4,30,5
+Bolbon,Plant,"A Bolbon can be inactive for so long that moss, shrubs, or even small trees grow on their backs and limbs.",bolbon.gif,bolbon.wav,5,200,2000
+Nocterra,Plant,Nocterra spread halucinogenic pollens which can severely disorient travellers and predators.,nocterra.gif,nocterra.wav,6,80,100
+Lycospore,Plant,Lycospores release clouds of fine particles that shut down the immune systems of other living things.,lycospore.gif,lycospore.wav,7,60,120
+Florean,Plant,"Floreans root themselves to the ground and become immovable objects. Their vines are stronger than threaded steel, and often it is easier to move the earth itself.",florean.gif,florean.wav,8,210,90
+Koranok,Plant,"Koranok claws are powerful enough to burrow through permafrost and bedrock, where they build their nests in warm safety.",koranok.gif,koranok.wav,9,350,1400
+Sharakus,Water,"While swimming at full speed, a Sharakus generates enough energy to cause fifty-meter swells.",sharakus.gif,sharakus.wav,10,220,200
+Sujin,Water,Sujin are mischevious tricksters that are able to shape their watery bodies at will to mimic anything they have already seen,sujin.gif,sujin.wav,11,180,1
+Leviathan,Water,"Leviathans usually drift throughout the dark abyss, their maws held open like black holes in the sea.",leviathan.gif,leviathan.wav,12,410,800
+Seaqueen,Water,The horns of Seaqueens are coated with a powerful toxin that can potentially paralyze a target or attacker for several days--if they survive the blow.,seaqueen.gif,seaqueen.wav,13,60,40
+Naga,Water,"The Nagae have powerful, muscular bodies that enable them to manoeuvre swiftly and easily through water.",naga.gif,naga.wav,14,160,60
+Mermos,Water,"Despite not having bones, each tentacle on a Mermos is capable of crushing a rock to beach sand.",mermos.gif,mermos.wav,15,220,180
+Glacioise,Water,Glacioises move so slowly that they are often mistaken for part of the glaciar.,glacioise.gif,glacioise.wav,16,80,250
+Antarcticus,Water,The wings of an Antarcticus emit a cold wind that cause dense clouds to erupt in snow.,antarcticus.gif,antarcticus.wav,17,100,30
+Woover,Water,"Woovers travel in packs and chase down their prey over extremely long distances, or work together to set ambushes and traps.",woover.gif,woover.wav,18,180,60
+Lavekans,Fire,"Lavekans increase their elemental power when they are on firey ground, and often coil themselves up during combat to amplify that effect",lavekans.gif,lavekans.wav,19,520,640
+Calidus,Fire,"When a Calidus senses a threat, it begins to burn white hot and emits heatwaves that melt swords and char spears to black.",calidus.gif,calidus.wav,20,250,4500
+Magmus,Fire,"Magmusii ooze a trail of lava wherever they go, which remains hot for many hours before cooling. This makes them easy to track in the wild--and even easier in cities.",magmus.gif,magmus.wav,21,220,550
+Chargoyle,Fire,"Chargoyles usually nest in groups on the sides of volcanoes. Easily startled, their manes erupt with flames in sychronicity as they take wing.",chargoyle.gif,chargoyle.wav,22,160,80
+Firadactus,Fire,"A Firadactus heats the air under its wings to aid its flight, allowing it to soar for many days without rest.",firadactus.gif,firadactus.wav,23,230,250
+Ignis,Fire,"When harmed or threatened, a Ignis emits a strong odor that alerts its hive to the presence of invaders. Soon, there are many buzzing flames and red hot stingers.",ignis.gif,ignis.wav,24,60,10
+Blazeo,Fire,"If threatened, Blazeos fan out their burning tails to shield themselves from attacks and obscure their image.",blazeo.gif,blazeo.wav,25,140,25
+Phoenix,Fire,"When a Phoenix sheds its feathers, the discarded plumage continues to burn until the end of its cycle, even if placed underwater.",pheonix.gif,pheonix.wav,26,150,45
+Flamus,Fire,"A Flamus must always be on the move, lest it melts the ground it stands upon.",flamus.gif,flamus.wav,27,170,25
+Goblen,Dark,"Goblens are social creatures that work in large groups. Although small, their voices carry over heat and can extend many miles in the right conditions.",goblen.gif,goblen.wav,28,155,60
+Depedus,Dark,"Depedusae cause small earthquakes as they build their complex tunnel networks. They are believed to live at the bottom of the world's crust in perpetual heat, pressure, and darkness.",depedus.gif,depedus.wav,29,320,250
+Darthys,Dark,"Whenever something dies near a Darthys, its soul risks being trapped in the crystal on the Darthys' back forever.",darthys.gif,darthys.wav,30,130,210
+Wraith,Dark,"The claws of Wraiths are massive and terrifying, but their slash is the legend of stories, which put kids to bed in fear.",wraith.gif,wraith.wav,31,150,60
+Wanderer,Dark,Wanderers are said to be powerful warrior spirits that travel the world in desperate search for a worthy opponent.,wanderer.gif,wanderer.wav,32,180,80
+Baphomet,Dark,"Baphomets are highly deceptive shapeshifters that commit to their disguises at great lengths, sometimes posing as another being for a full lifetime.",baphomet.gif,baphomet.wav,33,270,160
+Sentinel,Light,"Because they have no desires of their own, Sentinels stand guard at attention indefinitely. They are the perfect soldiers.",sentinel.gif,sentinel.wav,34,333,3333
+Elkar,Light,The glowing gold antlers of Elkari are used for mating rituals and courtship combat. Elkari are sometimes found to be training against large boulders and can turn a mountainside to rubble.,elkar.gif,elkar.wav,35,150,60
+Lumenicia,Light,"Highly sensitive to the world and its vibrations, Lumeniciae communicate through photons of light.",lumenicia.gif,lumenicia.wav,36,180,1
+Gryphon,Light,Gryphons whip their tails to send shockwaves of air that stun and shatter with sound on impact.,gryphon.gif,gryphon.wav,37,380,770
+Pegasus,Light,"Pegasusies gallop through the night sky, wherefore they are commonly mistaken for falling stars.",pegasus.gif,pegasus.wav,38,420,600
+Templar,Light,Templars have powerful wings that allow for sudden take-off and blurring flight. They cannot be caught--only trapped and befriended.,templar.gif,templar.wav,39,270,160

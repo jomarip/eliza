@@ -1,0 +1,950 @@
+ID(deprecated),Gender,Armor Image,File Name,link,Name,Rarity,Description,effects,Story Notes,Type,Class,main slot,Job,II,Slot 1,Slot 2
+-,M,,Arcanium Rune,https://drive.google.com/uc?export=view&id=1sxAcA6i2LHIwIF-wiTEIgRSDUPWkPZGQ,Arcanium Rune,epic,Clothing worn by nobility when attending events. it uses runes to store artifacts or magic cards secretly,,nobility,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Arcane Raiment,https://drive.google.com/uc?export=view&id=1vX-pyORLyKdGeWlj8h3m9LpuP4OTZ6my,Arcane Raiment,epic,"Arcane Raiment is often used by wizard who want greater access to magic energy. Using this outfit, a wizard will gain greater power than usual. However, it should be noted, that without his Arcane necklace, his powers would not have appeared.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Aegis Exosuit,https://drive.google.com/uc?export=view&id=1RhM_iBvP6_O1qmmJmVtbqClkcJ4dn00M,Aegis Exosuit,rare,A Robe made of special silk that can store light energy. provides resistance to dark element,provides resistance to dark element,Light silk robe,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Venomous Alchemist,https://drive.google.com/uc?export=view&id=18VmsXvMGGvgnfZsBSMFoMyxhZZq4DAw3,Venomous Alchemist,common,"A garment donned by alchemists specializing in poisons, this armor can be infused with resistance potions, rendering the wearer immune to venom.",,"poison, dark",BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Sterling Omnibus,https://drive.google.com/uc?export=view&id=1yLkih6SBgXVHzZTo8KvQPY9-x5IlSv-S,Sterling Omnibus,epic,The attire worn in the central bank of Ixor. it has many hidden pockets,,Ixor bank,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Warden Valkryie,https://drive.google.com/uc?export=view&id=1B53tTn_rayVgUwh5gbM5Hfvd_Y8htj0t,Warden Valkryie,legendary,"Although in ancient tales, Valkyries were a race consisting only of females, this concept has changed with the embodiment of Valkyrie spirit in the Warden Valkyrie attire. Only males are allowed to wear this garment, and they are the ones responsible for guarding the prison.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,The Pillar Of Domari,https://drive.google.com/uc?export=view&id=1CWbitrk5NlYw2FAIghBn43z-x3uD8f5P,The Pillar Of Domari,epic,Specialized armor of the Domari Ice Guard. Imbued with special runes that increase Ice Magic,particularly effective when combined with ice-type magic cards,"The guards of the Primary Temple in the city of Domari believe that dragons are not extinct. That's why they wear clothing with dragon symbols on the front, hoping that the dragons will rise again.",BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Protection of the Vulture,https://drive.google.com/uc?export=view&id=1oenB_x8kJ3TZP18RmrBlkKaOEr_Cn8Oq,Swiftwing Protector,epic,"The ""Swiftwing"" is worn by warriors who prioritize speed and mobility for aggressive fighting styles. It is often worn by fearless heroes who are unafraid to confront death.",increased speed,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Gevax Lodestone,https://drive.google.com/uc?export=view&id=1SawAlPhl9Fnjuh86SM07b4nOwEbw5nNw,Gevax Lodestone,epic,"Unique armor made primarily from magnets, but its main ability is to repel all attacks made of iron. Ordinary swords will be unable to harm the wearer of this armor, as if there is a powerful energy field that cannot be touched.",resistance against basic element,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Vanqhuiser Guardian,https://drive.google.com/uc?export=view&id=1p0ENIoOsaCNcXsnlnA7z9Jd_bH_Loa2P,Vanquisher Guardian,legendary,The armor worn by the leader of the Hydar Kingdom's army.,,leader of Hydar kingdom Army - General,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Vovelgoth,https://drive.google.com/uc?export=view&id=1vlunN0Jz8qJpKDCOQPNrwOMCF8YGs3yN,Vovelgoth,rare,The armor worn by the warriors in the country of Akwar.,,Warriors of Akwar,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Flutterflight Skin Exosuit,https://drive.google.com/uc?export=view&id=1PbhW3D9GrPY6diEy7KoD7-I1ijOZcbDv,Flutterflight Skin Exosuit,epic,"Clothing inspired by Hatchy Flutterflight, as it provides warmth around the neck area. Despite being named Flutterflight, none of the materials are sourced from there. It is a garment reserved exclusively for individuals of high social status.",,flutterflight skin,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Glacier Platemail,https://drive.google.com/uc?export=view&id=1NcpvjhWMGzrbq2rQYk3MjrwW3d_nIQAs,Nebula Plate,legendary,"Unbelievably light yet durable, its made from an unknown material, not from this world",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Ashen Oak Vestments,https://drive.google.com/uc?export=view&id=17CD33jVRfL8vCzbdZ0z87Gnb2SS4E9f9,Ashen Oak Vestments,epic,The armor worn by the lower-ranking members of The Order. ,,"The Order
+-This armor is not very visible because members of The Order typically cover their bodies with long hooded cloaks.",BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Azure Battlegear,https://drive.google.com/uc?export=view&id=1jhDX6eUxsk1DHd6CVWi5zh7ikAkHS-vt,Azure Battlegear,epic,"Armor that can be infused with Water-Elemental Crystals, making it a special ""weapon"" during battles. Often worn by Elite Water Knights.",Increased water elemental,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Akki Armor,https://drive.google.com/uc?export=view&id=179UjppzUU3itl6hrZx8aKA-33k0ozyyV,Akki Armor,epic,An armor capable of minimizing damage inflicted by the Void element.,Minimizes damage inflicted by Void-element attacks.,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Merimora Plate,https://drive.google.com/uc?export=view&id=13J818iW9QNXJvjjvkJM2zbc0T3u-5-T1,Trainee's Plate,common,common training garment imbued with its own sensing crystal on the chest that flickers when the wearer runs out of Mana.,,Often used by archers who heavily rely on enchanted arrows rather than using regular arrows.,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Arunthundra,https://drive.google.com/uc?export=view&id=11kzP-FBGWCp5f0HLz4kEIbshaYIw_ROb,Nimbus Nighthawk Armor,epic,A stylish armor made from the claws of Hatchies of all elements. It pairs perfectly with weapons capable of harnessing the power of wind. It doubles the damage for any weapon with wind magic.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Emberstorm Armor,https://drive.google.com/uc?export=view&id=1cRJS7CAjJVcF4KDXyd6KnlO5f6F11miS,Emberstorm Armor,rare,Neutral armor designed to diminish the impact of attacks from all elemental types. Perfect for hunting Hatchies of any element.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Gazutral Cuirass,https://drive.google.com/uc?export=view&id=1h9IhghEG6Im3aV1jk8KgoZpCYjU9El1U,Britium Cuirass,epic,"Armor crafted from Britium for its lightness and durability, the wearer's body feels as if they're not wearing heavy armor and can move gracefully as if unburdened",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Iron Legion Armor,https://drive.google.com/uc?export=view&id=1vkr129eFm2GZ9353dZ_4bJT2mQdltj7M,Iron Legion Guard,common,Basic starter armor commonly used by novice warriors. Also worn by warriors on a tight budget,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Lepirox Valor,https://drive.google.com/uc?export=view&id=1vDamKW-3NpFc5fcJdRRRoMp7pjAqopQ8,Lepirox Valor,rare,"Crafted not for battle, but for healing, this armor is worn by dedicated medical personnel to fend off ailments spread by the ailing Hatchies. Enchanted with protective wards, it creates a barrier against diseases that seek to leap from the sickly Hatchies to their human caretakers.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Radiance Astral,https://drive.google.com/uc?export=view&id=1zBi-ZqHCnkHYDfPKANKnIJN3bg3nwmrZ,Radiance Astral,epic,The armor worn by female witch employees at the Union of Wizard Associations office. It is capable of enhancing all magical attacks with all elements.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Seraphic Valor,https://drive.google.com/uc?export=view&id=1KLkMLY80fhEX1ypjxHzJlwLZ8Vxj0ehV,Seraphic Valor,epic,The armor worn by female knight employees at the Union of Knight Associations office. It has the ability to enhance all physical attacks and minimize the impact of attacks from magic of all elements.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Wyrmfire Battlegear,https://drive.google.com/uc?export=view&id=1pBBIvhSlide1q3qNCdFxJ8vgbQQfWS6D,Wyrmfire Battlegear,epic,Fire-elemental armor crafted through an extreme process. It is made by being placed in a special container and immersed in volcanic lava for several days. Only artisans with special certification are capable of creating it.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Trinket Swagger,https://drive.google.com/uc?export=view&id=1NxJf9dM6dy_CqNRuZido1m4HmD3aMS8T,Trinket Swagger,legendary,"Trinket Swagger is an armor whose name is the result of a nickname given by the inhabitants of Artaria. There is only one in the world, and it can only be owned and used by the Queen of the Kingdom of Artaria. It has three slots to store magic cards.",,Queen of the Kingdom of Artaria,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Heart of the Volcano,https://drive.google.com/uc?export=view&id=1iVlbt_7t-vcpN96zBQGaHXFHRmgZ92G9,Heart of the Volcano,legendary,"""Heart of the Volcano"" is an extremely rare armor that, in legend, is said to only appear if someone manages to conquer the guardian of the Fire Temple. In the records of the modern era, no one is said to possess it. However, in the historical records of the ancient era, this armor was owned by someone.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Talily,https://drive.google.com/uc?export=view&id=1dKD3F1tHyncrM3aBW55O_1vDnFHLBf2-,Talily,common,The armor worn by female priest employees at the Union of Priest Associations office. It has the ability to regenerate its wearer and can minimize the effects of dark magic.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Red Draconic Armor,https://drive.google.com/uc?export=view&id=1g9MB3fu70WZ1sORtKmdcdMvBAhGoO5fW,Red Draconic Armor,legendary,"Specialized armor designed for the members of the Chambra Temple. This armor assists in activating the seven dormant chakras within the human body, allowing the wearer to unleash a hidden power known as Tongenkyo.",,Chambra Temple,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Molten Haqoro,https://drive.google.com/uc?export=view&id=1nkLGVIaIfRDwIqpOOIbMt5Ha4mWwGF_c,Molten Haqoro,epic,"Armor made from ""molten rock."" Its creation can only be performed by stone-melting magic. The name Haqoro itself was chosen because before it was known as ""Ixor, City of Chants,"" the place was called the Village of Haqoro.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Auxilus Stormwing,https://drive.google.com/uc?export=view&id=1Oxog8I3sxieyx3rqpEHgqGDTca8PyElc,Auxilus Stormwing,epic,"Armor that can make its wearer lighten their body to the point of temporary levitation. To extend the duration of levitation, assistance is required, such as magic cards or artifacts with elements of wind.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Phrilea,https://drive.google.com/uc?export=view&id=19Qft3lxGyP07w1SIia_TW9_XqRLHnJYn,Phrilea,rare,"Phrilea is a gown bestowed upon someone who has successfully graduated and been officially registered in the Union of Priest Associations. The primary raw material of Phrilea is the hair of Pegasus Hatchies, carefully and lovingly trimmed.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Barbaric Arrigun,https://drive.google.com/uc?export=view&id=1g03EcZEbLxI3iFTwS8dreerxlzfQsxM3,Barbaric Arrigun,rare,The ability to automatically multiply one's proficiency with all types of weapons is a feature of this armor. Many ordinary people also wear Barbaric Arrigun to be able to use weapons without the hassle of learning them from scratch.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Spring of Sol Assault,https://drive.google.com/uc?export=view&id=1XcaZ1fmY9Y_uECTotq2HhI8waZfe3yP-,Spring of Sol Assault,common,"An armor that is highly renowned due to its role in a significant historical war event in modern history. If a Hatchy Master and their Hatchy simultaneously attack the wearer of this armor, the weakest attack will have an impact on the wearer. Stronger attacks will mysteriously rebound.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Seraphic Eclipse,https://drive.google.com/uc?export=view&id=1Omt22fkYCLnytl7enD53vpRy2Z-DOegY,Seraphic Eclipse,rare,The armor worn by male knight employees at the Union of Knight Associations office. It has the ability to enhance all physical attacks and minimize the impact of attacks from magic of all elements.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Luminous Sea Armor,https://drive.google.com/uc?export=view&id=1vLHnrkpyOudDycLFSc8bLh4uvVexSfr-,Luminous Sea Armor,rare,"The armor commonly worn by warriors when navigating the seas. This armor allows its user to breathe underwater, although not for extended periods. Another advantage is that it does not make the wearer sink due to its weight but instead makes them agile in the water.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Crimson Spellbreaker,https://drive.google.com/uc?export=view&id=1sjbqmw4fyVwr-cjcho_g1gfQSR5RW3ua,Crimson Spellbreaker,epic,"Despite its name ""Crimson,"" there is actually very little red color on this armor. The uniqueness of this armor lies in being the only one capable of preventing opponents from completing their incantations. It's as if there is a mysterious force that hinders opponents when they try to finish their incantations to attack the wearer of this armor.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Vasukani Pride,https://drive.google.com/uc?export=view&id=10hvza9JXkNaIw8zNE5jtiJHSoCcd7aTo,Vasukani Pride,epic,An armor that has emerged only in recent years and was created by a sword expert who is also a Grandknight named Isilron.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,War of Iph,https://drive.google.com/uc?export=view&id=1SF2JJhjkJsjpzYVi3XS2voUyHfbO6toW,War of Iph,epic,"Originally just regular clothing with a few ornaments added to make it a simple armor. The War of Iph itself was a conflict that took place in the Doppelganger Forest, which was an unusual war as the forces that arrived there were fighting against creatures resembling themselves. The war abruptly ended due to an untimely tsunami that immediately destroyed the two warring factions.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Stormcaller Enigma (Male),https://drive.google.com/uc?export=view&id=1EBFWt1vj3cTeB2W1hS4ETwQHqjlhjSF6,Stormcaller Enigma (Male),legendary,The armor renowned for its ability to manipulate storms. One of the nine legendary armors.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Bukomon (Male),https://drive.google.com/uc?export=view&id=1c5J_WnpDUdy2v063q-6eurbbqzggaZzZ,Bukomon (Male),common,"The traditional attire commonly worn by the people of Achopior includes a variety of distinctive garments. One of the most frequently donned items by its citizens is a unique, culturally significant piece of clothing.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Dragoneers Blood Moon(Male),https://drive.google.com/uc?export=view&id=1VmXkeJiYF8H8tr9JNtN1UU5-5hVdeR_M,Dragoneers Blood Moon(Male),legendary,"One of the nine legendary armors. A fire-elemental armor reportedly used by dragon riders in the past. What makes this armor special is that some of its materials are taken from the ""secret"" parts of the Taurrid Hatchy's body.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Aura Predator (Male),https://drive.google.com/uc?export=view&id=1tF_Au2vYWEk9m2mqcQKBkp7rB-Hf4_mv,Aura Predator (Male),epic,The attire worn by merchants at the Hatchy Market. Nearly all the materials for this robe are sourced from Hatchy bodies. It has the ability to tame and make even the most ferocious Hatchies obedient.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Lunar Demonplate (Male),https://drive.google.com/uc?export=view&id=1yQ6GRate-VsJjiHBHB7rl-ZI3dAmrnV0,Lunar Demonplate (Male),rare,"An armor so terrifying it can only be donned by those with profound knowledge, be it advanced magic or high-level Tongenkyo. It possesses the power to subdue even the dark elements of Hatchy.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Persanare (Male),https://drive.google.com/uc?export=view&id=1WXOxeQXRd5xl9kzs8HohC1eaRFpZ2tzG,Persanare (Male),rare,The attire worn by members of a mysterious cult who believe that Omni is the true God. It is typically worn when the members gather in their special temple.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Kilas Tenabres (Male),https://drive.google.com/uc?export=view&id=1eNg0Kv1ms2oW6udZ5cpIjHvGZ2BpAmCz,Kilas Tenabres (Male),legendary,"An incredibly powerful armor, feared by all creatures on Earth. It possesses a multitude of abilities and is only held by individuals who attain the status of Grandknight, the highest rank within the knight hierarchy.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Mighty Midnightscars (Male),https://drive.google.com/uc?export=view&id=1U4GTWaznr7Jy28RGSDMxYlbssdz2vu_a,Mighty Midnightscars (Male),legendary,"An armor imbued with malevolent energy and shrouded in an aura of dark magic. Only the mighty are capable of donning this armor, and its wearers are exclusively the war generals of The Order organization. They stand one tier below Darkheart Cyor.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Darkheart Cyor (Male),https://drive.google.com/uc?export=view&id=1xrJ1y3jYWJSz4rUwKjPGA_BSafMN20DE,Darkheart Cyor (Male),epic,"The mysterious armor worn by The Order's followers. It exudes a dark and profound aura, so intense that even formidable Hatchy creatures would feel compelled to flee due to the overwhelming energy it radiates.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Stormcaller Enigma (Female),https://drive.google.com/uc?export=view&id=1Zg_VsOZLVuWywPfJDwsgXVnF1mxXMgbL,Stormcaller Enigma (Female),legendary,The armor renowned for its ability to manipulate storms. One of the nine legendary armors.,,Nine Legendary Armors,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Bukomon (Female),https://drive.google.com/uc?export=view&id=1_5Nk87MWUVvJ4CAdFGRaAomHI-olCh_j,Bukomon (Female),common,"The traditional attire commonly worn by the people of Achopior includes a variety of distinctive garments. One of the most frequently donned items by its citizens is a unique, culturally significant piece of clothing.",,common Achopior garment,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Dragoneers Blood Moon (Female),https://drive.google.com/uc?export=view&id=1sryUj1JpgNxMy5lJd2mLzMTh90wEmS5A,Dragoneers Blood Moon (Female),legendary,"One of the nine legendary armors. A fire-elemental armor reportedly used by dragon riders in the past. What makes this armor special is that some of its materials are taken from the ""secret"" parts of the Taurrid Hatchy's body.",,Nine Legendary Armors,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Aura Predator (Female),https://drive.google.com/uc?export=view&id=1AXPmtIjUVpPhnG_UAexGxw7ied6U5fJm,Aura Predator (Female),epic,The attire worn by merchants at the Hatchy Market. Nearly all the materials for this robe are sourced from Hatchy bodies. It has the ability to tame and make even the most ferocious Hatchies obedient.,,Hatchy Market merchants,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Lunar Demonplate (Female),https://drive.google.com/uc?export=view&id=1HQwsz6azJgWDyNLUKZAt98qfr2mTLH2Y,Lunar Demonplate (Female),rare,"An armor so terrifying it can only be donned by those with profound knowledge, be it advanced magic or high-level Tongenkyo. It possesses the power to subdue even the dark elements of Hatchy.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Persanare (Female),https://drive.google.com/uc?export=view&id=10aQh_1uo9p8AI4nP_Y9oN9qG8vfcQezX,Persanare (Female),rare,The attire worn by members of a mysterious cult who believe that Omni is the true God. It is typically worn when the members gather in their special temple.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Kilas Tenabres (Female),https://drive.google.com/uc?export=view&id=1TR2qKZgd2xLPxKgm93Xa6SB5JqFUVUCw,Kilas Tenabres (Female),legendary,"An incredibly powerful armor, feared by all creatures on Earth. It possesses a multitude of abilities and is only held by individuals who attain the status of Grandknight, the highest rank within the knight hierarchy.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Mighty Midnightscars (Female),https://drive.google.com/uc?export=view&id=1zjeFlt2HNj3ZAii1hwyBBtaduXShgAPl,Mighty Midnightscars (Female),legendary,"An armor imbued with malevolent energy and shrouded in an aura of dark magic. Only the mighty are capable of donning this armor, and its wearers are exclusively the war generals of The Order organization. They stand one tier below Darkheart Cyor.",,its wearers are exclusively the war generals of The Order organization. They stand one tier below Darkheart Cyor,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,Darkheart Cyor (Female),https://drive.google.com/uc?export=view&id=1PecR6HCAGVH7AmStikBZJtffVapUMVhM,Darkheart Cyor (Female),epic,"The mysterious armor worn by The Order's followers. It exudes a dark and profound aura, so intense that even formidable Hatchy creatures would feel compelled to flee due to the overwhelming energy it radiates.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,Purple Hood (Male),https://drive.google.com/uc?export=view&id=13vJShCjbCmQqyTQPQAB9wKsgzhFkUx0U,Purple Hood (Male),rare,The hood used to protect the head from the scorching sun or cold weather.,"resistance to cold
+resistance to light",,COWL,EQUIPS,Headgear,,,,-
+,F,,Purple Hood (Female),https://drive.google.com/uc?export=view&id=1OO0EfwV8vGpF4Insl6aCQOSWaGvsAfuu,Purple Hood (Female),rare,The hood used to protect the head from the scorching sun or cold weather.,"resistance to cold
+resistance to light",,COWL,EQUIPS,Headgear,,,,-
+,F,,Midnightscars Barbute (Female),https://drive.google.com/uc?export=view&id=1DSeqWpsxePE--7QvdpUNTtT-TzBq_U9d,Midnightscars Barbute (Female),legendary,"The barbute worn by war generals in the Order, especially when engaging in large-scale battles. It is resistant to hypnosis and all forms of hallucinatory magic.",resistance to dark,"The Order
+its wearers are exclusively the war generals of The Order organization. They stand one tier below Darkheart Cyor",HELMET,EQUIPS,Headgear,,,,-
+,F,,Lapis Tenabres (Female),https://drive.google.com/uc?export=view&id=1Txt5T88HQNnP5vEpFGCIL4OgzZHp7JpA,Lapis Tenabres (Female),legendary,The special cowl worn by the Grand Druid during ceremonies. Its energy will multiply exponentially when paired with the Kilas Tenabres.,"increased strength
+- bonus when paired with kilas tenabres",,HALF FACE HEAD HELMET,EQUIPS,Headgear,,,,-
+,F,,Purple Monk Hood (Female),https://drive.google.com/uc?export=view&id=1hV_4gSp4TIYyYS3aPFx8ZQ33xXX0AcHc,Purple Monk Hood (Female),legendary,The hood commonly worn during religious activities.,,,COWL,EQUIPS,Headgear,,,,-
+,M,,Midnightscars Barbute (Male),https://drive.google.com/uc?export=view&id=1E8w6tIkTkCpx10JaRhvQ2yG4feYRpoD9,Midnightscars Barbute (Male),legendary,"The barbute worn by war generals in the Order, especially when engaging in large-scale battles. It is resistant to hypnosis and all forms of hallucinatory magic.",,The Order,HELMET,EQUIPS,Headgear,,,,-
+,M,,Purple Monk Hood (Male),https://drive.google.com/uc?export=view&id=1IwJHaUAm4ggivizThIrBiTzsUWjKL5l7,Purple Monk Hood (Male),legendary,The hood commonly worn during religious activities.,,,COWL,EQUIPS,Headgear,,,,-
+,M,,Lapis Tenabres (Male),https://drive.google.com/uc?export=view&id=1ZFCHj_ao64rpu2CaK3-_lVRY_0zH8rlY,Lapis Tenabres (Male),legendary,The special cowl that can only be worn by the Grandknight because it can enhance all the power of the Grandknight wearing it. Its energy will multiply exponentially when paired with the Kilas Tenabres.,,,HALF FACE HEAD HELMET,EQUIPS,Headgear,,,,-
+,F,,IMG_1006,https://drive.google.com/uc?export=view&id=1KMCzeeLjyd7Xi_KgVBIq8v5i4qgFfNq8,Ancient Crystal Ranger Shoulderplates,legendary,The legendary shoulder armor reportedly worn by the Ancient Water Temple guards,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_1007,https://drive.google.com/uc?export=view&id=1ar9QEt5mBTtcQWo9xK2iONjUUmqR-g-D,Albian,epic,"Light-element shoulder armor, increasing resistance against Light attacks.",Resistance to light,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0992,https://drive.google.com/uc?export=view&id=10xUKmKfhFCAW7UqC_zW9Kp399Va2ALbU,Emberstorm Shoulder Guards,rare,"A simple yet well crafted armor, sturdy and reliable",resistance to physical damage,Hatchy Templar,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0990,https://drive.google.com/uc?export=view&id=17h3CpnxcT1J4HhwhBKArk0Ihc_YPy8x6,Trainee's Pauldrons,common,"Trainee's Plate pauldrons, crafted for sparring and combat drills—lightweight yet exceptionally durable.",,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0991,https://drive.google.com/uc?export=view&id=17vFEziR1boBZ8XgLrIpJxAdNziKCv2mX,Nimbus Nighthawk Shoulderplates,epic,"Inspired by dragon tales, this shoulder armor is given a unique name to battle dragons in legend.",,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_0998,https://drive.google.com/uc?export=view&id=1MSerbr0-B3wkI3HyC-gnR4512SB7rLXc,Ornamental Golden-Fang Shoulder Guard,epic,"Displaying elegance, many are deceived by its seemingly useless form in battle, although for those in the know, these Shoulder Guards falls under the category of ""Dangerous Goods""",increased light power,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0989,https://drive.google.com/uc?export=view&id=1B62S4q0gCewrlDRh5iftnx30oHtYlNdX,Akki Shoulder Guard,epic,A shoulder guard that is part of the Akki Armor set.,Minimizes damage inflicted by Void-element attacks.,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0993,https://drive.google.com/uc?export=view&id=1En7YW4ds2QId0YlS72RAFyGgnz9W5vpb,Unyielding Shoulderplates,common,Shoulder armor made of metal and a mixture of stones with hardness levels surpassing those of common stones.,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_0999,https://drive.google.com/uc?export=view&id=1Ep_OBgHDsRfza77zkmSUluKU-brWR74I,Knight's Legacy Protector,legendary,"Similar to some other knight shoulder armors, but this shoulder armor is more popular in the Holy Badlands.",,Holy Baldlands,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0995,https://drive.google.com/uc?export=view&id=1Hlt6wYA98ox71ST9AqymxGzvsh86tqxD,Luminous Verdant Shoulderplates,epic,"Strong and sturdy, this shoulder armor is widely available in the market. The inclusion of small horn variations taken from the body of Hatchy Blitzard makes its price expensive. It is used by a noble knight named Luminous.",,1. Luminous 2.Hatchy Blitzard,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_1002,https://drive.google.com/uc?export=view&id=1THDRbKW8Uz3wRSkQGkU7umMK6tYYY-Ca,Tectonic Templar Shoulderplates,legendary,"Enhancing resilience against earth-element attacks and capable of signaling impending earthquakes, this shoulder armor is popular in earthquake-prone areas.",,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_0996,https://drive.google.com/uc?export=view&id=1n1ZN_0ieWMdwh99-SWfVqpNqbkXauy9D,Heraldic Knight's Shoulderplates,epic,"These shoulder plates are specifically designed for use by knights. If used by anyone other than a knight, the true energy will not arise.",,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0994,https://drive.google.com/uc?export=view&id=1_fW-OmP8zvOoaS8fxfX16H64WvqGGszn,Ironstorm Shoulder Guards,rare,"There is a legend that says this shoulder armor was once tested to be struck by a magical sword with tremendous energy, yet it remained unscathed.",,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_1005,https://drive.google.com/uc?export=view&id=1bIiSm9wmpt_Wzu_i-jzYK_0gxLQMjIdu,Eala Aghiad,epic,"Commonly used by female knights, but also often utilized by witches if deemed necessary. It enables hand regeneration when injured because it is mixed with wings from Hatchy Pixelite.",,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_0997,https://drive.google.com/uc?export=view&id=1YWA7_djtxvdaS_fF38DRLkLTu0GVhou6,Phrilea Shoulder Guards,rare,Shoulder guards from the Phrilea outfit.,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_1004,https://drive.google.com/uc?export=view&id=1jfb4hGMbqgIAdH6fBcw9YMz-8VJTy1Ec,Stormwing Shoulder Defender,epic,"Shoulder guards of the Auxilus Stormwing. Same as other armors, the Stormwing feels incomplete without these iconic protectors, embodying the levitation ability and untamed spirit of the wind.",,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_1003,https://drive.google.com/uc?export=view&id=1oDP1X6GcPTU9lcCpPCjWx8hxL8mzNaY3,Shoulder Guards of the Minotorch,epic,"Made from pure steel and adorned with Minotorch feathers as decoration, this shoulder armor is sold at a high price in the market.",,monster Minotorch,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_1001,https://drive.google.com/uc?export=view&id=1tDBmsjfLzP2cy7T6uKT2ftm1ObGStLwZ,Ethermesh Shoulder Armor,common,"This shoulder armor is rarely used for combat, as it's typically worn by guards of goods. However, its durability is noteworthy.",,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0988,https://drive.google.com/uc?export=view&id=11UFUc-lWMaRDD3C8irrKQo4uk3iBNsb5,Bluewave Brigand Shoulderplates,epic,"Although its name may seem ""evil,"" many fighters from various backgrounds wear these shoulder plates. They are suitable for use when sailing the seas.",,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0984,https://drive.google.com/uc?export=view&id=12W8qtVNqhkRh4A6N2b7FirGR5zdoVlHo,Indigo Diviner Shoulderplates,rare,"Used by knights with high-energy magic weapons, as this shoulder armor stores powerful energy.",,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0985,https://drive.google.com/uc?export=view&id=13t9P_Dp8GBqF4dDwlh18cDt-HRhkV8Vz,Nebular Protectors,legendary,"Unbelievably light yet durable, its made from an unknown material, not from this world",,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0986,https://drive.google.com/uc?export=view&id=185jVlGhM9IsxJ_P_E3BpGsN8XrC4s57o,Chivalric Shoulderplates,epic,The wearer of this shoulder armor is synonymous with someone who is steadfast in knightly values.,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0982,https://drive.google.com/uc?export=view&id=18JjPaVVNz1Fc5GqOj13g22G4WDSEVn5e,Icicle Shoulderplates,epic,Shoulderplates that are suitable for use alongside water-element armor or armor equipped with ice magic cards.,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0981,https://drive.google.com/uc?export=view&id=1TrV26CUcWz4OhhVEVW37Ki0mvNPN9MBp,Sky Wings Shoulderplates,epic,"If used near a temple (any temple), this shoulder armor will automatically make the arms feel lighter and more free when swinging a weapon.",,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0983,https://drive.google.com/uc?export=view&id=1UkZuJ8sYr07gQ0p3oK4QnlnclynPlnXR,Yellow River Shoulderplates,legendary,This shoulder armor is highly appealing to beauty enthusiasts due to its vibrant yellow color. It's sturdy and reasonably priced.,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_0987,https://drive.google.com/uc?export=view&id=1urMZktS9zVZDLkPyAODD9l1h2NOoVhHi,Epaulets of the Red Valley,epic,"Shoulder guards worn by high-ranking individuals in Chambra Temple. Believe it or not, those seemingly dense feathers are made from plants.",,Chambra Temple,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,RAGE ONI,https://drive.google.com/uc?export=view&id=104qNr2cRhjd6urs0MqUZG7dgtnUaVLag,Muzzle of the Ghost,legendary,"It is believed that the spirits of the warriors continue to scream in pain after death, so this mask is made to cover the mouths of the bodies of the warriors. However, since that legend is no longer popular, these mouth masks are now widely used by warriors and Hatchy hunters.",,,MOUTH MASK,EQUIPS,Mouth Slot,,,,-
+,M,,ZECRET,https://drive.google.com/uc?export=view&id=14fUYDtqlTvMuvVgid6vengfV7z5apwlO,Costume Blade,epic,Costume Headgear worn at parties,,,MOUTH MASK,EQUIPS,Mouth Slot,,,,-
+,M,,PERCIASH,https://drive.google.com/uc?export=view&id=1ODP15lp1TJ5wA-yWYAUggMBALuYP9l_6,Agrucium Mask,epic,Modern mouth mask commonly used by Hatchy hunters in dense forests. Aids in camouflage within the forest.,increased stealth,,MOUTH MASK,EQUIPS,Mouth Slot,,,,-
+,M,,CROSSFURY,https://drive.google.com/uc?export=view&id=1kWU_Q1AAs-6YGshO863dQK5JqRbfqkhh,Silentium Mask,legendary,Mouth masks often used by knights who do not wish to reveal their identities. Also used by ninjas.,increased stealth,,MOUTH MASK,EQUIPS,Mouth Slot,,,,-
+,M,,RAPTORATUS,https://drive.google.com/uc?export=view&id=1COFJ2C6-qvpXrm6FD96tVhvnRzhpGIXq,Sandcurse Mask,rare,Mouth mask used by ninjas who typically operate in sandy and rocky areas. Allows the wearer to breathe comfortably even during sandstorms.,"increased stealth, resistance to blind",,MOUTH MASK,EQUIPS,Mouth Slot,,,,-
+,M,,IRONJAW,https://drive.google.com/uc?export=view&id=1lsdv8bttdQ9gkED53TFFl6L3os18el15,Dragonbreath Chin Guard,rare,"This chin guard is typically worn by blacksmiths to protect their chin while crafting weapons, but some knights have begun popularizing it in combat tournaments.",,,MOUTH MASK,EQUIPS,Mouth Slot,,,,-
+,M,,MOBDOCTOR,https://drive.google.com/uc?export=view&id=1skNiWNxubRLQB4oTP3pMTZPYh_KZOfqC,Anti Plaguebringer,common,Mouth masks exclusively worn by 'gatekeepers' of dungeons filled with Hatchy capable of emitting poison. Used as a sign for novice Hatchy hunters that the dungeon is filled with deadly toxins.,,,MOUTH MASK,EQUIPS,Mouth Slot,,,,-
+,M,,THE DETERRENT,https://drive.google.com/uc?export=view&id=1tiQxjILp8ZmwkxCZPkjvNT3aSlEyJ3KI,Hegralt Patch,common,Accessories worn on the nose and chin. Famous in the southern mainland.,,,MOUTH MASK,EQUIPS,Mouth Slot,,,,-
+,M,,Acolyte Visage (Male)_1109,https://drive.google.com/uc?export=view&id=1mK_BEDlhCj8QiwC7Ie_JdR1PmJF73Gen,Acolyte Visage (Male),rare,The mask of the lower-ranked members of The Order during ceremonies to avoid recognition,,,MASK,EQUIPS,Eyewear,,,,-
+,F,,Acolyte Visage (Female),https://drive.google.com/uc?export=view&id=1zKGf-breQwHNzTK9YWIor67o2Hm7xYVe,Acolyte Visage (female),rare,The mask of the lower-ranked members of The Order during ceremonies to avoid recognition,,,MASK,EQUIPS,Eyewear,,,,-
+,M,,Acolyte Visage (Male),https://drive.google.com/uc?export=view&id=1Wk56qTP8HbflcZZErq_M_MHlK7GlK5up,Acolyte Visage (Male),rare,The mask of the lower-ranked members of The Order during ceremonies to avoid recognition,,,,,,,,,
+,F,,IMG_1029,https://drive.google.com/uc?export=view&id=13uod4XHYryBJ7EInpTZhfoLdzFdKJBE5,Shadowmere Baraq,legendary,commonly Light-element headgear. increases light-elemental effectiveness,increased light element,,FACIAL CROWN,EQUIPS,Eyewear,,,,-
+,M,,IMG_1027,https://drive.google.com/uc?export=view&id=17mJfsj2SlYaOijLap6vUMXF9ZTS6CR8B,QuantumGaze,epic,A mask imbued with Void-Element Runes. Ideal for users specialized in Void-Elemental Hatchy Masters,increased void element,,FACIAL CROWN,EQUIPS,Eyewear,,,,-
+,M,,IMG_1025,https://drive.google.com/uc?export=view&id=18bYZX1UfwNQoI2hEN7F0I950tPQao080,Sentinel Head Protector,common,A common head protector.,,,FACIAL CROWN,EQUIPS,Eyewear,,,,-
+,M,,IMG_1028,https://drive.google.com/uc?export=view&id=1UXuYI1QzZYbCM38vwWTWjmikaCYszj9Y,Ancient Bullveil Protector,legendary,"A Mask made from Doom Horn and Abysit that can increase the hardness level of the armor worn on the body. despite its tiny size, its extremely heavy","cumbersome, increased armor",,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_1026,https://drive.google.com/uc?export=view&id=1rb-zFhLa2Doe-UCWNG_OhHlPjtL4jAes,Scorchrex Mask,epic,"A mask crafted by an Infernoforge, capable of inducing terrifying hallucinations, where all living creatures in front of the wearer appear as fire monsters ready to attack. This mask is sealed and stored within the Chambra Temple.",,,FACIAL CROWN,EQUIPS,Eyewear,,,,-
+,M,,IMG_1023,https://drive.google.com/uc?export=view&id=1t0w_41QlT4Pt4LOL0uvuLAdy1whb2Hsn,Chriothik Necromancer,epic,"Crafted from 3 different Dark-element organs of Hatchy: Baphomet, Hypnoshade, and Murcial, this mask ranks among legendary masks. It possesses a high-level poison element, and strangely, it is believed to have the ability to resurrect the dead.",,,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_1024,https://drive.google.com/uc?export=view&id=1zOwKFkWMQZIehtoOqYQ4ZUZ0RksiiNXv,Parados Starless,rare,"At first, the horns on this mask shone brightly as they were made from the horns of Hatchy Elkar, but the wearer of this mask has fallen into darkness and can never return. Therefore, the color of this mask has completely changed.",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_1014,https://drive.google.com/uc?export=view&id=14UQrZSEvIHY3JJo4CqFzGqXJry-gtNhN,Feline's Maschera,epic,"An open-faced mask taking the silhouette of a tiger, used by female warriors who rely on speed in combat.",,,FACIAL CROWN,EQUIPS,Eyewear,,,,-
+,M,,IMG_1017,https://drive.google.com/uc?export=view&id=18jLADQw89sr-VCsD-B0xqrwxXqDcc_QZ,PurityMask,epic,"The face shield is used by a considerable number of middle-class warriors belonging to any kingdom, due to its affordable price and decent quality.",,,FACIAL CROWN,EQUIPS,Eyewear,,,,-
+,M,,IMG_1021,https://drive.google.com/uc?export=view&id=1LF7uLzcR4x1o5VKm8NQHwhnz4jlIJmFD,Forgotten Grimoire,epic,"A cruel, Cursed mask made from Shadarkan, processed before the fire was extinguished",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_1015,https://drive.google.com/uc?export=view&id=1PsegfgPWgK3rooVQHTRhsGtSmtbM647M,Tygron's Maschera,epic,"Similar to the Feline's Maschera, but its user is male. It serves the same function as the female version, enhancing speed both in combat and running.",,,FACIAL CROWN,EQUIPS,Eyewear,,,,-
+,M,,IMG_1018,https://drive.google.com/uc?export=view&id=1TQOo4TDBurrO5YT6_rZGgFh9GjESbthV,Iron Legion Mask,common,"A mask crafted in the likeness of an owl, worn by Hatchy Masters who soar through the skies on their flying companions. Embodying the wisdom and sharp vision of the owl, this mask is a symbol of mastery over the skies.",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_1016,https://drive.google.com/uc?export=view&id=1WuLJF_4gxR7Ewb0QcQ9tNkaeI30CE5wD,Glimmering Circos,epic,"A visage shield hailing from the ancient stronghold of Old Port. To don this protector is to bear the weight of countless tales of valor, each etched with the remnants of fierce clashes against malevolence, instilling an indomitable sense of pride.",Minimizes damage inflicted by Void-element attacks.,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_1022,https://drive.google.com/uc?export=view&id=1sOosC6diViqFQfk8Rnq-lGaTVwiB4wqt,Estranged Chaotic Helm,legendary,"An Ancient form of the Fury Chaotic Helm, this prototype was said to eventually take control of the wearers mind",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_1019,https://drive.google.com/uc?export=view&id=1wXCB4bYpm9FXX8xYKW6X1JA-eqK55ZzZ,Mystishroud Mask,rare,Gives the wearer the ability to summon a sudden enveloping mist,,,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_1020,https://drive.google.com/uc?export=view&id=1ykQChoJmEiil39RjaJuaibJozAj2lRNm,Fury Chaotic Helm,epic,"A special helmet for the high ranking Order members, gives increased power and the chance to curse opponents",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,MONOCULUS,https://drive.google.com/uc?export=view&id=14dcVw6YaF3K0qr3iMZae2Y95u-rvwFe7,EliteEye Monocle,common,"A monocle commonly used for examining the composition of an object. However, in the hands of a skilled craftsman, this monocle can enable its wearer to see the energy present within the bodies of living creatures.",,,GLASSES,EQUIPS,Eyewear,,,,-
+,M,,THE LOOTER,https://drive.google.com/uc?export=view&id=1DpfnS9ZVG1haHzn-WAYSnlF0L5wcN3lZ,ForestDream EyePatch,rare,"An eye patch that is typically worn by warriors in training to sharpen their hearing, but is also used by blind individuals to cover their damaged eyes so they are not seen by others.",,,GLASSES,EQUIPS,Eyewear,,,,-
+,M,,GEEK GLASSES,https://drive.google.com/uc?export=view&id=1N6K8v8eTN2OG89i7w2SPFB56wM9aTP0f,Lunatic Hypnoptic,common,Used by knights and even Grandknights to protect them from illusion attacks that target vision.,,,GLASSES,EQUIPS,Eyewear,,,,-
+,M,,AUTRON,https://drive.google.com/uc?export=view&id=1jnHlsAO2vIhW4fcEhHmDvHRAq36-i3-B,Eyes of Ether,legendary,"A device highly valued for its ability to see the flow of energy within a weapon, be it a sword, magic wand, dagger, arrow, or even a shield. It enables the user to anticipate the element used by their opponent.",,,GLASSES,EQUIPS,Eyewear,,,,-
+,M,,CRUISEYE,https://drive.google.com/uc?export=view&id=1ycTCC_hyxHRyJ4Ztwf5V1DR9uL9dI5Gj,Tuxedo's Quest,rare,"A tuxedo mask available in the country of Artaria, sold as a souvenir item. Often used at royal parties.",,,GLASSES,EQUIPS,Eyewear,,,,-
+,M,,WANDERHOOD,https://drive.google.com/uc?export=view&id=16y6fVOxj6TbOnC8QzJ13WFoLC5xuuf7L,Leaf Village Bycocket,common,"A bycocket woven directly in Leaf Village, and can be used by both knights and common folk.",,,HAT,EQUIPS,Headgear,,,,-
+,M,,CRACKSTONE HAT,https://drive.google.com/uc?export=view&id=1Kp87jfvk6kPPUK-m4lah0ctZFJQWAZrr,Long Red Farmer Hatband,common,A hatband used to protect the head from hot weather. Magic cards cannot be attached.,,,HAT,EQUIPS,Headgear,,,,-
+,M,,PIKEMAN HELMET,https://drive.google.com/uc?export=view&id=1oAXTS15c3TSRVA4MMH1j_ubFBkJLUP0s,Iron Demon Kettle Hat,rare,"Although it looks simple, this helmet is commonly used by paladins in battle. Highly recommended for knights with high status.",,,HAT,EQUIPS,Headgear,,,,-
+,M,,COSMICORE,https://drive.google.com/uc?export=view&id=1wm5oFT62KzI4nXG1ZeoV2WnedKhDxKax,Schattenkrone,rare,"A rare and expensive crown. It is crafted from a special material extracted using forbidden magic to emulate the power of Hatchy Abydon. Much like Abydon's abilities, the wearer of this crown can generate mist around them, and Schattenkrone users can also perceive everything concealed within the mist.",,Hatchy Abydon,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,M,,IMG_2243,https://drive.google.com/uc?export=view&id=1IwlBlI2lEClZpT1VQ3U2W1ndMFA6_IU9,Crown of the Whispering Void,legendary,"Used by the high-ranking members of The Order to distinguish themselves from their subordinates. It can ward off attacks of magic from all elements and can enhance the user's attacks, especially void-elemental magic.",,The Order,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_2236,https://drive.google.com/uc?export=view&id=1fyaGXDnuv0hjgMLhWKiCX5zagBMO0aqo,Sovereign of the Abyssos Daemonium,legendary,"It is believed that anyone who wears this crown will be able to summon Felkyn, the god. To this day, no one knows who made it and what it is made of.",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,F,,LUNARFORE,https://drive.google.com/uc?export=view&id=12wl0LHPMr1NbubS_KfaRHeKGTilIK6HP,Tiara Anemos,common,"The crown is intended for women. Anyone can use this crown, but the condition is that the wearer must have an official certification from a specific organization. It can conjure the magic of the wind.",,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,F,,PALADINS PRIDER,https://drive.google.com/uc?export=view&id=10e8AUn1xnBW-MLz0TInZJ6BkGJz_ft3V,Diadem of the Radiant Dawn,epic,"Highly compatible when combined with Radiance Astral, it will cause its user to have multiplied strength. Often used by female knights, though quite frequently worn by non-knight female warriors with less noble intentions.",,,FOREHEAD CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_1751,https://drive.google.com/uc?export=view&id=1xy45b7JEzhl4jVPItsjU02MWRX2rPG7Q,Tiara of the Astrapai,rare,"A tiara that is exceptionally well-suited for hunting Hatchy in dark places like caves or forests that are completely shrouded in darkness due to its ability to emit light from the gem at its center. It is primarily used by warriors, wizards, or Hatchy Masters ranging from beginner to intermediate levels.",,,FACIAL CROWN,EQUIPS,Eyewear,,,,-
+,M,,IMG_2242,https://drive.google.com/uc?export=view&id=1DSDo39KUcEyl5USRqGZqx012gvCWKOLt,Mystikos Mors,rare,"The sacred crown of the knights that has the power to infuse ordinary weapons with magic. However, if this crown is removed during a battle, the weapons held by the knights can revert to being ordinary weapons. Therefore, it is advised to use it with caution.",,,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_2245,https://drive.google.com/uc?export=view&id=1OYQGcdnIJsr0afR3eXXd5wWE7NolQOvi,Waldgeist Krone,legendary,"The crown is worn by Sharian Aelrindel, the King of the Fairies in the forest where the Leaf Temple is situated. It possesses the secret magic of the forest and makes its wearer resistant to attacks from stone-made weapons.",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,F,,VALKYRIE CROWN,https://drive.google.com/uc?export=view&id=1CzDWZzDFC4NIundSHjByKrY1I1yfkbKa,Regalia of the Mystic Aurora,epic,"The crown is shaped like a bird with outstretched wings. It is made from the finest artifacts not available in the market, and obtaining it requires risking one's life. It possesses extraordinary energy.",,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,M,,ANGELER,https://drive.google.com/uc?export=view&id=10E_jl_nBdTc4z0iHiHE3f14Zagos_i1i,Harmony Horns,common,"Horn accessories resembling dove wings, commonly used for festivals. Made from high-quality buffalo bone.",,,HORN,EQUIPS,Headgear,,,,-
+,M,,DEMONAC,https://drive.google.com/uc?export=view&id=1KLiKebeV50L9D7ZVYnrtmZY0ZN6x7R2Y,ShadowFlap Horns,common,"Horn accessories resembling bat wings, commonly used for festivals. Made from teak wood and special ceramic.",,,HORN,EQUIPS,Headgear,,,,-
+,M,,MOTTLER KING,https://drive.google.com/uc?export=view&id=1Mjav-rRyUCiNgGeYJBXJXBBT2JNhtwyM,Royal Antlers,common,"Special horn accessories resembling deer antlers, commonly used for festivals. Made from sandalwood and combined with horn powder from Hatchy Elkar to add authority.",,,HORN,EQUIPS,Headgear,,,,-
+,M,,IMG_3752,https://drive.google.com/uc?export=view&id=13Jv8Q-nUeE1BJY6lEIP8Fj1jXd0vZqJw,Gleeful Behemoth Attire,legendary,"Crafted from the Behemoth, it has the ability to raise the wearers luck",increased luck,"
+Behemoth gen2 grass monster",BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_3847,https://drive.google.com/uc?export=view&id=1WWHOrfnIFgB6LRpktOU99-vGrykCL1jQ,Gray T-shirt,common,Men's T-shirt in sophisticated gray.,,,BODY ARMOR,EQUIPS,Torso,,,#REF!,-
+,M,,IMG_3849,https://drive.google.com/uc?export=view&id=1o8JZdRwpCW7qdE3qXp7Ra9P1EnimIOuB,Red Tank Top,common,Men's tank top in red.,,,BODY ARMOR,EQUIPS,Torso,,,#REF!,-
+,M,,IMG_3857,https://drive.google.com/uc?export=view&id=1NkO6GjXGiNlTZQZLifWFX5EukgQn_Ut8,Semi-Winter Jacket,common,A semi-winter jacket seamlessly blending the elements of nature with cutting-edge technology.,,,BODY ARMOR,EQUIPS,Torso,,,#REF!,-
+,M,,IMG_3859,https://drive.google.com/uc?export=view&id=13d5n28RsHjrrROCWos-gVN8EOkypX-jX,Timeless Charcoal Blazer,common,Radiating elegance that commands trust and credibility – truly a must-have addition to every man's collection.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_3762,https://drive.google.com/uc?export=view&id=1Y7gK03ONS66ZGXNTAd4mTTH5g2Uz7XoS,Drakonian Float Armor,epic,"An armor infused with shards of esoteric artifacts from Drakonia, granting the wearer the ability to levitate. This extraordinary power comes at a cost, significantly draining their energy.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_3760,https://drive.google.com/uc?export=view&id=1vuIolSV66ZBPApbN8wrxp42LUcJY1e2y,Chancellor’s Ornate Garb,epic,"A gracefully adorned garb, exuding elegance and authority, symbolizing a high office and significant responsibilities. Typically worn by the royal treasurer.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_3757,https://drive.google.com/uc?export=view&id=1dsgSOJ_-REgDKE6bl8pl71N7fbwlUQyb,Emperor Crabemoth,legendary,"Defying the conventions of human armor crafting, this legendary armor is said to have been forged in the deepest, darkest parts of the ocean. It is believed to be worn by dragon riders who reign over the seas.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_3755,https://drive.google.com/uc?export=view&id=13ILa47AV418ZRJC6T4Fr3oq_QR0G07Sz,Buzzkill's Breastplate,epic,"Highly territorial, Buzzkill becomes furious when another Buzzkill invades its domain. Armor crafted from Buzzkill remains is ideal for mental combat training. Paired with the Buzzkill magic card, it grants the wearer abnormal physical strength.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_1636,https://drive.google.com/uc?export=view&id=1mWCUXlFo_vNkh7jJwAXsa4qDqFmk1o8g,Pirates' Parley Hauberk,epic,"While it appears comfortable and charming when worn, it is perilous as it is typically donned by high-ranking pirates. The fur collar cleverly conceals poisonous needles.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_3135,https://drive.google.com/uc?export=view&id=10l8xRBqC3bkZMH4boPiqaBic3JTzewaS,Space Rescue Division's Armor (Male),legendary,An armor whose name has become legendary for traversing the stars and saving countless lives in space.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,IMG_3137,https://drive.google.com/uc?export=view&id=11mjBr7zto1TIMFtATJW5MlPPkGlJbgFI,Space Rescue Division's Armor (Female),legendary,An armor whose name has become legendary for traversing the stars and saving countless lives in space.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,IMG_3845,https://drive.google.com/uc?export=view&id=1DpiH7tz3kNeLzXYiU_A0rZjGjkhvhVIc,Open-Front Hoodie with Fur Collar,common,"A stylish and warm fur collar hoodie, perfect for women with a youthful spirit.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_3754,https://drive.google.com/uc?export=view&id=1io5foRBBInqcgf1TJuHF8nmWXkG_Shl9,Quartz Yucca,epic,"A rare yucca leaf that grows on quartz rocks. It is often used by knights who hunt in dark places. With this accessory, they don't have to fear losing their way because of its glowing green light in the dark.",,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+-,#N/A,#N/A,,#N/A,,common,,,,#N/A,#N/A,#N/A,,,#REF!,-
+,U,,IMG_3401,https://drive.google.com/uc?export=view&id=1jRpbyP-6oyvIcAu96dqzBO7nVbySDfS6,Wraithaxe,epic,An axe said to be able to cut shadows.,,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,IMG_3402,https://drive.google.com/uc?export=view&id=1pdp-Wf2eVPmumVhoZsbGjQDBFr3gFfej,Starry Halberd,epic,"A golden spear with not just one, but seven spearheads. It can be used to pierce and simultaneously tear the skin of opponents.",,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,IMG_3403,https://drive.google.com/uc?export=view&id=1ACFPKVpSJ1fw7ywW00Jm_PCyVJ4K3cco,Misery Dark Serpent,epic,Mid-tier sword used as a secondary weapon by ninjas.,,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,IMG_3404,https://drive.google.com/uc?export=view&id=1AsOBp_Ost4_-FwfMyZmNk6KDK05PTo_1,Erosion Staff,epic,"A dangerous magic staff that can only be used for malevolent purposes, specifically to cause natural disasters. Only a chosen wielder can activate its power.",,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,Schyte,https://drive.google.com/uc?export=view&id=1SdxMhS3tVUOaddrtqdO45jxz8VB4pfdV,Fiery Reaper,epic,Fiery scythe gained after spiritbonding with Scythepaw,,Hatchy Scythepaw,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,Shell,https://drive.google.com/uc?export=view&id=1uaxOy642rI_hjtoZAMrGvKlxovd8EAFp,Seaborn Carapace,epic,A shell taken from the defeated Hatchy Speartle.,,Hatchy Speartle,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,Tail,https://drive.google.com/uc?export=view&id=1ZsiUo0DiDa-Ij0uEFgSL4tnNIYdrPZad,Sixsoul Tail,epic,"The tail of Seraph, woven into a soft cushion perfect for a restful nap during long carriage rides.",,Hatchy Seraph,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,Totem,https://drive.google.com/uc?export=view&id=1Bz5-oB7Gef9bCIwOa4GH5k_EEjGuUVjR,Courageuse Totem,epic,A totem taken from the defeated Hatchy Tronk.,,Hatchy Tronk,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,Sword,https://drive.google.com/uc?export=view&id=1bTEdMmG5ZgeluHfgg09yM_gGIohgAhP6,Ephises,epic,"The sword of Emberslash. Wieldable by humans, but beware—it's scorching hot! Always wear gloves before handling this blazing blade!",,Hatchy Emberslash,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,Shield,https://drive.google.com/uc?export=view&id=1qjyy1cwtL_RfMPdVlcCPLmAMigU-s92-,Candlekin Head Shield,epic,"Crafted from the head of a defeated Candlekin, this shield is as light as wood, yet completely fireproof!",,Hatchy Candlekin,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,Staff,https://drive.google.com/uc?export=view&id=1F8CbZWB-1qAQ5rPM-d0ZrpAPixW6D5d7,Hypnos Staff,epic,A magic staff taken from the defeated Hatchy Hypnoshade.,,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,Tendril,https://drive.google.com/uc?export=view&id=1kequszsSAy12VD5bNz7dEtaejHPVFGs5,Entwined Hand Tendril,epic,An accessory taken from the defeated Hatchy Mancia.,,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,Spike,https://drive.google.com/uc?export=view&id=1AW6UAhVKDAgWXIBbALOJcfNxM-hNGSYo,Green Gladius,epic,"An accessory taken from the defeated Hatchy Carathorn, slightly modified to become an additional weapon for protecting the back.",,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,IMG_3868,https://drive.google.com/uc?export=view&id=1vzsd-NAhk4iaY9WoVRlyh4R80NYRziqZ,Aximo,rare,"A diminutive axe of reserve, adorned with a touch of elegance on its metal edge, designed to please the eye.",,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,IMG_3869,https://drive.google.com/uc?export=view&id=1UPd1D9Qt6Qdd2TyBmbNPUgp5TU5fLBEh,Vigilia Backshield,rare,A backshield placed on the back is usually worn by ordinary soldiers.,,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,IMG_3870,https://drive.google.com/uc?export=view&id=1Ya7sBlLyumHjIC3dxomFaMy4OuMpySEe,Crux,rare,"A conventional sword with a curved quillon, characterized by its elegant simplicity.",,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,U,,IMG_3871,https://drive.google.com/uc?export=view&id=1dsxUQCsLltdJ3GIKnA6z384dFR6aJDg1,Rigor Backshield,rare,"A lighter and more flexible backshield, surpassing the Vigilia Backshield in its agility, yet commanding a slightly higher price.",,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,M,,IMG_3855,https://drive.google.com/uc?export=view&id=1H4mYDkTEDohbHfHbP4uHvwG5vYGrrxIH,Blazing Chill Jacket,rare,This red jacket is perfect for both chill days and workout sessions - it's a great all-around choice!,,,BODY ARMOR,EQUIPS,Torso,,,#REF!,-
+,F,,IMG_3843,https://drive.google.com/uc?export=view&id=1wYyOVH-NpCpyLFJrJztM1M36m3SgMlq8,Red-Black Mock Neck Jacket,common,"A stylish jacket with a slightly high collar, featuring an eye-catching combination of red and black.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,IMG_3841,https://drive.google.com/uc?export=view&id=1f8_zwvN6CfnyOAc-EYg8WC7Rp80Dy3IC,Navy Blue Pullover Hoodie,common,A blue pullover hoodie that's perfect for outdoor activities.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,IMG_3839,https://drive.google.com/uc?export=view&id=15Ed5JF1kWJspzWJoJUbFTMNTanl1k9Xl,Pumpkin Spice Tee,common,"An elegant orange women's tee, radiating vibrant energy and perfect for making a bold fashion statement.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,IMG_3837,https://drive.google.com/uc?export=view&id=1KZ5GsHQsUq2VJEww7_8YBkbcXJvh00e-,Chunky Knit Sweater,common,"A thickly knitted sweater, offering extra warmth and comfort for women, perfect for embracing the cold with style and coziness.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,IMG_3835,https://drive.google.com/uc?export=view&id=1gBccM1Tz19epGODm5LsReEUagkF-4xhv,Purple Notch Neck,common,"A women’s garment in a captivating shade of purple, featuring an elegant notch neckline. This unique design blends bold color with refined style, perfect for making a statement.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,IMG_3833,https://drive.google.com/uc?export=view&id=1wiRUr46Fb48X-_1bz1E3Fh3Ta1lovV1b,Blazer with Sweater Insert,common,"A stylish blazer with a sweater insert, offering a layered look that’s both sleek and cozy. Perfect for casual sophistication or sharp formal vibes.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,IMG_3831,https://drive.google.com/uc?export=view&id=1lj0-JHHhjx5IFZgD1h0ggK-5YTY3F2m7,Faux Leather Jacket,common,"A faux leather jacket, perfect for a tomboyish vibe.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,IMG_3829,https://drive.google.com/uc?export=view&id=1X6Y4rawLxNbUjM9VrmM0I_9pMTq6Xb4w,Built-In Bra Tank,common,"A stylish tank top, perfect for summer days and gym sessions alike!",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_2205,https://drive.google.com/uc?export=view&id=1jf7Vk-DUocGd_IYtI9nyefnG_2_EjMO_,The Legendary Somola Warrior's Armor,legendary,"The legendary armor of the Somola Kingdom, worn by generations of its greatest kings. Steeped in history and forged in battle, this timeless armor symbolizes the enduring might and honor of Somola’s royal lineage.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_2203,https://drive.google.com/uc?export=view&id=1XOtCC7ZsBzLJB3K5ypPZnh69qWgRct6o,Armor of the New Somola King,legendary,"A newly forged armor crafted exclusively for the new king of the Somola Kingdom. Unlike its predecessors, this armor is a unique creation, embodying the strength and majesty of a rising ruler.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,IMG_1670,https://drive.google.com/uc?export=view&id=1qAVyTe114to9h-RpuxtOTtVOSuYybpEM,Brithael Warrior Vestments,legendary,"The ceremonial garb of The Order's esteemed women leaders. Exquisitely designed for sacred rituals, yet forged with the resilience for fierce combat.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,IMG_1669,https://drive.google.com/uc?export=view&id=1xFip5i0QP2G7IepKOsKoVXW8DMNMc-Z2,Nagmerrie Biker Jacket,legendary,"A weathered biker jacket worn by rebellious riders, exuding a sense of untamed freedom. Its rugged design and faded look capture the raw spirit of the open road.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,IMG_1668,https://drive.google.com/uc?export=view&id=1mhNT75RY5fFHoWxmoKWrRH04VyEp_7cE,Nomalies,epic,"An elegant armor worn by a female insect tamer, crafted with intricate designs that reflect her mastery over swarming creatures.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_1638,https://drive.google.com/uc?export=view&id=1H6D5Xf8PbBVMJYB2NxAaFtblUogxflbL,Decimator Strider Armor,legendary,"Armor of desert pirates who use modified, battered vehicles. The armor is Light despite being made of Heavy Metal and provides significant protection for the Rider",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,STARLITE,https://drive.google.com/uc?export=view&id=13OQdESAHOwPPpFB03h36jHZ0MGZTj8es,Tiny Starlite Tiara,rare,,,,FOREHEAD CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_2235,https://drive.google.com/uc?export=view&id=1RKqkvxRBCSwbzLAZTHp6shIJAIYMHeW2,Wingrider Helm,common,mounted wingrider soldiers helmet,,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_2252,https://drive.google.com/uc?export=view&id=1R7bsX6tR0LTukKcUdb4CnVjTv8_iLoPD,Nocturnus Terror,legendary,legendary dark helmet,,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_3756,https://drive.google.com/uc?export=view&id=10PJEUnKN-QjZIktMcNT1xnBAxhCG-wbO,Buzzkill's Ornament,epic,,,,LARGE 1 BY 3 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_3753,https://drive.google.com/uc?export=view&id=1h4T6OgxcSjkeQ1cCdtdPtvJsOMCb8vFk,Behemoth Crown,legendary,behemoth helmet,,behemoth hatchy,LARGE 1 BY 3 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_2238,https://drive.google.com/uc?export=view&id=1DNNEWDuWKm8I2Ae9aF7aDLDUlThfIZtO,Dreven Darkmore,common,,,,LARGE 1 BY 3 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_2239,https://drive.google.com/uc?export=view&id=1PMlaDd2q15lPYVww6uBrtZveafc8mPfc,Ruhtra - Arthur Crown,epic,,,,LARGE 1 BY 3 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_2241,https://drive.google.com/uc?export=view&id=1vclhqqsE0mr1hdFaMfYAlIWyJhjPIgL3,Spirit of Ellendigedier,rare,,,,LARGE 1 BY 3 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_2244,https://drive.google.com/uc?export=view&id=1dSfhWrrHWwPPf-Q61JhhXtRKGWjsb8F_,Royal Crown of Xaman'Ek,epic,"The Royal Crown of Xaman'Ek is a celestial artifact woven from starlight, adorned with jade and obsidian. It grants its bearer the power to traverse realms and unlock ancient secrets, guiding them with the wisdom of the Northern Star.",,,LARGE 1 BY 3 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_3758,https://drive.google.com/uc?export=view&id=1LK8IKkx0DoYXwasVZ4sjd2forez4l2KI,Azhassi Domino Mask,legendary,,,,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,F,,QUIEJESTER,https://drive.google.com/uc?export=view&id=17_zZAC8Wxsf0fuG0jSSf8-D4OmIDIS6y,Grand Jesters Bell crown,epic,"A mystical headpiece adorned with blue bells that chime with magic, weaving illusions and turning every movement into a spell of dazzling trickery.",,,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_2237,https://drive.google.com/uc?export=view&id=1gD3Gd8soJKD-cJz6i_l5U-fqHMai_Pcf,The Violent Maniac,epic,"A helmet forged from gleaming black steel, crowned with blue crystal feathers atop. Worn by a ruthless executioner, it embodies the wearer's twisted desire to watch enemies suffer in agony before meeting their end.",,,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_2202,https://drive.google.com/uc?export=view&id=1PbwwiEjAAHi1Ajxdi-nHIOUnOcII5_Kb,Ixor Commanders Regalia,legendary,Ixor National Airguard Commanders Helm,,Ixor National Airguard Commanders Helm,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_2240,https://drive.google.com/uc?export=view&id=1XKiarYejOV7T3Ju2wIMYH3zadJLvRgza,Gryphoneers Headguard,rare,,,Gryphon rider,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,IMG_1901,https://drive.google.com/uc?export=view&id=1-3tOomqzT3CfJzKEx9Zmt2QSLCoVOjO4,Open-Faced Daimon Mask,rare,,,,FACIAL CROWN,EQUIPS,Eyewear,,,,-
+,M,,IMG_6053,https://drive.google.com/uc?export=view&id=1gcH0d-Ucx6KdpQA4Q8qgnkpHDAJn_6v5,,legendary,,,,LARGE 1 BY 3 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,SKYXPLORER,https://drive.google.com/uc?export=view&id=1YRtljl32uGs4Bh6Y-viCYC4DTT3Rewct,Celestine Tiara,common,,,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,M,,NEBULAAR,https://drive.google.com/uc?export=view&id=12MTtkzgWXyNwck2HH53e9Z1sWdS_s3IK,Nebular Crown,legendary,"Unbelievably light yet durable, its made from an unknown material, not from this world",,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,M,,EQUINOUX,https://drive.google.com/uc?export=view&id=1z2odpgwJbZcYqfpasFDcr6yKaGj3nwBn,Equinox Crown,epic,A crown forged at the precise moment of perfect balance between day and night. It is said that the wearer will be blessed throughout both day and night.,,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,F,,CELESTIAL STRAND,https://drive.google.com/uc?export=view&id=1BcZgq1mWeRYoMwmv1mguvnbmGeDjbFtW,Celestial Strand,rare,,,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,M,,Demonplate Chains (Male),https://drive.google.com/uc?export=view&id=1_6q8CFVKjf7eJmTstahiwH4xNZERBnLN,Demonplate Chains (Male),rare,,,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,F,,Demonplate Chains (Female),https://drive.google.com/uc?export=view&id=1CEjZmbIRnq80MKmKaeMRxTVbbK67LaMg,Demonplate Chains (Female),rare,,,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,F,,IMG_3134,https://drive.google.com/uc?export=view&id=1_PX-RI0-ckaMlUQCoYSPAepAFsw7OURX,Waypoint Shoulder Plate F,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_3136,https://drive.google.com/uc?export=view&id=1Np_B0bx4HkCHQTyw7W2fyd4bDdnTGB74,Waypoint Shoulder Plate M,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,U,,Spiritual Blue,https://drive.google.com/uc?export=view&id=1IdZIJECCvdq3T0cKsxd4c5jNEeWdCPC9,Spiritual Blue,common,Spiritual Blue-colored background.,,,BACKGROUND,EQUIPS,Background,,,,-
+,U,,Heroism Orange,https://drive.google.com/uc?export=view&id=1JM08as-FV9SJ7wLTi9JRPjirsWCU2oFK,Heroism Orange,common,Heroism Orange-colored background.,,,BACKGROUND,EQUIPS,Background,,,,-
+,U,,Chivalry Orange,https://drive.google.com/uc?export=view&id=1vQZ0UqSaN-xKBNIysb1WdHqRomf_G27h,Chivalry Orange,common,Chivalry Orange-colored background.,,,BACKGROUND,EQUIPS,Background,,,,-
+,U,,Magical Purple,https://drive.google.com/uc?export=view&id=1EMr7ir40BWpDsJ_WOKqUqErV16nZvmDc,Magical Purple,common,Magical purple-colored background.,,,BACKGROUND,EQUIPS,Background,,,,-
+,U,,Courage Yellow,https://drive.google.com/uc?export=view&id=1L4PH-OfjSZj-0f-r7-_anUsUZ7ZJwoiI,Courage Yellow,common,Courage Yellow-colored background.,,,BACKGROUND,EQUIPS,Background,,,,-
+,U,,Prudence Lime,https://drive.google.com/uc?export=view&id=1ByHYW8AvAv8xCgoWBSvQyP7y1I3fHf1h,Prudence Lime,common,Prudence Lime-colored background.,,,BACKGROUND,EQUIPS,Background,,,,-
+,U,,Enigmatic Red,https://drive.google.com/uc?export=view&id=1LWqEoLo7vOZ15PwhheMNtsBNpH5WbGKr,Enigmatic Red,common,Enigmatic Red-colored background.,,,BACKGROUND,EQUIPS,Background,,,,-
+,U,,IMG_3426,https://drive.google.com/uc?export=view&id=1QzOEeHksn2qO7P7zDsVSNE8SWS0EqXAb,Esotericism Aura,epic,An aura that reveals the person as someone deeply immersed in spirituality.,,,AURA,EQUIPS,Effects,,,,-
+,U,,IMG_3425,https://drive.google.com/uc?export=view&id=1eLj3T77XVD9nKpZ2izu9SYYlzEjRkJqz,Berserk Aura,epic,"An aura that reveals the person is in berserk mode, radiating uncontrollable rage and raw power.",,,AURA,EQUIPS,Effects,,,,-
+,U,,IMG_3424,https://drive.google.com/uc?export=view&id=1YdEtQUgiUze5GtknbpKMIhwMGY5z_RCv,Aggressive Aura,epic,"An aura that reveals the person as someone who thrives on violence, radiating a palpable sense of aggression.",,,AURA,EQUIPS,Effects,,,,-
+,U,,IMG_3423,https://drive.google.com/uc?export=view&id=1tALQIt7MuEOZBQEXXpmmnLxtYuqzo6xu,Atrocity Aura,legendary,"An aura that reveals the person as a ruthless powerhouse, radiating a terrifying sense of cruelty and dominance.",,,AURA,EQUIPS,Effects,,,,-
+,U,,IMG_3422,https://drive.google.com/uc?export=view&id=1zHbtxDPq8uVWx6H41lnllc8heNfSYFLb,Warrior Aura,rare,An aura typically possessed by a knight.,,,AURA,EQUIPS,Effects,,,,-
+,U,,IMG_2785,https://drive.google.com/uc?export=view&id=12HOt8kzsWIb30bjDZARmhN0-VHw2BqLF,Curse Aura,epic,"An aura that reveals the person bears a sealed curse within, radiating a dark and ominous presence.",,,AURA,EQUIPS,Effects,,,,-
+,F,,IMG_2786,https://drive.google.com/uc?export=view&id=1yKw4AK9_Zua3cXxr4L6EdClF1wKTRErO,Diviner Aura,rare,An aura that reveals the person as a seer.,,,AURA,EQUIPS,Effects,,,,-
+,M,,IMG_2789,https://drive.google.com/uc?export=view&id=1svcx0QkHc96BM7Y3KBkRfpqtgL0RTPbn,Shaman Aura,epic,An aura that reveals the person is possessed by something unknown.,,,AURA,EQUIPS,Effects,,,,-
+,M,,IMG_2790,https://drive.google.com/uc?export=view&id=1ECzeepTec5ehfS1ZWBaEG-HpsRNsOJRy,Peacefulness Aura,rare,An aura that reveals the person as a lover of tranquility and peace.,,,AURA,EQUIPS,Effects,,,,-
+,F,,IMG_2787,https://drive.google.com/uc?export=view&id=1KwwUKQGrBnGmUVnoPz4Kdf66MiK4BTx5,Majesty Aura,rare,"An aura typically possessed by those with immense authority, exuding a sense of grandeur and commanding respect.",,,AURA,EQUIPS,Effects,,,,-
+,M,,IMG_2788,https://drive.google.com/uc?export=view&id=1Yn8a7VRUBv37QasUDfpkT6nd-Ozi8GdZ,Cryptic Power Aura,rare,"An aura that reveals the person as someone powerful, harboring deeply hidden secrets of a cryptic nature.",,,AURA,EQUIPS,Effects,,,,-
+,M,,Serpentine Face Mask,https://drive.google.com/uc?export=view&id=18dksVnSeiTB5dtsJfpUHXG7BrKx70BZe,Mask of Hypnosss,legendary,"A mysterious mask. Its origins are unknown. Its purpose, too, remains a mystery.",,,MASK,EQUIPS,Eyewear,,,,-
+,M,,IMG_3764,https://drive.google.com/uc?export=view&id=1Nb01ofoK1Hx9VRFjK0Z2_OuxioQre2N4,Oceanic Glasses,epic,hatchy armor,,monster armor,GLASSES,EQUIPS,Eyewear,,,,-
+,M,,FALCOON,https://drive.google.com/uc?export=view&id=1towc_lWRVv5HctEvSBmI3SeW2-mgvgIM,Falcoon,rare,,,,GLASSES,EQUIPS,Eyewear,,,,-
+,M,,IMG_3761,https://drive.google.com/uc?export=view&id=1MY9X2juu2H0xWNfmvbp8ChFzaKyEj7W4,Spore Helm,epic,,,,HAT,EQUIPS,Headgear,,,,-
+,M,,BOYSCAP,https://drive.google.com/uc?export=view&id=13W3nIbt86A-BDxqcOySabhb2n3UOkL5w,Boyscap,epic,,,,HAT,EQUIPS,Headgear,,,,-
+,M,,HOLYSAINT,https://drive.google.com/uc?export=view&id=19qo-9pfK4f-gQ-8vvJjSNjlKRkq5Co_s,Holysaint,epic,,,,HAT,EQUIPS,Headgear,,,,-
+,M,,PERSISTHAT,https://drive.google.com/uc?export=view&id=1oNvKTunpPhxVbsvLoQfWEn-K9TWf6_Zc,Persist Hat,rare,,,,HAT,EQUIPS,Headgear,,,,-
+,M,,PIRATE BANDANA,https://drive.google.com/uc?export=view&id=140eg2MBXgO84hctgaleEfuArCenFf2g4,Pirate Bandana,rare,,,,HAT,EQUIPS,Headgear,,,,-
+,M,,IMG_1618,https://drive.google.com/uc?export=view&id=1v7jQvp_LtU33xcRBbSFH6r0hMQr-2UAN,Captain's Heavy Shoulder Guard,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_1626,https://drive.google.com/uc?export=view&id=1iVspzleeM6xWUKFY2saJwEkf5vOQ8QoM,Bleves Tenabres,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_1628,https://drive.google.com/uc?export=view&id=1CkZuwa5Yxjk2Z7N-rpiIJKgHhgdU-N_u,Darkheart Shoulder Guard,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_1631,https://drive.google.com/uc?export=view&id=1_aZSX0q6D-S1WUc_TMNN1NujgTB09fCN,Nightmare Bronze Shoulder Plate,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_1633,https://drive.google.com/uc?export=view&id=1qAJV6EWhBgHEaTQbIWEGCtAiqojk7ged,Demonplate Shoulder Guard,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_1635,https://drive.google.com/uc?export=view&id=1klw3XWP4YXsRcw3e4cQKx9jvLFvPmna-,Champions guard,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_1637,https://drive.google.com/uc?export=view&id=1FRxeQkGTxCPZj5LOCFNU-P5M0dN8kESQ,Divine Solo Shoulder Guard,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_1641,https://drive.google.com/uc?export=view&id=1DEeAVezNHegNYN-nfSx1hBTwRYNlfsOr,Adventurers Shoulder Guard,common,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_1639,https://drive.google.com/uc?export=view&id=1AoNRPNx908kNWO6Re7NkqCQsZh32T3nW,Sentinels Pauldron,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_6059,https://drive.google.com/uc?export=view&id=11ygQ-2xohcGThLWdmJXep_iZjJLEirTd,Runic Swordfighter War Helm,legendary,"The war helm of a bloodthirsty swordsman, whose twisted joy lies in the slow, excruciating torment of his victims. Each kill is a symphony of suffering, relished until their final breath.",,,HELMET,EQUIPS,Headgear,,,,-
+,M,,IMG_6049,https://drive.google.com/uc?export=view&id=1VJy8FE96PAl56rIEdiU8ps9c8Lpgkkvl,Imperius Blademaster War Helm,legendary,"The war helm of a master swordsman, whose relentless ambition for world domination burned with every strike of his blade.",,,HALF FACE HEAD HELMET,EQUIPS,Headgear,,,,-
+,F,,IMG_1667,https://drive.google.com/uc?export=view&id=1CMClYDHUAGKsptx0qaliDMDZLxV_zOO9,Feathered Shoulder Guard,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_1671,https://drive.google.com/uc?export=view&id=11iGZf2inoGfa1M4CHXJcx7HCOfCoQf1F,Shoulderguard of the pumpkin king F,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_1672,https://drive.google.com/uc?export=view&id=1Y2h2q592Xmbaq_J5F--U8gNPQgW80qUY,Stryders Guard,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_1674,https://drive.google.com/uc?export=view&id=1AZ1ORn8zC605zIlVR19Gh8B7CKZBS4oV,Crystal of the dawn,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_1676,https://drive.google.com/uc?export=view&id=1PsklS5Noz4wbrGhIhpqhSmOCicLxX1B_,Vasukani Defenders,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_2204,https://drive.google.com/uc?export=view&id=1JBj0FCjpYRx3-0KHcwuBB7MW1th8TGvZ,Heavy Pauldrons,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_2206,https://drive.google.com/uc?export=view&id=1xygZQiWBRIrp1SVCv7JAcEiNP5bJW1QX,Golden Hatchy Shoulder Protector,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_2198,https://drive.google.com/uc?export=view&id=1BA-KC5VFO2KK56fuyKfx_mEjPabXT7qP,Shoulderguards of the Magus,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_2201,https://drive.google.com/uc?export=view&id=1TrEyRWoCnM8LBdjPfxwTNe5jj_EOGXk2,Northerners Cloak F,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_2642,https://drive.google.com/uc?export=view&id=1FXFqxhOpgIesKUw0hRyrP13V7y7lpqyP,Northerners Cloak M,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_2651,https://drive.google.com/uc?export=view&id=1ncZnna_c-qe6ZFubobdluTkJppE67LFf,Bleves Tenabres,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_2655,https://drive.google.com/uc?export=view&id=1X6kd03VBu-T6kbRj0uW4jKcRIPyVdRW1,Darkheart Shoulder Guard,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_2657,https://drive.google.com/uc?export=view&id=1Tw3i2i8jlsEdhhMg3Wz9ptDMXge2uF9n,Demonplate Shoulder Guard,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,IMG_2660,https://drive.google.com/uc?export=view&id=1NdgEzG1QV_y_wXeParzKgo1hjyVArgrY,Nightmare Bronze Shoulder Plate,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_3763,https://drive.google.com/uc?export=view&id=1ViZMFQFHtWHFTn_Jpj_04nhRc2Tzv4C1,Duck Beak Mask,epic,"The Duck Beak Mask offers a playful yet practical design, featuring a vibrant beak shape that adds a whimsical touch to any outfit. Perfect for costume parties or quirky disguises.",,,MOUTH MASK,EQUIPS,Mouth Slot,,,,-
+,M,,dark Legion Armor,https://drive.google.com/uc?export=view&id=1k70AHJeKixFCP4x8sMYRcuHi4e3x1Gvf,Dark Legion Mask,rare,"The Iron Legion Mask, infused with the essence of darkness, unleashes shadowy tendrils from the heavens to consume enemies below.",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,abyssal Legion Armor,https://drive.google.com/uc?export=view&id=14IUgGfTgxFOYNbYk8hy3dSGlc08_ZjR0,Abyssal Legion Mask,epic,"The Iron Legion Mask, infused with the chaotic essence of the abyss, releases uncontrollable tendrils of corruption to ravage enemies above.",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,light Legion Armor,https://drive.google.com/uc?export=view&id=13ov-uiJYF6tEEKVd8lC3I-7cYeq3Q1-z,Light Legion Mask,rare,"The Iron Legion Mask, infused with the essence of light, channels radiant beams from the heavens to smite enemies below.",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,void Legion Armor,https://drive.google.com/uc?export=view&id=11aSij1qRNPqvNftOSYdQoJ02uN1rwDkt,Void Legion Mask,legendary,"The Iron Legion Mask, infused with the essence of the void, summons phantom chains from the empty expanse above to devour enemies below.",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,fire Legion Armor,https://drive.google.com/uc?export=view&id=1HHhDD7SZwLWlHQ1XlMoRwf5KouC7itYb,Fire Legion Mask,rare,"The Iron Legion Mask, infused with the essence of fire, channels blazing embers from the heavens to strike enemies below.",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,plant Legion Armor,https://drive.google.com/uc?export=view&id=13EQIlNhTtogZnKueV5ZeWkp5lCHZBOLJ,Plant Legion Mask,rare,"The Iron Legion Mask, infused with the essence of plants, summons twisting vines from the heavens to ensnare enemies below.",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,water Legion Armor,https://drive.google.com/uc?export=view&id=1_71D9-ctbs7nrXzBG5NZ76da2acoYjWs,Water Legion Mask,rare,"The Iron Legion Mask, infused with the essence of water, channels powerful torrents from the heavens to engulf enemies below.",,,LARGE FULL FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,dark Lepirox Valor plate,https://drive.google.com/uc?export=view&id=1KYik3QHDgEql1dYF-WuLMnx8XoVla2rr,Shadowy Lepirox Valor,rare,"The upgraded Lepirox Valor is a powerful armor that absorbs diseases from Dark-type Hatchies and transfers them into a specific elixir or formula. Designed for protection and healing, this armor transforms the absorbed ailments into potent remedies, harnessing the unique power of Hatchy diseases.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,abyssal Lepirox Valor plate,https://drive.google.com/uc?export=view&id=1DfKSRdWLKC-AgPBIKSa8g8woEJbdoN4E,Profound Lepirox Valor,rare,"The upgraded Lepirox Valor is a powerful armor that absorbs diseases from Abyssal-type Hatchies and transfers them into a specific elixir or formula. Designed for protection and healing, this armor transforms the absorbed ailments into potent remedies, harnessing the unique power of Hatchy diseases.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,light Lepirox Valor plate,https://drive.google.com/uc?export=view&id=1Dne-JtV-r3th3IupuHVxwtaCToF_jFv6,Glare Lepirox Valor,rare,"The upgraded Lepirox Valor is a powerful armor that absorbs diseases from Light-type Hatchies and transfers them into a specific elixir or formula. Designed for protection and healing, this armor transforms the absorbed ailments into potent remedies, harnessing the unique power of Hatchy diseases.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,void Lepirox Valor plate,https://drive.google.com/uc?export=view&id=1Izmu8xD-l_Q4hywlVVNusLpMQuK_6u5v,Nothingness Lepirox Valor,legendary,"The upgraded Lepirox Valor is a powerful armor that absorbs diseases from Void-type Hatchies and transfers them into a specific elixir or formula. Designed for protection and healing, this armor transforms the absorbed ailments into potent remedies, harnessing the unique power of Hatchy diseases.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,fire Lepirox Valor plate,https://drive.google.com/uc?export=view&id=1619bFJGedkzEjgR7ivZhXjvNTd0FlUeO,Spark Lepirox Valor,rare,"The upgraded Lepirox Valor is a powerful armor that absorbs diseases from Fire-type Hatchies and transfers them into a specific elixir or formula. Designed for protection and healing, this armor transforms the absorbed ailments into potent remedies, harnessing the unique power of Hatchy diseases.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,plant Lepirox Valor plate,https://drive.google.com/uc?export=view&id=1PeeCa6KfzHR_iHIiaxo9afJ2UKtG-tSZ,Greenery Lepirox Valor,rare,"The upgraded Lepirox Valor is a powerful armor that absorbs diseases from Plant-type Hatchies and transfers them into a specific elixir or formula. Designed for protection and healing, this armor transforms the absorbed ailments into potent remedies, harnessing the unique power of Hatchy diseases.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,water Lepirox Valor plate,https://drive.google.com/uc?export=view&id=1Vt1EprTPNGclhdNbFcurkFtGF026b6H_,Dew Lepirox Valor,rare,"The upgraded Lepirox Valor is a powerful armor that absorbs diseases from Water-type Hatchies and transfers them into a specific elixir or formula. Designed for protection and healing, this armor transforms the absorbed ailments into potent remedies, harnessing the unique power of Hatchy diseases.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,dark Lepirox Valor,https://drive.google.com/uc?export=view&id=1B2pQYLIVMr89F2QYSFiqYlt5ScCknlNt,Dark Mystishroud,rare,,,,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,abyssal Lepirox Valor,https://drive.google.com/uc?export=view&id=1RnW61IEwvKhAxztcknRmsy9TvrmV38nG,Abyssal Mystishroud,rare,,,,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,light Lepirox Valor,https://drive.google.com/uc?export=view&id=1Erqd3CwiJQMJ4y5gv0ztxPJ7hQ3Q25xY,Light Mystishroud,rare,,,,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,void Lepirox Valor,https://drive.google.com/uc?export=view&id=1Yhkkpu6YLHyyn4F9qU6wYpjRXv1J_xzN,Void Mystishroud,legendary,,,,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,plant Lepirox Valor,https://drive.google.com/uc?export=view&id=1s0-hre4JFjDZlMw4F3ibpMNN6bEUCFWh,Plant Mystishroud,rare,,,,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,fire Lepirox Valor,https://drive.google.com/uc?export=view&id=1OYchaV_Qcb4if9ir8gGXuJlwGIgwC1i3,Fire Mystishroud,rare,,,,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,water Lepirox Valor,https://drive.google.com/uc?export=view&id=1p8kDsm61icGADpPubDjO9ltdGmL6Pn5y,Water Mystishroud,rare,,,,LARGE 1 BY 2 FACIAL CROWN,EQUIPS,Headgear,,,,-
+,M,,dark Legion Armor plate,https://drive.google.com/uc?export=view&id=1DmhND-62CGYzvvJiI3ipd2d7_C5YJZEV,dark Legion Armor plate,rare,Iron Legion Guard enhanced with dark elements. Ideal for novices who have already recognized the advantages of dark elements.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,abyssal Legion Armor plate,https://drive.google.com/uc?export=view&id=1g0eWiBSoD8kl_uln4q4Ef-4Exk4YKIzR,abyssal Legion Armor plate,epic,Iron Legion Guard enhanced with abyssal elements. Ideal for novices who have already recognized the advantages of abyssal elements.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,light Legion Armor plate,https://drive.google.com/uc?export=view&id=1QXChdwWmGxrEx9myL5LJnSbN9JZW75tA,light Legion Armor plate,rare,Iron Legion Guard enhanced with light elements. Ideal for novices who have already recognized the advantages of light elements.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,void Legion Armor plate,https://drive.google.com/uc?export=view&id=1lVQWv4WBwEzNJ4RE6p6cOAHql2ydpv_u,void Legion Armor plate,legendary,Iron Legion Guard enhanced with void elements. Ideal for novices who have already recognized the advantages of void elements.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,fire Legion Armor plate,https://drive.google.com/uc?export=view&id=1zy0m-6R9dGQ0s682mUln1ElauobYXaCH,fire Legion Armor plate,rare,Iron Legion Guard enhanced with fire elements. Ideal for novices who have already recognized the advantages of fire elements.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,plant Legion Armor plate,https://drive.google.com/uc?export=view&id=1yk1J3Ht5cR2GWY0QTA4fIj0_GNzt8ABB,plant Legion Armor plate,rare,Iron Legion Guard enhanced with plant elements. Ideal for novices who have already recognized the advantages of plant elements.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,water Legion Armor plate,https://drive.google.com/uc?export=view&id=1LIUesnRCkbKk8XWvYDQKLZrbtHm8kuIn,water Legion Armor plate,rare,Iron Legion Guard enhanced with water elements. Ideal for novices who have already recognized the advantages of water elements.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,dark COSMICORE,https://drive.google.com/uc?export=view&id=114wPbANVtWKjjzKeuWt4q07HV6qFE6P6,dark COSMICORE,rare,,,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,M,,abyssal COSMICORE,https://drive.google.com/uc?export=view&id=1y1I_GOkf0qQs9530ollMyXSee3zcSjSg,abyssal COSMICORE,epic,,,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,M,,light COSMICORE,https://drive.google.com/uc?export=view&id=1HlnJ3Y1GgwX2I-pzbyVZ9N2IsIRW4jfj,light COSMICORE,rare,,,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,M,,void COSMICORE,https://drive.google.com/uc?export=view&id=11P6amxh9xBAKzpk949EHDUUENKoL9xZa,void COSMICORE,legendary,,,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,M,,fire COSMICORE,https://drive.google.com/uc?export=view&id=1ZzQBNd1BVHWLbh-REjWlRNO2iBz8eQ_N,fire COSMICORE,rare,,,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,M,,plant COSMICORE,https://drive.google.com/uc?export=view&id=19FkdLVBhHQDmKdftz5-x20uVebCw3rHC,plant COSMICORE,rare,,,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,M,,water COSMICORE,https://drive.google.com/uc?export=view&id=1EfvPWwFs4XD6r6sX_PbSW2xEy1t6GJpL,water COSMICORE,rare,,,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,M,,dark Lepirox Valor shoulder,https://drive.google.com/uc?export=view&id=1zfVWlxGrweiwlb1ht9H8_pdpxhIRtBVa,dark Lepirox Valor shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,abyssal Lepirox Valor shoulder,https://drive.google.com/uc?export=view&id=1Y9-_I-SKDW--3QTyM8Ej6GrSf9DB1Qq-,abyssal Lepirox Valor shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,light Lepirox Valor shoulder,https://drive.google.com/uc?export=view&id=1sP-gq5EfMQqL80YMKWxDjSz_aJfPW8N8,light Lepirox Valor shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,void Lepirox Valor shoulder,https://drive.google.com/uc?export=view&id=1GxkmWH7Z897fNpBvPmUQXOeK9kmEHAob,void Lepirox Valor shoulder,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,fire Lepirox Valor shoulder,https://drive.google.com/uc?export=view&id=1Id7LyNUeSlMOjmtHom4BODjlz98cN8hs,fire Lepirox Valor shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,plant Lepirox Valor shoulder,https://drive.google.com/uc?export=view&id=12LKw4go24162HGJQpiU3fP1z74QipZn6,plant Lepirox Valor shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,water Lepirox Valor shoulder,https://drive.google.com/uc?export=view&id=1iTaZiUY5J4P-z0bQyRBJ_3185TfNp_TS,water Lepirox Valor shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,dark Vovelgoth plate,https://drive.google.com/uc?export=view&id=1n4ih5C7vZV5CqgvTCZpGzKOYnNuTxmzg,dark Vovelgoth plate,rare,"Forged in the shadowed realm of darkness, the Vovelgoth Armor channels the relentless power of the night. In the hands of Akwar, it is both a blessing and a force of unimaginable power for the nation.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,abyssal Vovelgoth plate,https://drive.google.com/uc?export=view&id=1etqsT8j-ld36yzz4LWrx-DHsRL81a4h7,abyssal Vovelgoth plate,epic,"Forged in the depths of the abyss, the Vovelgoth Armor channels the ancient and unfathomable power of the deep. In the hands of Akwar, it is both a blessing and a force of unimaginable power for the nation.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,light Vovelgoth plate,https://drive.google.com/uc?export=view&id=1b2X4sI0vCv-N_wlix6MiJ9PiMHEDt-Z5,light Vovelgoth plate,rare,"Forged in the heart of radiant light, the Vovelgoth Armor embodies the purest essence of illumination. In the hands of Akwar, it is both a blessing and a force of unimaginable power for the nation.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,void Vovelgoth plate,https://drive.google.com/uc?export=view&id=1t0oWOYIaQfjghNY45ysVKFx8WJPPmh3L,void Vovelgoth plate,legendary,"Forged in the void of nothingness, the Vovelgoth Armor harnesses the infinite power of emptiness. In the hands of Akwar, it is both a blessing and a force of unimaginable power for the nation.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,fire Vovelgoth plate,https://drive.google.com/uc?export=view&id=12ThkCpLADt7AH-0mhupX6ctr-xb2gXUc,fire Vovelgoth plate,rare,"Forged in the heart of flames, the Vovelgoth Armor holds the wrath of fire itself. In the hands of Akwar, it is both a blessing and a force of unimaginable power for the nation.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,plant Vovelgoth plate,https://drive.google.com/uc?export=view&id=1UkceS7-EKcnj1YA3S-JTZRCmJUI8_tDp,plant Vovelgoth plate,rare,"Forged in the heart of the ancient forest, the Vovelgoth Armor embodies the resilient power of nature. In the hands of Akwar, it is both a blessing and a force of unimaginable power for the nation.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,water Vovelgoth plate,https://drive.google.com/uc?export=view&id=1gorcejcxDIpb6J1kNH-IDQ4ssOvmptqI,water Vovelgoth plate,rare,"Forged in the depths of the ocean, the Vovelgoth Armor harnesses the relentless power of water. In the hands of Akwar, it is both a blessing and a force of unimaginable power for the nation.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,dark Merimora plate,https://drive.google.com/uc?export=view&id=1fWDfqwX5JAPlWl_d_LHrTzL829NtvwyV,Dark Trainee's Plate,epic,common training garment imbued with its own sensing crystal on the chest that flickers when the wearer runs out of Mana.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,abyssal Merimora plate,https://drive.google.com/uc?export=view&id=1Dn28ilgAZt3FtV1N0Of92-bqKnSSjxux,Abyssal Trainee's Plate,epic,common training garment imbued with its own sensing crystal on the chest that flickers when the wearer runs out of Mana.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,light Merimora plate,https://drive.google.com/uc?export=view&id=1bvKMouvCtL28rTW7ujByhkEzYDucuBAl,Light Trainee's Plate,epic,common training garment imbued with its own sensing crystal on the chest that flickers when the wearer runs out of Mana.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,void Merimora plate,https://drive.google.com/uc?export=view&id=1tBpq1QJttexLkKV3kBjuLM5YBQMIj6YR,Void Trainee's Plate,legendary,common training garment imbued with its own sensing crystal on the chest that flickers when the wearer runs out of Mana.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,fire Merimora plate,https://drive.google.com/uc?export=view&id=121Gk5BOnTEXMDCzTF5Jtk4vd-YhAHv47,Fire Trainee's Plate,rare,common training garment imbued with its own sensing crystal on the chest that flickers when the wearer runs out of Mana.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,plant Merimora plate,https://drive.google.com/uc?export=view&id=1M1GWeLQdYMEqVknQf9fYHmW4cfIrk3iG,Plant Trainee's Plate,rare,common training garment imbued with its own sensing crystal on the chest that flickers when the wearer runs out of Mana.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,water Merimora plate,https://drive.google.com/uc?export=view&id=1f05Xep6KKDW5w5L9YFhXp-_e6UPg_jaH,Water Trainee's Plate,rare,common training garment imbued with its own sensing crystal on the chest that flickers when the wearer runs out of Mana.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,dark Emberstorm Armor plate,https://drive.google.com/uc?export=view&id=1IKyb17FcS6gGYAPOO_2fArCmEwfnTxWl,Dark Emberstorm Armor Plate,epic,"Emberstorm Armor infused with dark elements, as a dark-element magic card has been permanently embedded within it.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,abyssal Emberstorm Armor plate,https://drive.google.com/uc?export=view&id=1zUxOSMC2X5ytDpya2sUNPODfV2TCLi-z,Abyssal Emberstorm Armor Plate,epic,"Emberstorm Armor infused with abyssal elements, as a abyssal-element magic card has been permanently embedded within it.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,light Emberstorm Armor plate,https://drive.google.com/uc?export=view&id=17uMBBGYlqOjOJAWBW-BU6yD5B99iy7qf,Light Emberstorm Armor Plate,epic,"Emberstorm Armor infused with light elements, as a light-element magic card has been permanently embedded within it.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,void Emberstorm Armor plate,https://drive.google.com/uc?export=view&id=1uD50UHaeYCPxNgftvq5fMRs_nYy-9Gcg,Void Emberstorm Armor Plate,legendary,"Emberstorm Armor infused with void elements, as a void-element magic card has been permanently embedded within it.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,fire Emberstorm Armor plate,https://drive.google.com/uc?export=view&id=1eNJ0rH0tc4WzH8eAFNB4KP5daQqEJ9Nn,Fire Emberstorm Armor Plate,epic,"Emberstorm Armor infused with fire elements, as a fire-element magic card has been permanently embedded within it.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,plant Emberstorm Armor plate,https://drive.google.com/uc?export=view&id=1_U30OmdTo6Mh-MdvAJNwJlIAxlCErBnN,Plant Emberstorm Armor Plate,epic,"Emberstorm Armor infused with plant elements, as a plant-element magic card has been permanently embedded within it.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,water Emberstorm Armor plate,https://drive.google.com/uc?export=view&id=1jFrunMO8LRiBAp0J7dLnLkubZ1iVeOKm,Water Emberstorm Armor Plate,epic,"Emberstorm Armor infused with water elements, as a water-element magic card has been permanently embedded within it.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,dark Vovelgoth shoulder,https://drive.google.com/uc?export=view&id=1n7ylwRh94ZuI_SBCgfTTxWYdw9LYhwTX,Dark Vovelgoth Shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,abyssal Vovelgoth shoulder,https://drive.google.com/uc?export=view&id=1WeEI0p-aaYBXJ8pYxJmnK9-Rfq4jSWTI,Abyssal Vovelgoth Shoulder,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,light Vovelgoth shoulder,https://drive.google.com/uc?export=view&id=1tHNbNA0r8EWX9AEk_eQne6UIMqM0E9Bm,Light Vovelgoth Shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,void Vovelgoth shoulder,https://drive.google.com/uc?export=view&id=17dWl1QOyyRKFAqpUk-PzBWSXugOGHpKk,Void Vovelgoth Shoulder,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,fire Vovelgoth shoulder,https://drive.google.com/uc?export=view&id=10oHdWaaYvgG4y0i-tRcR3xVnrduQvSB6,Fire Vovelgoth Shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,plant Vovelgoth shoulder,https://drive.google.com/uc?export=view&id=1rKF2w-pEKOHNKd4SGSwqqvoJ2PGdCt18,Plant Vovelgoth Shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,water Vovelgoth shoulder,https://drive.google.com/uc?export=view&id=1nlmYswFlWrWqP8iuKWzkzW7u3DXxJPpz,Water Vovelgoth Shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,dark Merimora shoulder,https://drive.google.com/uc?export=view&id=1lBTizoGGDjxohO9SZIvq3Jr-kIGPSxgV,Dark Trainee's Shoulders,epic,Dark-infused Trainee's Pauldrons—stealthy as a shadow.,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,abyssal Merimora shoulder,https://drive.google.com/uc?export=view&id=12mcKT5ESBDdi2-NPZ99eUwKLhsMPt2z0,Abyssal Trainee's Shoulders,epic,Abyssal-infused Trainee's Pauldrons—endless as the abyss.,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,light Merimora shoulder,https://drive.google.com/uc?export=view&id=1LfweaNVCx3EO5HQhsiR4toCyNzEWS0xW,Light Trainee's Shoulders,epic,Light-infused Trainee's Pauldrons—light as a ray.,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,void Merimora shoulder,https://drive.google.com/uc?export=view&id=1fWAdWEeQQgrVvf0IFs_7KlaQXj4ZTCtJ,Void Trainee's Shoulders,legendary,Void-infused Trainee's Pauldrons—silent as the void.,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,fire Merimora shoulder,https://drive.google.com/uc?export=view&id=1zerRYVvuFCxAWjV7q4uTXYzoi9J042JX,Fire Trainee's Shoulders,rare,Fire-infused Trainee's Pauldrons—fierce as a flame.,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,plant Merimora shoulder,https://drive.google.com/uc?export=view&id=1wQlwxrW-3NaHdxXc8v_Azk2F_phgERv9,Plant Trainee's Shoulders,rare,Plant-infused Trainee's Pauldrons—resilient as a vine.,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,water Merimora shoulder,https://drive.google.com/uc?export=view&id=1m6Zc-Y_P-mBOuE7v7rcB7kcrzUvSs6n_,Water Trainee's Shoulders,rare,Water-infused Trainee's Pauldrons—fluid as a wave.,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,dark Emberstorm Armor shoulder,https://drive.google.com/uc?export=view&id=1meKn-9tiqL8CeEzVYdchVlnuumYRZ1yj,Dark Emberstorm Shoulderguards,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,abyssal Emberstorm Armor shoulder,https://drive.google.com/uc?export=view&id=1tOa7tgDaQIQDaDh2_y1URIvSYbRoteul,Abyssal Emberstorm Shoulderguards,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,light Emberstorm Armor shoulder,https://drive.google.com/uc?export=view&id=1UGejrpXMCRUpre1ohnnXAO98mRJlOFa5,Light  Emberstorm Shoulderguards,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,void Emberstorm Armor shoulder,https://drive.google.com/uc?export=view&id=1Vr2vbydb-ic5Er__8X-sgupg8_Ir67HH,Void  Emberstorm Shoulderguards,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,fire Emberstorm Armor shoulder,https://drive.google.com/uc?export=view&id=1tw4ZNJjv8MR-ph2PMFle57RRyUFCKsrz,Fire  Emberstorm Shoulderguards,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,plant Emberstorm Armor shoulder,https://drive.google.com/uc?export=view&id=11iyPx5viGTdFNvSWHCm8YTOPVJI5TjAL,Plant  Emberstorm Shoulderguards,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,water Emberstorm Armor shoulder,https://drive.google.com/uc?export=view&id=1ebe7XkaV5cgloqb-k8Djklj0jla5mqaL,Water  Emberstorm Shoulderguards,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,dark Legion Armor shoulder,https://drive.google.com/uc?export=view&id=1AOkrLjYKTVzB2_IknSWmWbbC9U3Vu2wS,Dark Legion Armor Shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,abyssal Legion Armor shoulder,https://drive.google.com/uc?export=view&id=1Zi_VaNJDIC54VVOwIMs0C9CymRdr9wYQ,Abyssal Legion Armor shoulder,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,light Legion Armor shoulder,https://drive.google.com/uc?export=view&id=1kR4wNBlqygk21piR0I7kP1vLS0xaO81F,Light Legion Armor Shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,void Legion Armor shoulder,https://drive.google.com/uc?export=view&id=14ZgkQRsUEnKXUB12zJ5Vfpwq6INkwy9T,Void Legion Armor Shoulder,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,fire Legion Armor shoulder,https://drive.google.com/uc?export=view&id=1TeqEFqrnxa_VO9okt2fqJwHjO8umvO5P,Fire Legion Armor Shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,plant Legion Armor shoulder,https://drive.google.com/uc?export=view&id=1aiUtawH3UMTv0NzOZkbcvRQJ_n1UvYHT,Plant Legion Armor Shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,water Legion Armor shoulder,https://drive.google.com/uc?export=view&id=182wxgrG9rSDz-wFWyCfm-hfcVhnHJeWt,Water Legion Armor Shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+-,F,,GlovesDragoneers Blood Moon (Female),https://drive.google.com/uc?export=view&id=104egGlUZHI3Em04R9VvBtR7DZGVKO5yQ,Dragoneers Gloves,legendary,,,,GLOVES,EQUIPS,#N/A,,,,-
+-,F,,PantsDragoneers Blood Moon (Female),https://drive.google.com/uc?export=view&id=1sGM5Abqj9yp_PITCTEPdGu8-aRwjf47s,Dragoneers Pants,legendary,,,,PANTS,EQUIPS,#N/A,,,,-
+-,F,,BootsDragoneers Blood Moon (Female),https://drive.google.com/uc?export=view&id=12VUgXhDunUtwdGohbASgJVtEJUsx5tka,Dragoneers Boots,legendary,,,,BOOTS,EQUIPS,#N/A,,,,-
+-,M,,GlovesIMG_3135,https://drive.google.com/uc?export=view&id=1S0kOOOpKL2yKJNbpZfZPyj9IsPp2jqU4,Wayfinders Gloves,legendary,Official Wayfinders Armor,,,GLOVES,EQUIPS,#N/A,,,,-
+-,M,,PantsIMG_3135,https://drive.google.com/uc?export=view&id=1RwvaG9Y41rU3MyXuzHCyub-kaDEPmaKm,Wayfinders Pants,legendary,Official Wayfinders Armor,,,PANTS,EQUIPS,#N/A,,,,-
+-,M,,BootsIMG_3135,https://drive.google.com/uc?export=view&id=15_3SkTZTdST99vpko4oE578aCBVuU8iq,Wayfinders Boots,legendary,Official Wayfinders Armor,,,BOOTS,EQUIPS,#N/A,,,,-
+-,F,,GlovesStormcaller Enigma (Female),https://drive.google.com/uc?export=view&id=1n6c-Cdz--tkt7mAjtykwB0Mk8PSh9HF-,Gauntlets of Stormcaller Enigma ,legendary,,,,GLOVES,EQUIPS,#N/A,,,,-
+-,F,,PantsStormcaller Enigma (Female),https://drive.google.com/uc?export=view&id=1puvpvCqmqiKAbo90EWnLFKaBe-X5jN0H,Leggings of Stormcaller Enigma ,legendary,,,,PANTS,EQUIPS,#N/A,,,,-
+-,F,,BootsStormcaller Enigma (Female),https://drive.google.com/uc?export=view&id=1Pxr65rkW6zCfKXlsByacBRaoc4dqJ18l,Boots of the Stormcaller Enigma,legendary,,,,BOOTS,EQUIPS,#N/A,,,,-
+-,M,,GlovesAura Predator (Male),https://drive.google.com/uc?export=view&id=1jwXGqdxL9-hCSZIjoambtMtW-WSD3Hrx,Predator Bracer,epic,"A bracer that is part of the Aura Predator set, crafted to enhance the wearer's appearance.",,,GLOVES,EQUIPS,#N/A,,,,-
+-,M,,PantsAura Predator (Male),https://drive.google.com/uc?export=view&id=1aTEmXO56WB8IC1oC3AOfUZzlliMLsm5W,Predator Pants,epic,"Deep bluish-black pants, often worn as part of the Aura Predator outfit.",,,PANTS,EQUIPS,#N/A,,,,-
+-,M,,BootsAura Predator (Male),https://drive.google.com/uc?export=view&id=1uGMB-WjXmbZ0IC17mRl63t1hidkKqbid,Aura Predator Boots,epic,,,,BOOTS,EQUIPS,#N/A,,,,-
+-,M,,GlovesDarkheart Cyor (Male),https://drive.google.com/uc?export=view&id=1UO6LJc6bDF_mX1bG2JEh0J9lTTdfKCHf,Darkheart Cyor Gloves,epic,,,,GLOVES,EQUIPS,#N/A,,,,-
+-,M,,PantsDarkheart Cyor (Male),https://drive.google.com/uc?export=view&id=1Hdj9t-unFmE0g9DF-6HeZwwoIlNpoXxn,Darkheart Cyor Leggings,epic,,,,PANTS,EQUIPS,#N/A,,,,-
+-,M,,BootsDarkheart Cyor (Male),https://drive.google.com/uc?export=view&id=1pQRfk0aVZvsy4jBawstYAlf2_lLsCiHc,Darkheart Cyor Boots,epic,,,,BOOTS,EQUIPS,#N/A,,,,-
+-,M,,GlovesMighty Midnightscars (Male),https://drive.google.com/uc?export=view&id=1OQPZOzMykeyRi3W6DBilXPZnP_Uh9wJu,Mighty Midnightscars gloves,legendary,,,,GLOVES,EQUIPS,#N/A,,,,-
+-,M,,PantsMighty Midnightscars (Male),https://drive.google.com/uc?export=view&id=1LtBbj1guOzo9HKnFzIya6p3WvEU354CV,Mighty Midnightscars pants,legendary,,,,PANTS,EQUIPS,#N/A,,,,-
+-,M,,BootsMighty Midnightscars (Male),https://drive.google.com/uc?export=view&id=1co4Dc9WCP5-k5lsoMpwkIvr8dzsd1xl_,Mighty Midnightscars Boots,legendary,,,,BOOTS,EQUIPS,#N/A,,,,-
+-,M,,GlovesKilas Tenabres (Male),https://drive.google.com/uc?export=view&id=1Q2BcW0CK_SshymvbDy4MlHukThw7jwY8,Kilas Tenabres,legendary,,increased attack damage,,GLOVES,EQUIPS,#N/A,,,,-
+-,M,,PantsKilas Tenabres (Male),https://drive.google.com/uc?export=view&id=16SlQXscOT4dypj6rmOgH5_S_aSxY6RFL,Kilas Tenabres,legendary,,increased attack damage,,PANTS,EQUIPS,#N/A,,,,-
+-,M,,BootsKilas Tenabres (Male),https://drive.google.com/uc?export=view&id=1WoKRdlTSU9qulaKhW-2rBxh49sP_BEB4,Kilas Tenabres,legendary,,increased attack damage,,BOOTS,EQUIPS,#N/A,,,,-
+-,M,,GlovesPersanare (Male),https://drive.google.com/uc?export=view&id=1c2uKODSv7ZuDPg6_be5NzGq7vmz6rYa5,Persanara,rare,,increased heal,,GLOVES,EQUIPS,#N/A,,,,-
+-,M,,PantsPersanare (Male),https://drive.google.com/uc?export=view&id=1-n-mFwWE2q0iSlHBKqo1ESEWeCe3J595,Persanara,rare,,increased heal,,PANTS,EQUIPS,#N/A,,,,-
+-,M,,BootsPersanare (Male),https://drive.google.com/uc?export=view&id=1oo5vp10yM53lXDil0NPivzTkFgsQrwTw,Persanara,rare,,increased heal,,BOOTS,EQUIPS,#N/A,,,,-
+-,M,,GlovesLunar Demonplate (Male),https://drive.google.com/uc?export=view&id=13OcWiSuUFwOjCQqzc9BAFeY66GaLtkwi,Gloves Lunar Demonplate,rare,,,,GLOVES,EQUIPS,#N/A,,,,-
+-,M,,PantsLunar Demonplate (Male),https://drive.google.com/uc?export=view&id=10RGcHqN1dfKSwlMWZDOlPJd_gWCUQhWQ,Pants Lunar Demonplate,rare,,,,PANTS,EQUIPS,#N/A,,,,-
+-,M,,BootsLunar Demonplate (Male),https://drive.google.com/uc?export=view&id=1RK7rTsdGOpmInVXJNOy0puAkipHrGN4V,BootsLunar Demonplate (Male),rare,,,,BOOTS,EQUIPS,#N/A,,,,-
+-,M,,GlovesDragoneers Blood Moon(Male),https://drive.google.com/uc?export=view&id=1dLoQLul6HjLHRL-xH7VqVP1SHwdfFphu,GlovesDragoneers Blood Moon(Male),legendary,,,,GLOVES,EQUIPS,#N/A,,,,-
+-,M,,PantsDragoneers Blood Moon(Male),https://drive.google.com/uc?export=view&id=1yRhFnV0BiwSD3_SgUwjPClLBxbV7nhuS,PantsDragoneers Blood Moon(Male),legendary,,,,PANTS,EQUIPS,#N/A,,,,-
+-,M,,BootsDragoneers Blood Moon(Male),https://drive.google.com/uc?export=view&id=1nVHNqBXruRyerO9Ef4BQ0v7CDmBEk6yL,BootsDragoneers Blood Moon(Male),legendary,,,,BOOTS,EQUIPS,#N/A,,,,-
+-,M,,GlovesStormcaller Enigma (Male),https://drive.google.com/uc?export=view&id=1sqa47n49QgCWArw1OfxFn72ZEDGtoNn2,GlovesStormcaller Enigma (Male),legendary,,,,GLOVES,EQUIPS,#N/A,,,,-
+-,M,,PantsStormcaller Enigma (Male),https://drive.google.com/uc?export=view&id=16CvsuMCVDSzMsrhuq_3XA8XjudT5ZP4b,PantsStormcaller Enigma (Male),legendary,,,,PANTS,EQUIPS,#N/A,,,,-
+-,M,,BootsStormcaller Enigma (Male),https://drive.google.com/uc?export=view&id=1ut4Fd88RosmmXUyfYVpGRWiUmCaATdbk,BootsStormcaller Enigma (Male),legendary,,,,BOOTS,EQUIPS,#N/A,,,,-
+-,M,,BootsBukomon (Male),https://drive.google.com/uc?export=view&id=1rF9R39TmoB-Xjiuujj7ttmSKgQrbYr9b,BootsBukomon (Male),common,,,,BOOTS,EQUIPS,#N/A,,,,-
+-,M,,PantsBukomon (Male),https://drive.google.com/uc?export=view&id=1nxWqYOGzaYmkhsb2DbfTF9vAraQGmDmg,PantsBukomon (Male),common,,,,PANTS,EQUIPS,#N/A,,,,-
+,M,,HeadBukomon (Male),https://drive.google.com/uc?export=view&id=1vUTYSLkclbBo4H-bowftLp-j6DalY297,HeadBukomon (Male),common,,,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+,M,,IMG_6055,https://drive.google.com/uc?export=view&id=1EzZxyT0GKUISMvepaj4Gigwh3HRphVLu,Mystic Shroud,epic,,,,COWL,EQUIPS,Headgear,,,,-
+,F,,water Auxilus Stormwing plate,https://drive.google.com/uc?export=view&id=15I7y-PF0FH3E_vembdX1NplQRS-haD5l,Auxilus Stormwing Aquatic Mail,common,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,plant Auxilus Stormwing plate,https://drive.google.com/uc?export=view&id=1TVAXlqEdTMLCgIQqJ49a3vakhOLa4ctc,Auxilus Stormwing Leaf Mail,common,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,fire Auxilus Stormwing plate,https://drive.google.com/uc?export=view&id=1U9MjAVI8IKnjw92my82Xt8RpNCQLk1aV,Auxilus Stormwing Ember Mail,common,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,void Auxilus Stormwing plate,https://drive.google.com/uc?export=view&id=1Zj27UHAFwIxhOC1U2Ch8zaoKR8ezC0J1,Auxilus Stormwing Void Mail,epic,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,light Auxilus Stormwing plate,https://drive.google.com/uc?export=view&id=1_yZJIhl8r7IGMTD3IzVcxme7YatYb2Ci,Auxilus Stormwing Holy Mail,rare,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,abyssal Auxilus Stormwing plate,https://drive.google.com/uc?export=view&id=1OMYs-ZvFcCQStdIAIhV7Ep2qAvKAAhET,Auxilus Stormwing Doom Mail,epic,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,dark Auxilus Stormwing plate,https://drive.google.com/uc?export=view&id=1YZ-pyQ85M_aAV5y3xeDbD4tovXdIhYxP,Auxilus Stormwing Venomous Mail,rare,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,water Crimson Spellbreaker plate,https://drive.google.com/uc?export=view&id=1YpLuGk_o_0Oe6LOhy55lbKmD-Ovw4rHV,water Crimson Spellbreaker plate,common,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,plant Crimson Spellbreaker plate,https://drive.google.com/uc?export=view&id=1z72Qs4kbtNvC64JiGDMZsp7ddycRlsMt,plant Crimson Spellbreaker plate,common,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,fire Crimson Spellbreaker plate,https://drive.google.com/uc?export=view&id=1BqEPQlEmRXeBTb2Np8aXgPqVUdPPvNja,fire Crimson Spellbreaker plate,common,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,void Crimson Spellbreaker plate,https://drive.google.com/uc?export=view&id=1rUhOiZY73lzWWZ60QDyvNZ8nsDEATed1,void Crimson Spellbreaker plate,epic,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,light Crimson Spellbreaker plate,https://drive.google.com/uc?export=view&id=1FjJxBNup_GpUYi3SqiGWNMKdn5NyoQTs,light Crimson Spellbreaker plate,rare,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,abyssal Crimson Spellbreaker plate,https://drive.google.com/uc?export=view&id=1tqHsWWt3b9G1lc2ybhlGcB5QU8D3aV8c,abyssal Crimson Spellbreaker plate,epic,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,dark Crimson Spellbreaker plate,https://drive.google.com/uc?export=view&id=1uRGjg2YKeIvAOVcbvzN0Er99Gm_5728V,dark Crimson Spellbreaker plate,rare,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,water Luminous Sea Armor plate,https://drive.google.com/uc?export=view&id=1ykyJrgt_yseQwCVQI_vOA6gH9U-Bhxh0,water Luminous Sea Armor plate,common,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,plant Luminous Sea Armor plate,https://drive.google.com/uc?export=view&id=1ZXi3-9ollfCti55lgX0ccZZC8vYdY_xx,plant Luminous Sea Armor plate,common,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,fire Luminous Sea Armor plate,https://drive.google.com/uc?export=view&id=1a284ZGyEn4g9e6sN1C_bf5oaZKgKU4bE,fire Luminous Sea Armor plate,common,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,void Luminous Sea Armor plate,https://drive.google.com/uc?export=view&id=1aJO_YZH1N31k96tdqOMurTpo4ag7Owom,void Luminous Sea Armor plate,epic,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,light Luminous Sea Armor plate,https://drive.google.com/uc?export=view&id=1IrQNMZpmh2yj9n8M8DVszfngtGS0Dsu4,light Luminous Sea Armor plate,rare,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,abyssal Luminous Sea Armor plate,https://drive.google.com/uc?export=view&id=13wYV8UJd0J5IRDAy7QhG5kyRuKRJMECW,abyssal Luminous Sea Armor plate,epic,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,dark Luminous Sea Armor plate,https://drive.google.com/uc?export=view&id=1r7nrLlR0btOw0hadHWxp4TYBPJkAbJcB,dark Luminous Sea Armor plate,rare,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,water Vasukani Pride plate,https://drive.google.com/uc?export=view&id=1igge_2y5ky63aB52dApFIwxKzlwcPJ8-,water Vasukani Pride plate,common,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,plant Vasukani Pride plate,https://drive.google.com/uc?export=view&id=1FJX1to7uCJCjiycMQpgIbw-9lX5pcubs,plant Vasukani Pride plate,common,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,fire Vasukani Pride plate,https://drive.google.com/uc?export=view&id=1BKpi_nnt7VrHEJ5bFvp0Gx_DJpVcKuAz,fire Vasukani Pride plate,common,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,void Vasukani Pride plate,https://drive.google.com/uc?export=view&id=11RMyIydnIKJ9kruhqqqJ-iERn7u7xGXA,void Vasukani Pride plate,epic,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,light Vasukani Pride plate,https://drive.google.com/uc?export=view&id=1c2xlVFWWs05-HfET_Ld3yxtXW27TS_ae,light Vasukani Pride plate,rare,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,abyssal Vasukani Pride plate,https://drive.google.com/uc?export=view&id=1VFTDmskz3s9Xi_JrLLx6FGmfPpNqYT9v,abyssal Vasukani Pride plate,epic,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,dark Vasukani Pride plate,https://drive.google.com/uc?export=view&id=1MzyI8IAcvDFGqHeubZLN5yyOELDBid27,dark Vasukani Pride plate,rare,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_6057 plate,https://drive.google.com/uc?export=view&id=15gca57MQcBItBuhIQy0SzJKBrjNnsqEu,Runic Swordfighter Armor,legendary,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_6044 plate,https://drive.google.com/uc?export=view&id=1eNKhk_2ZJY29P_q-x6lJwaABRwrpK4Nr,Virulent Tarasque,legendary,"This armor is laced with a deadly toxin that can turn the wearer’s skin blue and lead to a fatal end if not handled correctly. To safely wield this powerful armor, one must first cast an anti-poison spell. Once protected, the wearer becomes impervious to even the most lethal enemy poisons.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_6041 plate,https://drive.google.com/uc?export=view&id=1P8qcZq5nkvJUWtC4TuUUKoyI8hfLnjPe,Peacekeeper Chainmail,legendary,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_6051 plate,https://drive.google.com/uc?export=view&id=1avj9yJ4mkNeBVfOxN_3bdDKhI_vGVCh6,Necroplasmic Aegis,legendary,"A sinister bone armor with a small dragon skull at its chest. Formed from sharp ribs and spine fragments, it radiates the dragon’s dark energy, amplifying the wearer’s rage and strength in battle.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_6047 plate,https://drive.google.com/uc?export=view&id=1u5eYoPPSdYNQ3GAQ2LUAoneBM0-9Y5k0,Nyx Imperius,legendary,"A one-of-a-kind armor, owned by a legendary swordsman who was not only a master of the blade but also harbored ambitions of world domination.",,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_6038 plate,https://drive.google.com/uc?export=view&id=1pB6AcxpoUlnmgeXAuWpQVVhrgW6GGzSp,Batteplate of Elysium,legendary,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,IMG_6035 plate,https://drive.google.com/uc?export=view&id=1tjOBbraYlG8rMKSxVZI1kVqyBQcNTaY6,Heavy Vestment of Damned Visions,legendary,Armor of the Revolutionary Forces from a mysterious alliance that holds knowledge of The Order.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,water Auxilus Stormwing shoulder,https://drive.google.com/uc?export=view&id=166ONRmTAx74EL70w2tkxV2K97UtxKPn2,water Auxilus Stormwing shoulder,common,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,plant Auxilus Stormwing shoulder,https://drive.google.com/uc?export=view&id=1im3jheZyt50o5YgSr-oA_-7_OxVeEX2_,plant Auxilus Stormwing shoulder,common,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,fire Auxilus Stormwing shoulder,https://drive.google.com/uc?export=view&id=15zF9-8z2W3OlzpW7uVi6qsv7BFmvCGJd,fire Auxilus Stormwing shoulder,common,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,void Auxilus Stormwing shoulder,https://drive.google.com/uc?export=view&id=1uNZXItC_SZFnCSphbaWHJeAxy-ryILaB,void Auxilus Stormwing shoulder,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,light Auxilus Stormwing shoulder,https://drive.google.com/uc?export=view&id=1zy7SkrzEFXt2GGYYGuP1FgOUPk_WiXY7,light Auxilus Stormwing shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,abyssal Auxilus Stormwing shoulder,https://drive.google.com/uc?export=view&id=1yGZJGBMUFMTTFXQeEJYNkb_NFkYeCLop,abyssal Auxilus Stormwing shoulder,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,dark Auxilus Stormwing shoulder,https://drive.google.com/uc?export=view&id=1aamZWsemgn605JcydhqHhDsA0DrzMS1H,dark Auxilus Stormwing shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,water Crimson Spellbreaker shoulder,https://drive.google.com/uc?export=view&id=1ulFD4VwyeVJTJn1V7Qs1oyVd7J61IloD,water Crimson Spellbreaker shoulder,common,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,plant Crimson Spellbreaker shoulder,https://drive.google.com/uc?export=view&id=1rkKUYk7sVouu2DveQ6IyWZZYqB5PqPaG,plant Crimson Spellbreaker shoulder,common,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,fire Crimson Spellbreaker shoulder,https://drive.google.com/uc?export=view&id=13n-PLFLleW2P85hiQEKCnSC_O6QF_Oav,fire Crimson Spellbreaker shoulder,common,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,void Crimson Spellbreaker shoulder,https://drive.google.com/uc?export=view&id=1lzwtyNUzjBKwpswBXZP4BcC7vFWaOc3a,void Crimson Spellbreaker shoulder,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,light Crimson Spellbreaker shoulder,https://drive.google.com/uc?export=view&id=1ywJrcXddABaGP374tCfegs8eOfmL_Kdm,light Crimson Spellbreaker shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,abyssal Crimson Spellbreaker shoulder,https://drive.google.com/uc?export=view&id=1FWOWvTPgOvCVdLOAndDgflcsMVTgvTOb,abyssal Crimson Spellbreaker shoulder,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,dark Crimson Spellbreaker shoulder,https://drive.google.com/uc?export=view&id=1C9Z08JhS4jvvI--kgn_3EtmqgDG2Pp92,dark Crimson Spellbreaker shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,water Luminous Sea Armor shoulder,https://drive.google.com/uc?export=view&id=1m6B8akJ_bgypEyvTf8FBw-FTeUAiVLCa,water Luminous Sea Armor shoulder,common,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,plant Luminous Sea Armor shoulder,https://drive.google.com/uc?export=view&id=1El2Dht7SrNYHUhSHs9X1hnWGoEtcpTqX,plant Luminous Sea Armor shoulder,common,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,fire Luminous Sea Armor shoulder,https://drive.google.com/uc?export=view&id=1aC6WzbSAppSdC3P2D-ELZzJrymRif6Oq,fire Luminous Sea Armor shoulder,common,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,void Luminous Sea Armor shoulder,https://drive.google.com/uc?export=view&id=1j70GfMYjzywz9hI-pR0QypK-l8eEqSki,void Luminous Sea Armor shoulder,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,light Luminous Sea Armor shoulder,https://drive.google.com/uc?export=view&id=1BRxXuhwvPtBdOiF_1rWku4ZLog2N7mbC,light Luminous Sea Armor shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,abyssal Luminous Sea Armor shoulder,https://drive.google.com/uc?export=view&id=1jreB19h0Ysv7YdbRyOWwBmMkBvSjn1GP,abyssal Luminous Sea Armor shoulder,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,dark Luminous Sea Armor shoulder,https://drive.google.com/uc?export=view&id=14oQG4EIwMMTliQOjuFlvURO7PKxtL_UP,dark Luminous Sea Armor shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,water Vasukani Pride shoulder,https://drive.google.com/uc?export=view&id=1hxiciCydUZ6jscjHEUXMQBJBpkoAJsSn,water Vasukani Pride shoulder,common,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,plant Vasukani Pride shoulder,https://drive.google.com/uc?export=view&id=1mD1DAuau6XQJ6V1xxQcDep704xtFF8MK,plant Vasukani Pride shoulder,common,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,fire Vasukani Pride shoulder,https://drive.google.com/uc?export=view&id=1tvdsurSV0oUG4Pu82FgbWzg9mRVdcDB9,fire Vasukani Pride shoulder,common,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,void Vasukani Pride shoulder,https://drive.google.com/uc?export=view&id=1Y8FbR6BVSgpssyJTlEQftvjGjEszcqKE,void Vasukani Pride shoulder,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,light Vasukani Pride shoulder,https://drive.google.com/uc?export=view&id=1eueBlMYAwvyyvfQSPxV0qY127EBGUFlQ,light Vasukani Pride shoulder,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,abyssal Vasukani Pride shoulder,https://drive.google.com/uc?export=view&id=1_bq6M09SPLlEc3wt-QeNM0-8VUCstUl3,Abyssal Vasukani Pride Shoulder Guard,epic,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,dark Vasukani Pride shoulder,https://drive.google.com/uc?export=view&id=10W-Z_EdONBIDyZgjb34L1aDB0PRFuvlC,Dark Vasukani Pride Shoulder Guard,rare,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_6057 shoulder,https://drive.google.com/uc?export=view&id=1ssWhbsF9usJ1FjjG8fxJjfnXDteh1xxW,Runic Swordfighter Shoulderplates,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_6051 shoulder,https://drive.google.com/uc?export=view&id=1UhFCgiIqWTHIpfL28DFKCalFYDmYaMgI,Abyssal Shoulder Doom Guards,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_6047 shoulder,https://drive.google.com/uc?export=view&id=1r72A81OJdUIYV_ILgnu1YOJJ0ToD9GBg,Nyx Imperius Shoulder Armor,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_6044 shoulder,https://drive.google.com/uc?export=view&id=1HXF83dogCbZweAB68aG-RSK6X91URxxR,Virulent Tarasque Shoulderplates,legendary,"Shoulderplates of the Virulent Tarasque. Remember, this piece carries a lethal poison within.",,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_6041 shoulder,https://drive.google.com/uc?export=view&id=1D1t-rAGvl7JPIEIPm44KOMxTldXwXq9I,Peacekeeper Shoulderplates,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_6038 shoulder,https://drive.google.com/uc?export=view&id=15BZsA335Efiy0LULZomfZ59CA3E-pQmk,Elysium Shoulder Guards,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,IMG_6035 shoulder,https://drive.google.com/uc?export=view&id=16BeDmhDYCTIi_AVTNg3TNSL5_-QJuGLs,Damned Visions Shoulder Guards,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,75helmet,https://drive.google.com/uc?export=view&id=1mmjkhEHzb-2hc_qXqwdTYAl_DGXpx-Rx,,,,,,HELMET,EQUIPS,Headgear,,,,-
+,F,,73facialcrown,https://drive.google.com/uc?export=view&id=1bxH_EcUYiu77NjdKKyrmlcZqlnzhhaLA,,,,,,FACIAL CROWN,EQUIPS,Eyewear,,,,-
+,F,,70eyebrowcrown,https://drive.google.com/uc?export=view&id=18gsis_Z2xl0-ZpudH9eDS7u5QUPsNJNf,,,,,,EYEBROW CROWN,EQUIPS,Eyewear,,,,-
+-,#N/A,#N/A,,#N/A,,epic,,,,#N/A,#N/A,#N/A,,,#REF!,-
+,U,,aura6,https://drive.google.com/uc?export=view&id=1ms1RotKGEC5wDYSBrC7-9e7nJ_FC94IS,,epic,,,,AURA,EQUIPS,Effects,,,,-
+,U,,aura5,https://drive.google.com/uc?export=view&id=1_BNazOAP-RbWxDlvfZjgNWY8BEb7XVlr,,epic,,,,AURA,EQUIPS,Effects,,,,-
+,U,,aura4,https://drive.google.com/uc?export=view&id=1G6lGpwWlkWSZBQ0jkuytq3R9GYtBndhs,,,,,,AURA,EQUIPS,Effects,,,,-
+,U,,aura3,https://drive.google.com/uc?export=view&id=1Hfd7buBf0rOlbGuwlQ-gf6Fb70f1FFbI,,,,,,AURA,EQUIPS,Effects,,,,-
+,U,,aura2,https://drive.google.com/uc?export=view&id=1qGKZkn2J7slhHufX-8C4gFQRYxgjlSlB,,,,,,AURA,EQUIPS,Effects,,,,-
+,U,,aura1,https://drive.google.com/uc?export=view&id=1c8RxPRZKjQ699LLWgCFPwJBy0-RubKIX,,,,,,AURA,EQUIPS,Effects,,,,-
+,F,,84bodyarmor,https://drive.google.com/uc?export=view&id=1DvSve17R7HYod_uh5TAfAi8NNkEI6Fj3,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,83bodyarmor,https://drive.google.com/uc?export=view&id=1nLg3IbVMvvK5i0Vsc4RSXIG5TTXsZX3C,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,82bodyarmor,https://drive.google.com/uc?export=view&id=18K5BajCuvbEhW9xtHV3LM-eFpZR2VjJp,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,81bodyarmor,https://drive.google.com/uc?export=view&id=1w8ywEUZlcyqqgRaELHRL7YaSdpcwGDUn,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,80bodyarmor,https://drive.google.com/uc?export=view&id=1oQlkUDmFqEb6j2otuYCJXvWjOLVSd4dX,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,79bodyarmor,https://drive.google.com/uc?export=view&id=1_R1N7OUHNiDSo73QoYmKcf-753hV6uYB,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,78bodyarmor,https://drive.google.com/uc?export=view&id=1xnG3RU3n-c4cQj83IQz8YiYEu_nbLPPK,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,77bodyarmor,https://drive.google.com/uc?export=view&id=1nxZkM9FJ0IBdr-HW75QuASpF2nJvdjK2,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,76bodyarmor,https://drive.google.com/uc?export=view&id=1Cy3e0YxoDKvEPWvqT04qHxPehLh_Vuwg,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,75bodyarmor,https://drive.google.com/uc?export=view&id=1Q0i8FQeY8_1ZL-XkxHaeGAmkg-FAxjH8,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,74bodyarmor,https://drive.google.com/uc?export=view&id=1FBiC81IgWejQ8H-k2YcZ6AgeIJ6vjTpH,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,73bodyarmor,https://drive.google.com/uc?export=view&id=1-tteBdE3SCuhpCw8s1aeZG5uaLcOKXaf,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,72bodyarmor,https://drive.google.com/uc?export=view&id=1WQZDkdAzvWrzDOODF2o22lMVY1Mk1RC6,Exiled Princess Gown,,A gown of a princess who has been erased from her bloodline and exiled to an unworthy land.,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,71bodyarmor,https://drive.google.com/uc?export=view&id=1ORYcZRhUMuM4JovPsKl-hGNtrNLcNPAD,Armatura del Rinnegato,,"The robe of a sorceress who serves The Order. Once worn by a holy priestess who turned to the path of darkness, it carries the lingering essence of forbidden magic and a past tainted by betrayal.",,The Order,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,70bodyarmor,https://drive.google.com/uc?export=view&id=1KfpSuiG-IQlVd9_5Ei36UUOZBPLv1BpH,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,69bodyarmor,https://drive.google.com/uc?export=view&id=18OVdRTaS6pEWIhx_YsEKxPCIpLoP4tRe,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,68bodyarmor,https://drive.google.com/uc?export=view&id=1OQLb3HfMk1lmTNxQku9763fPCEbV-7Y2,,,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+-,#N/A,#N/A,67bodyarmor,#N/A,,,,,,#N/A,#N/A,#N/A,,,-,-
+-,#N/A,#N/A,66bodyarmor,#N/A,,,,,,#N/A,#N/A,#N/A,,,-,-
+,F,,84shoulder,https://drive.google.com/uc?export=view&id=1kQzTk-yFO5iC6xwCVmpGY3u9y2J4j8ND,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,83shoulder,https://drive.google.com/uc?export=view&id=115Td8KoXtIIh_0rda5-mGL6rMzIhnn5L,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,82shoulder,https://drive.google.com/uc?export=view&id=1WW-GGcC-eX72JBByCM-pDFuMiS-mlrvC,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,81shoulder,https://drive.google.com/uc?export=view&id=1tZh5sCYPriYT3_pqtF09xnwJkP68cbfC,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,80shoulder,https://drive.google.com/uc?export=view&id=1_ZDaBBMuRhmgGNhAh0ARg_5x5OGwSg7K,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,79shoulder,https://drive.google.com/uc?export=view&id=1jxmHRrqguQyjltTNYHeIx9-YnImUoXzx,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,78shoulder,https://drive.google.com/uc?export=view&id=1zXh61nzWt_raqnO9ulIGVdu_g_UnqOqO,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,77shoulder,https://drive.google.com/uc?export=view&id=1EgvdLcBW1mDuK-CgzPWN0qksaWnJoVOp,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,76shoulder,https://drive.google.com/uc?export=view&id=1Y07hIhPyQ2-a_lc8BKfj4f1DoKaRRLZ7,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,75shoulder,https://drive.google.com/uc?export=view&id=1mlOZBEQsdJR9L_n66f9wOgoJUzdREfs7,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,74shoulder,https://drive.google.com/uc?export=view&id=1g8zHGX4haq45OIMruBW78LNwygEY1wE8,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,73shoulder,https://drive.google.com/uc?export=view&id=1ao2IDZK6_NnmEcjuZ_G5WKm64OmgLn_S,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,72shoulder,https://drive.google.com/uc?export=view&id=1jGKqieWatcspupTG3QquomBpUyzFZ7Mf,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,71shoulder,https://drive.google.com/uc?export=view&id=1zhHDTYsCYOs2jSP4psRSgA0qNbEX-zB7,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,70shoulder,https://drive.google.com/uc?export=view&id=1zXbgcKMYbuW0txdwhOwACW-Fd3f3sECW,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,69shoulder,https://drive.google.com/uc?export=view&id=1ND6G8la6XiR9TNnPmc1BljhmVZg20vot,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,68shoulder,https://drive.google.com/uc?export=view&id=1slStBzfahrmi-d5Myg1rGCwVB7wOUYd2,,,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+-,#N/A,#N/A,67shoulder,#N/A,,,,,,#N/A,#N/A,#N/A,,,-,-
+-,#N/A,#N/A,66shoulder,#N/A,,,,,,#N/A,#N/A,#N/A,,,-,-
+,F,,94skull ghost helmet,https://drive.google.com/uc?export=view&id=1g00WY0Te4yWgdgDJwy7tygOpgpGNmnM3,Skull Ghost Helmet,legendary,A helm forged from the ancient bones of a female demon. She once seemed to have had a beautiful face.,,,HELMET,EQUIPS,Headgear,,,,-
+,M,,93skull ghost helmet,https://drive.google.com/uc?export=view&id=1n96oZCUhDBCeI0IQjIke2N-HvX0cO-vS,Skull Ghost Helmet,legendary,A helm forged from the ancient bones of an elder demon. Gleaming and polished to a mirror-like shine!,,,HELMET,EQUIPS,Headgear,,,,-
+,M,,91skeleton king helmet,https://drive.google.com/uc?export=view&id=1QGzW6NSoBh2NsQBj_quaqVTU4Lk_BaE9,Skeleton King Helmet,legendary,The skull of one of the demon kings of the world. So ancient that his crown has fused with the very bone of his skull.,,,HELMET,EQUIPS,Headgear,,,,-
+,M,,IMG_3759,https://drive.google.com/uc?export=view&id=1kSwl1pcovEyAwYVJHiU-kZeAb_yy482X,Shroomcap Backpack,epic,,,,BACK ACCESSORIES,EQUIPS,Back,,,,-
+,F,,92skeleton queen cwol,https://drive.google.com/uc?export=view&id=1PJFOj2iQZDZm_5tg_y8Nu9xtIysgpWVO,Skeleton Queen Cowl,legendary,,,,COWL,EQUIPS,Headgear,,,,-
+,F,,89abyssal shroud cwol,https://drive.google.com/uc?export=view&id=14TbSV4Ex372w0nE2bt3BBFjFkKBsmo5g,Abyssal Shroud Cowl,legendary,,,,COWL,EQUIPS,Headgear,,,,-
+,M,,90abyssal shroud cwol,https://drive.google.com/uc?export=view&id=1F8GLWKZhcK_Ada_OXwut6E8-gVfs_eIu,Abyssal Shroud Cowl,legendary,,,,COWL,EQUIPS,Headgear,,,,-
+,F,,94skull ghost bodyarmor,https://drive.google.com/uc?export=view&id=1DYpbL0Fd5f-TB0sbbHY0Bm6diR2Fm6-F,skull ghost bodyarmor,legendary,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,93skull ghost bodyarmor,https://drive.google.com/uc?export=view&id=1ZLWw2Xcfh0pQ3elBYjOAQyuah5F74NWU,skull ghost bodyarmor,legendary,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,92skeleton queen bodyarmor,https://drive.google.com/uc?export=view&id=1OU_KE9dAKOaAmw0ronOhDSKTfrScXjVa,skeleton queen Cloak,legendary,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,91skeleton king bodyarmor,https://drive.google.com/uc?export=view&id=1K9u2ycs3ZOVjihTozxnz3CQCZnOrrXxZ,skeleton king bodyarmor,legendary,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,89abyssal shroud bodyarmor,https://drive.google.com/uc?export=view&id=1uaQ2u2vMxPIxYbgI7wUFktzhwfAc0DsL,abyssal shroud bodyarmor,legendary,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,90abyssal shroud bodyarmor,https://drive.google.com/uc?export=view&id=1xCNHUULmBYPmsdPwdjJc2s4alMpJd6MQ,abyssal shroud bodyarmor,legendary,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,M,,87bodyarmorHalloween,https://drive.google.com/uc?export=view&id=1G26VgNJYx1cSe6Jx32_ywlnvmHBshsjS,bodyarmorHalloween,legendary,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,88bodyarmorHalloween,https://drive.google.com/uc?export=view&id=1EasQQsE8lM5Rj4Db8bf7U4o9uPu_THgn,bodyarmorHalloween,legendary,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,86bodyarmor,https://drive.google.com/uc?export=view&id=1Zz2YUZLnBFxk-PIQ5fkxrwcQ4n2ho02g,,legendary,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,85bodyarmor,https://drive.google.com/uc?export=view&id=1okjbGXTrUFyE7HLfHEp4B2i2MPa73_du,,legendary,,,,BODY ARMOR,EQUIPS,Torso,,,,-
+,F,,92skeleton queens houlder,https://drive.google.com/uc?export=view&id=1lSrO6V0wZnJ7IDF1ybWSwvDE9MvHIYMk,skeleton queens shoulder,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,91skeleton king shoulder,https://drive.google.com/uc?export=view&id=1wI-Z0_yAMPywY8_X9g6v5aY9176qgxWM,skeleton king shoulder,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,89abyssal shroud shoulder,https://drive.google.com/uc?export=view&id=1cSV6oRQ6gmwBn3KzlM6UXOfMAqjy8RfG,abyssal shroud shoulder,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,M,,90abyssal shroud shoulder,https://drive.google.com/uc?export=view&id=1ZRQeEQvA8frIsjUXMSzM06cBJv1PLAp2,abyssal shroud shoulder,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,86shoulder,https://drive.google.com/uc?export=view&id=18d6Bd0rQ9X48Aujd5V1pZyCOfxXByE_d,,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,85shoulder,https://drive.google.com/uc?export=view&id=1W3ubMUlEQ3A3EGrj1d4T3jCcJKDzJ1K9,,legendary,,,,SHOULDER ARMOR,EQUIPS,Shoulders,,,,-
+,F,,92skeleton queen mask,https://drive.google.com/uc?export=view&id=1xlmvdg_7wiI7BX7BbWRuvyfpcjm9FoGu,skeleton queen mask,legendary,,,,MASK,EQUIPS,Eyewear,,,,-
+,F,,89abyssal shroud blackmask,https://drive.google.com/uc?export=view&id=1zBWcEn3FPYZsYQaINt21wpfyjUly_TjN,abyssal shroud blackmask,legendary,,,,MASK,EQUIPS,Eyewear,,,,-
+,F,,89abyssal shroud mask,https://drive.google.com/uc?export=view&id=1DxfOIPOHLWhp_MGj4SAaAC8lbuITncgS,,legendary,,,,MASK,EQUIPS,Eyewear,,,,-
+,M,,90abyssal shroud blackmask,https://drive.google.com/uc?export=view&id=1qckA5TaL4DtPFiZzWOJEitT3AarPg6AC,abyssal shroud blackmask,legendary,,,,MASK,EQUIPS,Eyewear,,,,-
+,M,,90abyssal shroud mask,https://drive.google.com/uc?export=view&id=1TkyJdWVuaWgDIQDUppVp7y1vwjqqmyo8,,legendary,,,,MASK,EQUIPS,Eyewear,,,,-
+,F,,88mask,https://drive.google.com/uc?export=view&id=13IRgqsOKlq8LBzuUawV7N2bfr1nj5I2Q,pumpkin face mask (f),legendary,,,,MASK,EQUIPS,Eyewear,,,,-
+,M,,87mask,https://drive.google.com/uc?export=view&id=1qFsWH2yhZ2NvkS_gjZ13WEAOcbDCfmS7,pumpkin face mask (m),legendary,,,,MASK,EQUIPS,Eyewear,,,,-
+,M,,87hat,https://drive.google.com/uc?export=view&id=1ytMu01gY8IevXV_G2xnTv9QV1uXFtYW2,Pumpkin king tophat,legendary,,,,HAT,EQUIPS,Headgear,,,,-
+,F,,88hat,https://drive.google.com/uc?export=view&id=1jlQrryBssm0JLlr83sDpBdhPyfLNLnob,Pumpkin Queen Moonhat,legendary,,,,HAT,EQUIPS,Headgear,,,,-
+,F,,89abyssal shroud horn,https://drive.google.com/uc?export=view&id=1VFOFcxpL9uv1s5qvX4TqUqjpf-zhcI-o,Abyssal Shroud Horns (Female),legendary,,,,HORN,EQUIPS,Headgear,,,,-
+,M,,90abyssal shroud horn,https://drive.google.com/uc?export=view&id=1WfprOMTxbmgzbUzFGp8W35X_G85gwXcU,Abyssal Shroud Horns (Male),legendary,,,,HORN,EQUIPS,Headgear,,,,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,#REF!,-
+-,#N/A,#N/A,,#N/A,,,,,,#N/A,#N/A,#N/A,,,,-

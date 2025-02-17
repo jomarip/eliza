@@ -1,0 +1,6 @@
+Monster ID,Name,Element,Description,evolution level,rarity,power_level
+1,Aquafrost,Water,"A rare water-type Hatchy with ice manipulation abilities, known for creating beautiful ice crystals.",2,Rare,85
+2,Flameburst,Fire,"An energetic fire-type Hatchy that can shoot concentrated bursts of flame.",1,Common,65
+3,Leafwhisper,Plant,"A gentle plant-type Hatchy that communicates with nature and helps plants grow.",1,Common,60
+4,Thunderbolt,Electric,"A fast electric-type Hatchy that can generate powerful lightning strikes.",2,Uncommon,75
+5,Shadowmist,Dark,"A mysterious dark-type Hatchy that can blend into shadows.",2,Rare,80 
