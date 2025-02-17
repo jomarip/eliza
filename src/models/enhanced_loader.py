@@ -12,6 +12,7 @@ from .relationship_extractor import AdaptiveRelationshipExtractor, ExtractedRela
 from .registry import RelationshipRegistry
 from ..data.cleaners import DataCleaner
 from .context_manager import EnhancedContextManager
+from .base_loader import BaseLoader
 
 logger = logging.getLogger(__name__)
 
@@ -361,49 +362,28 @@ class EnhancedDataLoader:
                 create_faction_relationships(entity_id, faction_data)
 
     def _load_champion_data(self):
-        """Load champion data from CSV."""
-        def create_champion_relationships(champion_id: str, champion_data: dict):
-            """Create relationships for a champion."""
-            # Faction membership
-            if champion_data.get('faction'):
-                faction_id = self._resolve_or_create_faction(champion_data['faction'])
-                if faction_id:
-                    self.knowledge_graph.add_relationship(
-                        champion_id,
-                        faction_id,
-                        'member_of'
-                    )
-            
-            # Rival relationships
-            if champion_data.get('Rival'):
-                rival_id = self._resolve_or_create_champion(champion_data['Rival'])
-                if rival_id:
-                    self.knowledge_graph.add_relationship(
-                        champion_id,
-                        rival_id,
-                        'rival_of'
-                    )
-
-        path = Path(self.data_paths['champions'])
-        if path.exists():
-            self.logger.info(f"Loading champion data from {path}")
-            df = pd.read_csv(path)
+        """Load champion data with flexible column mapping."""
+        champions = []
+        
+        if self.data_paths['champions'].exists():
+            df = pd.read_csv(self.data_paths['champions'])
             for _, row in df.iterrows():
-                if pd.notna(row.get('Character Description')):
-                    champion_data = {
-                        'name': row.get('Character Description', '').split(',')[0],
-                        'description': row.get('Character Description', ''),
-                        'subplot': row.get('Subplot and Relationship to Main Plot', ''),
-                        'faction': row.get('Nation/Group', '')
+                # Get name using flexible mapping
+                name = self._get_column_value(row, 'name', 'champion')
+                if pd.notna(name) and name.strip():  # Skip empty rows
+                    champion = {
+                        'name': name,
+                        'type': 'champion',
+                        'description': self._get_column_value(row, 'description', 'champion'),
+                        'attributes': {
+                            'subplot': self._get_column_value(row, 'subplot', 'champion'),
+                            'nation': self._get_column_value(row, 'nation', 'champion'),
+                            'agenda': self._get_column_value(row, 'agenda', 'champion')
+                        }
                     }
-                    entity_id = self.knowledge_graph.add_entity(
-                        name=champion_data['name'],
-                        entity_type='champion',
-                        attributes=champion_data
-                    )
+                    champions.append(champion)
                     
-                    # Create relationships after adding entity
-                    create_champion_relationships(entity_id, champion_data)
+        self.knowledge_graph.add_entities(champions)
 
     def _load_nation_data(self):
         """Load nation data from CSV."""
@@ -1090,146 +1070,92 @@ class EnhancedDataLoader:
             except Exception as e:
                 self.logger.warning(f"Error adding relationship: {str(e)}") 
 
-class EnhancedLoader:
-    """Enhanced data loader with support for complex relationships."""
+    def _get_column_value(self, row: pd.Series, field: str, entity_type: str, default: str = '') -> str:
+        """Get value from row using flexible column mappings."""
+        possible_columns = self.COLUMN_MAPPINGS[entity_type][field]
+        
+        # Debug logging
+        logger.debug(f"Looking for {field} in {entity_type} with possible columns: {possible_columns}")
+        logger.debug(f"Available columns: {list(row.index)}")
+        
+        # Try exact matches first
+        for col in possible_columns:
+            if col in row and pd.notna(row[col]):
+                logger.debug(f"Found exact match: {col}")
+                return str(row[col])
+                
+        # Try case-insensitive matches
+        row_cols = {col.lower(): col for col in row.index}
+        for col in possible_columns:
+            if col.lower() in row_cols and pd.notna(row[row_cols[col.lower()]]):
+                logger.debug(f"Found case-insensitive match: {col} -> {row_cols[col.lower()]}")
+                return str(row[row_cols[col.lower()]])
+                
+        # Try fuzzy matches if needed
+        for col in row.index:
+            if any(possible.lower() in col.lower() or col.lower() in possible.lower() 
+                  for possible in possible_columns):
+                if pd.notna(row[col]):
+                    logger.debug(f"Found fuzzy match: {col}")
+                    return str(row[col])
+                    
+        logger.debug(f"No match found for {field} in {entity_type}")
+        return default
+
+class EnhancedLoader(BaseLoader):
+    """Enhanced loader with AI-powered features."""
     
-    def __init__(self, data_dir: str = "data"):
-        self.data_dir = Path(data_dir)
-        self.official_dir = self.data_dir/"official_canon"
+    def __init__(self, data_dir: str = "data", llm_client=None):
+        super().__init__(data_dir)
         
-        # Define file paths
-        self.file_paths = {
-            'monsters_gen1': self.official_dir/"Hatchy - Monster Data - gen 1.csv",
-            'monsters_gen2': self.official_dir/"Hatchy - Monster Data - gen 2.csv", 
-            'monsters_gen3': self.official_dir/"Gen3 List  - Asset list .csv",
-            'factions': self.official_dir/"Hatchipedia - Factions and groups.csv",
-            'champions': self.official_dir/"Hatchipedia - famous champions.csv",
-            'nations': self.official_dir/"Hatchipedia - nations and politics.csv",
-            'monsters': self.official_dir/"Hatchipedia - monsters.csv"
-        }
+        # Only initialize AI components if LLM is provided
+        self.llm_client = llm_client
+        if llm_client:
+            self.relationship_extractor = AdaptiveRelationshipExtractor(llm_client)
+            self.context_manager = EnhancedContextManager(
+                knowledge_graph=self.knowledge_graph,
+                relationship_registry=RelationshipRegistry(),
+                llm=llm_client
+            )
+        else:
+            self.relationship_extractor = None
+            self.context_manager = None
+
+    def _process_relationships(self, entity: Dict[str, Any], entity_id: str):
+        """Process relationships with or without AI enhancement."""
+        # Basic relationships (no AI needed)
+        self._process_basic_relationships(entity, entity_id)
         
-        # Validate files exist
-        for name, path in self.file_paths.items():
-            if not path.exists():
-                logger.warning(f"Missing {name} file: {path}")
-                
-    def initialize_core_elements(self) -> List[Dict[str, Any]]:
-        """Initialize core elemental entities."""
-        logger.info("Initializing core elements...")
+        # AI-enhanced relationship extraction if available
+        if self.relationship_extractor and entity.get('description'):
+            self._process_ai_relationships(entity, entity_id)
+
+    def _process_basic_relationships(self, entity: Dict[str, Any], entity_id: str):
+        """Process relationships that don't require AI."""
+        # Element relationships for monsters
+        if entity['type'] == 'monster' and entity.get('element'):
+            self.knowledge_graph.add_relationship(
+                source=entity_id,
+                target=entity['element'].lower(),
+                relationship_type='has_element'
+            )
+        # ... other basic relationships ...
+
+    def _process_ai_relationships(self, entity: Dict[str, Any], entity_id: str):
+        """Process relationships using AI if available."""
+        relationships = self.relationship_extractor.extract_from_text(
+            entity['description'], 
+            source_entity=entity_id
+        )
         
-        elements = [
-            {"name": "Fire", "type": "element", "attributes": {"domain": "heat", "polarity": "active"}},
-            {"name": "Water", "type": "element", "attributes": {"domain": "fluid", "polarity": "passive"}},
-            {"name": "Plant", "type": "element", "attributes": {"domain": "life", "polarity": "neutral"}},
-            {"name": "Light", "type": "element", "attributes": {"domain": "radiance", "polarity": "active"}},
-            {"name": "Dark", "type": "element", "attributes": {"domain": "shadow", "polarity": "passive"}},
-            {"name": "Void", "type": "element", "attributes": {"domain": "space", "polarity": "neutral"}}
-        ]
-        
-        return elements
-        
-    def load_monsters(self) -> List[Dict[str, Any]]:
-        """Load monster data from all sources."""
-        monsters = []
-        
-        # Load Gen 1 monsters
-        if self.file_paths['monsters_gen1'].exists():
-            df = pd.read_csv(self.file_paths['monsters_gen1'])
-            for _, row in df.iterrows():
-                monster = {
-                    'name': row['Name'],
-                    'type': 'monster',
-                    'element': row['Element'],
-                    'description': row['Description'],
-                    'attributes': {
-                        'height': row['Height'],
-                        'weight': row['Weight'],
-                        'generation': 1
+        for rel in relationships:
+            if self.context_manager.validate_relationship(rel):
+                self.knowledge_graph.add_relationship(
+                    source=rel.source or entity_id,
+                    target=rel.target,
+                    relationship_type=rel.type,
+                    attributes={
+                        'confidence': rel.confidence,
+                        'context': rel.context
                     }
-                }
-                monsters.append(monster)
-                
-        # Load Gen 2 monsters
-        if self.file_paths['monsters_gen2'].exists():
-            df = pd.read_csv(self.file_paths['monsters_gen2'])
-            for _, row in df.iterrows():
-                monster = {
-                    'name': row['Name'],
-                    'type': 'monster', 
-                    'element': row['Element'],
-                    'description': row['Description'],
-                    'attributes': {
-                        'height': row['Height'],
-                        'weight': row['Weight'],
-                        'generation': 2
-                    }
-                }
-                monsters.append(monster)
-                
-        return monsters
-        
-    def load_factions(self) -> List[Dict[str, Any]]:
-        """Load faction data."""
-        factions = []
-        
-        if self.file_paths['factions'].exists():
-            df = pd.read_csv(self.file_paths['factions'])
-            for _, row in df.iterrows():
-                if pd.notna(row['Name']):  # Skip empty rows
-                    faction = {
-                        'name': row['Name'],
-                        'type': 'faction',
-                        'description': row['Description'] if pd.notna(row['Description']) else '',
-                        'attributes': {
-                            'agenda': row['Agenda/Motivations'] if pd.notna(row['Agenda/Motivations']) else '',
-                            'symbol': row['symbol'] if pd.notna(row['symbol']) else '',
-                            'locations': row['locations/presence'] if pd.notna(row['locations/presence']) else ''
-                        }
-                    }
-                    factions.append(faction)
-                    
-        return factions
-        
-    def load_champions(self) -> List[Dict[str, Any]]:
-        """Load champion data."""
-        champions = []
-        
-        if self.file_paths['champions'].exists():
-            df = pd.read_csv(self.file_paths['champions'])
-            for _, row in df.iterrows():
-                if pd.notna(row['Name']):  # Skip empty rows
-                    champion = {
-                        'name': row['Name'],
-                        'type': 'champion',
-                        'description': row['Character Description'] if pd.notna(row['Character Description']) else '',
-                        'attributes': {
-                            'subplot': row['Subplot and Relationship to Main Plot'] if pd.notna(row['Subplot and Relationship to Main Plot']) else '',
-                            'nation': row['Nation/Group'] if pd.notna(row['Nation/Group']) else '',
-                            'agenda': row['Agendas and Motivations'] if pd.notna(row['Agendas and Motivations']) else ''
-                        }
-                    }
-                    champions.append(champion)
-                    
-        return champions
-        
-    def load_nations(self) -> List[Dict[str, Any]]:
-        """Load nation data."""
-        nations = []
-        
-        if self.file_paths['nations'].exists():
-            df = pd.read_csv(self.file_paths['nations'])
-            for _, row in df.iterrows():
-                if pd.notna(row['Nation Name']):  # Skip empty rows
-                    nation = {
-                        'name': row['Nation Name'],
-                        'type': 'nation',
-                        'description': row['Description'] if pd.notna(row['Description']) else '',
-                        'attributes': {
-                            'themes': row['Themes'] if pd.notna(row['Themes']) else '',
-                            'culture': row['Hatchy Culture'] if pd.notna(row['Hatchy Culture']) else '',
-                            'conflict': row['Political Conflict'] if pd.notna(row['Political Conflict']) else ''
-                        }
-                    }
-                    nations.append(nation)
-                    
-        return nations 
+                ) 

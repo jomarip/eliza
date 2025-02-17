@@ -1,0 +1,311 @@
+{
+  "entities": {
+    "dd280ca8-fd77-4b75-a875-cc1fcb2b422b": {
+      "id": "dd280ca8-fd77-4b75-a875-cc1fcb2b422b",
+      "name": "Water",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Water",
+        "symbol": "\ud83d\udca7",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046787"
+    },
+    "94740546-52bd-406a-9ec3-f3e336d18a7f": {
+      "id": "94740546-52bd-406a-9ec3-f3e336d18a7f",
+      "name": "Order",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Order",
+        "symbol": "\u2696\ufe0f",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046807"
+    },
+    "047f1fff-faff-4cef-8a75-b971ba4169f7": {
+      "id": "047f1fff-faff-4cef-8a75-b971ba4169f7",
+      "name": "Both",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Both",
+        "symbol": "\u262f\ufe0f",
+        "is_core_element": true,
+        "combines": [
+          "Light",
+          "Dark"
+        ],
+        "is_dual_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046816"
+    },
+    "ac43e0d5-459f-4a43-9877-93f176830be9": {
+      "id": "ac43e0d5-459f-4a43-9877-93f176830be9",
+      "name": "Earth",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Earth",
+        "symbol": "\ud83c\udf0d",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046826"
+    },
+    "e41d21df-ee1c-4565-80cf-1e401572cf82": {
+      "id": "e41d21df-ee1c-4565-80cf-1e401572cf82",
+      "name": "Air",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Air",
+        "symbol": "\ud83c\udf2a\ufe0f",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046832"
+    },
+    "37cc76a0-99a3-468d-8498-18820181943c": {
+      "id": "37cc76a0-99a3-468d-8498-18820181943c",
+      "name": "Lunar",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Lunar",
+        "symbol": "\ud83c\udf19",
+        "is_core_element": true,
+        "related_to": "Dark",
+        "is_special_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046839"
+    },
+    "d1ffbeeb-e9dd-4a97-a5fd-ad7e564b7594": {
+      "id": "d1ffbeeb-e9dd-4a97-a5fd-ad7e564b7594",
+      "name": "Plant",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Plant",
+        "symbol": "\ud83c\udf3f",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046848"
+    },
+    "fe81ea7e-2879-4325-a03d-0d7cc0b60b09": {
+      "id": "fe81ea7e-2879-4325-a03d-0d7cc0b60b09",
+      "name": "Solar",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Solar",
+        "symbol": "\u2600\ufe0f",
+        "is_core_element": true,
+        "related_to": "Light",
+        "is_special_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046853"
+    },
+    "a1922701-27d0-4eea-8700-6bcfd25ceb07": {
+      "id": "a1922701-27d0-4eea-8700-6bcfd25ceb07",
+      "name": "Electric",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Electric",
+        "symbol": "\u26a1",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046860"
+    },
+    "14fab2b6-86b1-475c-82f7-8dee6d330124": {
+      "id": "14fab2b6-86b1-475c-82f7-8dee6d330124",
+      "name": "Dark",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Dark",
+        "symbol": "\ud83c\udf11",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046866"
+    },
+    "963ac2f9-b107-4760-b89b-9611d4395973": {
+      "id": "963ac2f9-b107-4760-b89b-9611d4395973",
+      "name": "Fire",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Fire",
+        "symbol": "\ud83d\udd25",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046873"
+    },
+    "606aa7a9-ac6a-4a49-9b05-eee35456eee3": {
+      "id": "606aa7a9-ac6a-4a49-9b05-eee35456eee3",
+      "name": "Chaos",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Chaos",
+        "symbol": "\ud83c\udf00",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046882"
+    },
+    "36251b4d-efd8-457e-9eba-096ecfece83d": {
+      "id": "36251b4d-efd8-457e-9eba-096ecfece83d",
+      "name": "Light",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Light",
+        "symbol": "\u2728",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046888"
+    },
+    "6d7fdc68-b2fa-4652-bc45-3bd59712cf4c": {
+      "id": "6d7fdc68-b2fa-4652-bc45-3bd59712cf4c",
+      "name": "Void",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Void",
+        "symbol": "\ud83c\udf0c",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046894"
+    },
+    "3f8dd061-7e00-46ce-9ded-e36288366589": {
+      "id": "3f8dd061-7e00-46ce-9ded-e36288366589",
+      "name": "Metal",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Metal",
+        "symbol": "\u2699\ufe0f",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046900"
+    },
+    "5f7a5e8a-0b54-43f7-a651-2f9e48c608d8": {
+      "id": "5f7a5e8a-0b54-43f7-a651-2f9e48c608d8",
+      "name": "Fire",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "heat",
+        "polarity": "active"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046969"
+    },
+    "413564bb-df94-4a37-8aca-861f03dcc2c5": {
+      "id": "413564bb-df94-4a37-8aca-861f03dcc2c5",
+      "name": "Water",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "fluid",
+        "polarity": "passive"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046976"
+    },
+    "abe52c71-b7b4-42fe-a954-f87fb772f812": {
+      "id": "abe52c71-b7b4-42fe-a954-f87fb772f812",
+      "name": "Plant",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "life",
+        "polarity": "neutral"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046981"
+    },
+    "2f95af8a-4651-4b18-85c4-cfb2165edd93": {
+      "id": "2f95af8a-4651-4b18-85c4-cfb2165edd93",
+      "name": "Light",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "radiance",
+        "polarity": "active"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046986"
+    },
+    "48197165-f09b-45d4-a752-d95f12cd22ce": {
+      "id": "48197165-f09b-45d4-a752-d95f12cd22ce",
+      "name": "Dark",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "shadow",
+        "polarity": "passive"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046990"
+    },
+    "c20103d4-8dde-4e0e-80de-59f8eea11485": {
+      "id": "c20103d4-8dde-4e0e-80de-59f8eea11485",
+      "name": "Void",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "space",
+        "polarity": "neutral"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:45:02.046994"
+    }
+  },
+  "relationships": []
+}

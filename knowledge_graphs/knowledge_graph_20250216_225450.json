@@ -1,0 +1,783 @@
+{
+  "entities": [
+    {
+      "id": "bdec6426-3f35-4dc4-836e-8a7cde78f5cd",
+      "name": "Fire",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "heat"
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.650369"
+    },
+    {
+      "id": "9231b834-af34-4079-9765-9a7829e8e832",
+      "name": "Water",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "fluid"
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.650392"
+    },
+    {
+      "id": "b75cc957-df68-487a-bfb7-a4d6be95d74c",
+      "name": "Plant",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "life"
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.650398"
+    },
+    {
+      "id": "42cf718f-ca9f-4a99-bca1-d627ea3f626e",
+      "name": "Light",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "radiance"
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.650402"
+    },
+    {
+      "id": "15e40eb2-f63b-45d1-8b9c-7d547ab8bdf7",
+      "name": "Dark",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "shadow"
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.650407"
+    },
+    {
+      "id": "712b5a7f-9717-4b32-ad23-7f35630623fe",
+      "name": "Void",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "space"
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.650412"
+    },
+    {
+      "id": "fc018701-e7db-4a44-ac5e-6afa4a80714f",
+      "name": "Celestion",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Void",
+        "description": "Celestions rarely appear from the void. Their wings emit a strange energy, which absorbs objects that get too close.",
+        "height": 300,
+        "weight": 9999
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654289"
+    },
+    {
+      "id": "c91210fa-e847-44e2-b868-f4b8fb996078",
+      "name": "Solarion",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Self sufficient and able to produce their own light, Solarions often live in solidarity",
+        "height": 180,
+        "weight": 450
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654351"
+    },
+    {
+      "id": "0b8badc1-5a6e-4e20-9028-9f6e2b4c84bf",
+      "name": "Mangris",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "A Mangris will confuse its prey with floral appendages. Once it is near, its saw-like front legs strike at the speed of sound.",
+        "height": 60,
+        "weight": 20
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654391"
+    },
+    {
+      "id": "2220c9fe-5d11-4348-856e-816d4a3432c5",
+      "name": "Sporeleon",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Sporeleons are often found perched high in the forest canopy, waiting for an unsuspecting meal to pass underneath.",
+        "height": 100,
+        "weight": 35
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654427"
+    },
+    {
+      "id": "2a5fd777-6c32-4aea-96fd-f2704cb87ddb",
+      "name": "Bazub",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Bazub swarms are both deadly and destructive and can destroy entire croplands in mere minutes",
+        "height": 30,
+        "weight": 5
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654459"
+    },
+    {
+      "id": "5292f441-4481-40bd-b9bb-c51ebe4efa2c",
+      "name": "Bolbon",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "A Bolbon can be inactive for so long that moss, shrubs, or even small trees grow on their backs and limbs.",
+        "height": 200,
+        "weight": 2000
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654493"
+    },
+    {
+      "id": "0631afda-33fb-422b-b92b-bc17316755b7",
+      "name": "Nocterra",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Nocterra spread halucinogenic pollens which can severely disorient travellers and predators.",
+        "height": 80,
+        "weight": 100
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654525"
+    },
+    {
+      "id": "b5265e5e-9b92-4077-ba98-bcaa9fd4f250",
+      "name": "Lycospore",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Lycospores release clouds of fine particles that shut down the immune systems of other living things.",
+        "height": 60,
+        "weight": 120
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654557"
+    },
+    {
+      "id": "1a15b5cc-8339-4be7-99b7-75b3541723c6",
+      "name": "Florean",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Floreans root themselves to the ground and become immovable objects. Their vines are stronger than threaded steel, and often it is easier to move the earth itself.",
+        "height": 210,
+        "weight": 90
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654588"
+    },
+    {
+      "id": "38e5e0e6-5180-4afe-bcfd-c4ed99b2a714",
+      "name": "Koranok",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Koranok claws are powerful enough to burrow through permafrost and bedrock, where they build their nests in warm safety.",
+        "height": 350,
+        "weight": 1400
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654620"
+    },
+    {
+      "id": "4e1a215c-478e-4a66-815c-bd3d0f381931",
+      "name": "Sharakus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "While swimming at full speed, a Sharakus generates enough energy to cause fifty-meter swells.",
+        "height": 220,
+        "weight": 200
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654653"
+    },
+    {
+      "id": "8c013637-1f9f-42a4-8e4b-710cfe416414",
+      "name": "Sujin",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "Sujin are mischevious tricksters that are able to shape their watery bodies at will to mimic anything they have already seen",
+        "height": 180,
+        "weight": 1
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654684"
+    },
+    {
+      "id": "8050ecbc-06dd-4719-9526-da6fa693f977",
+      "name": "Leviathan",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "Leviathans usually drift throughout the dark abyss, their maws held open like black holes in the sea.",
+        "height": 410,
+        "weight": 800
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654716"
+    },
+    {
+      "id": "e7041069-a7ef-4666-9f41-b89e37654b19",
+      "name": "Seaqueen",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "The horns of Seaqueens are coated with a powerful toxin that can potentially paralyze a target or attacker for several days--if they survive the blow.",
+        "height": 60,
+        "weight": 40
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654747"
+    },
+    {
+      "id": "12975cec-874f-4357-ae2b-ddfdd4cc0fa1",
+      "name": "Naga",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "The Nagae have powerful, muscular bodies that enable them to manoeuvre swiftly and easily through water.",
+        "height": 160,
+        "weight": 60
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654778"
+    },
+    {
+      "id": "5db3ff94-8419-46ed-9bc8-094e3fb9fb80",
+      "name": "Mermos",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "Despite not having bones, each tentacle on a Mermos is capable of crushing a rock to beach sand.",
+        "height": 220,
+        "weight": 180
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654810"
+    },
+    {
+      "id": "afc2c11c-1239-4940-9e7e-01dbc04cb219",
+      "name": "Glacioise",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "Glacioises move so slowly that they are often mistaken for part of the glaciar.",
+        "height": 80,
+        "weight": 250
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654843"
+    },
+    {
+      "id": "0a118331-cfce-4180-b29f-d5d228a1fcc3",
+      "name": "Antarcticus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "The wings of an Antarcticus emit a cold wind that cause dense clouds to erupt in snow.",
+        "height": 100,
+        "weight": 30
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654874"
+    },
+    {
+      "id": "f54a2636-56c4-4e10-b8ce-2521147a9f32",
+      "name": "Woover",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "Woovers travel in packs and chase down their prey over extremely long distances, or work together to set ambushes and traps.",
+        "height": 180,
+        "weight": 60
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654906"
+    },
+    {
+      "id": "1092994d-6918-48e3-a370-7b8b2ca94fdd",
+      "name": "Lavekans",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "Lavekans increase their elemental power when they are on firey ground, and often coil themselves up during combat to amplify that effect",
+        "height": 520,
+        "weight": 640
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.654938"
+    },
+    {
+      "id": "4625837b-d942-47a5-8c81-375651094583",
+      "name": "Calidus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "When a Calidus senses a threat, it begins to burn white hot and emits heatwaves that melt swords and char spears to black.",
+        "height": 250,
+        "weight": 4500
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655052"
+    },
+    {
+      "id": "812f5484-9d53-4159-a095-0276b16730df",
+      "name": "Magmus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "Magmusii ooze a trail of lava wherever they go, which remains hot for many hours before cooling. This makes them easy to track in the wild--and even easier in cities.",
+        "height": 220,
+        "weight": 550
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655092"
+    },
+    {
+      "id": "4eaf31ab-da38-4a54-a4fa-489f7d9599e4",
+      "name": "Chargoyle",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "Chargoyles usually nest in groups on the sides of volcanoes. Easily startled, their manes erupt with flames in sychronicity as they take wing.",
+        "height": 160,
+        "weight": 80
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655125"
+    },
+    {
+      "id": "9d157740-0d3a-4420-bffb-507b97712786",
+      "name": "Firadactus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "A Firadactus heats the air under its wings to aid its flight, allowing it to soar for many days without rest.",
+        "height": 230,
+        "weight": 250
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655159"
+    },
+    {
+      "id": "34232697-20b0-4b40-a20d-24450b8c3ae8",
+      "name": "Ignis",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "When harmed or threatened, a Ignis emits a strong odor that alerts its hive to the presence of invaders. Soon, there are many buzzing flames and red hot stingers.",
+        "height": 60,
+        "weight": 10
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655192"
+    },
+    {
+      "id": "e8260796-70c5-43bf-a271-640158d78b8c",
+      "name": "Blazeo",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "If threatened, Blazeos fan out their burning tails to shield themselves from attacks and obscure their image.",
+        "height": 140,
+        "weight": 25
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655224"
+    },
+    {
+      "id": "33239410-d725-4525-bb6e-1ac9274f622e",
+      "name": "Phoenix",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "When a Phoenix sheds its feathers, the discarded plumage continues to burn until the end of its cycle, even if placed underwater.",
+        "height": 150,
+        "weight": 45
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655255"
+    },
+    {
+      "id": "8609cc2d-83a8-4f40-b44b-9935f3a3c7ed",
+      "name": "Flamus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "A Flamus must always be on the move, lest it melts the ground it stands upon.",
+        "height": 170,
+        "weight": 25
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655285"
+    },
+    {
+      "id": "dd057773-8a33-419f-8409-2077f5fa7550",
+      "name": "Goblen",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Dark",
+        "description": "Goblens are social creatures that work in large groups. Although small, their voices carry over heat and can extend many miles in the right conditions.",
+        "height": 155,
+        "weight": 60
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655316"
+    },
+    {
+      "id": "0a11e468-3463-47d0-8c2b-a6096bb9ba12",
+      "name": "Depedus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Dark",
+        "description": "Depedusae cause small earthquakes as they build their complex tunnel networks. They are believed to live at the bottom of the world's crust in perpetual heat, pressure, and darkness.",
+        "height": 320,
+        "weight": 250
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655384"
+    },
+    {
+      "id": "c7340dc1-4f4a-4c0c-b8e6-bac445a2d0eb",
+      "name": "Darthys",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Dark",
+        "description": "Whenever something dies near a Darthys, its soul risks being trapped in the crystal on the Darthys' back forever.",
+        "height": 130,
+        "weight": 210
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655420"
+    },
+    {
+      "id": "8cb9aca8-be98-4ba8-b4b8-0faa91bb4afa",
+      "name": "Wraith",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Dark",
+        "description": "The claws of Wraiths are massive and terrifying, but their slash is the legend of stories, which put kids to bed in fear.",
+        "height": 150,
+        "weight": 60
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655451"
+    },
+    {
+      "id": "7e186e5f-75e0-468e-acd1-09cce74555f4",
+      "name": "Wanderer",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Dark",
+        "description": "Wanderers are said to be powerful warrior spirits that travel the world in desperate search for a worthy opponent.",
+        "height": 180,
+        "weight": 80
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655484"
+    },
+    {
+      "id": "dbcb2dab-100a-4011-8205-7eca34223f0c",
+      "name": "Baphomet",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Dark",
+        "description": "Baphomets are highly deceptive shapeshifters that commit to their disguises at great lengths, sometimes posing as another being for a full lifetime.",
+        "height": 270,
+        "weight": 160
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655517"
+    },
+    {
+      "id": "2befac90-243f-4c1e-adf7-f3f84b693647",
+      "name": "Sentinel",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Light",
+        "description": "Because they have no desires of their own, Sentinels stand guard at attention indefinitely. They are the perfect soldiers.",
+        "height": 333,
+        "weight": 3333
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655549"
+    },
+    {
+      "id": "8d108482-1b26-4d42-9da9-60c1c8448439",
+      "name": "Elkar",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Light",
+        "description": "The glowing gold antlers of Elkari are used for mating rituals and courtship combat. Elkari are sometimes found to be training against large boulders and can turn a mountainside to rubble.",
+        "height": 150,
+        "weight": 60
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655582"
+    },
+    {
+      "id": "02d34edb-9c61-4f3c-8744-d941e6592a8f",
+      "name": "Lumenicia",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Light",
+        "description": "Highly sensitive to the world and its vibrations, Lumeniciae communicate through photons of light.",
+        "height": 180,
+        "weight": 1
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655613"
+    },
+    {
+      "id": "27ddf502-5fa7-464b-97ed-22960dd3ff0e",
+      "name": "Gryphon",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Light",
+        "description": "Gryphons whip their tails to send shockwaves of air that stun and shatter with sound on impact.",
+        "height": 380,
+        "weight": 770
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655649"
+    },
+    {
+      "id": "6f2f32a3-ef3e-4201-8699-18c75198d2a2",
+      "name": "Pegasus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Light",
+        "description": "Pegasusies gallop through the night sky, wherefore they are commonly mistaken for falling stars.",
+        "height": 420,
+        "weight": 600
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655680"
+    },
+    {
+      "id": "5bb17db0-55dc-490f-923e-ac77e3f373e7",
+      "name": "Templar",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Light",
+        "description": "Templars have powerful wings that allow for sudden take-off and blurring flight. They cannot be caught--only trapped and befriended.",
+        "height": 270,
+        "weight": 160
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.655711"
+    },
+    {
+      "id": "6613f96c-b6a8-415a-b693-e23a2f04d537",
+      "name": "The Undead Corruption",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "To spread the corruption and create the abyssal horde and control all chaos in creation",
+        "locations": "presence through channelling or spread around the world, greater presence in corrupted sites"
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.658949"
+    },
+    {
+      "id": "6f6ff7a3-02f6-424e-96ec-d248053d036b",
+      "name": "The Dark Brotherhood",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "To gain power and control over the world",
+        "locations": "presence in every major city and scattered presence anywhere in the world"
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.658996"
+    },
+    {
+      "id": "5b2710ba-df7c-4759-85ed-7eaa6ffdf3d8",
+      "name": "The Cult of the silent night",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "To spread the Undead Corruption and gain power",
+        "locations": NaN
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.659031"
+    },
+    {
+      "id": "69104c16-6881-4c7b-b6dd-490411faa1df",
+      "name": "the empire",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "to recover its lost lands and return to its former glory, to conquer the entire world",
+        "locations": "controls smaller kingdoms and satellite states"
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.659066"
+    },
+    {
+      "id": "57a9f828-fab3-4e64-9631-35817e4da189",
+      "name": "Kingdom of Azura",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "maintaining their prosperity and independence, bringing freedom to more people",
+        "locations": "Star Co' the company secretly owned by the empire, deals in several major situations\n- provides aid and sells medicine to water kingdom\n- creates and sells weapons"
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.659132"
+    },
+    {
+      "id": "0735820f-0386-40fd-be17-e8be758e2de1",
+      "name": "togenkyo monastery village",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": NaN,
+        "locations": NaN
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.659184"
+    },
+    {
+      "id": "02139b3d-95a8-4abf-8274-0529d4669449",
+      "name": "political nomads",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "control of the region, wealth and power",
+        "locations": NaN
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.659220"
+    },
+    {
+      "id": "553750c4-9d1b-452c-88dd-b339ebc0f11f",
+      "name": "religious nomads",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "maintaining their prosperity and independence, living harmoniously with the land",
+        "locations": NaN
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.659255"
+    },
+    {
+      "id": "b3b95b77-df0c-48d5-ad7b-35708ee6531a",
+      "name": "realm guard",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "to maintain control and ensure there is no political threat while maintaining diplomacy to request resources, with at least an ambassador from representing each nation in the order",
+        "locations": NaN
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.659320"
+    },
+    {
+      "id": "25e122e5-ea5c-4fa7-9243-f4944916df3a",
+      "name": "priests",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "some people have been hijacked in by the order, theyve added their own information to the main directives\n\ntheyve taken some of the directives and layered on extra commandments that are a bit more sectarian, being used to reinforce divisions ",
+        "locations": NaN
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.659353"
+    },
+    {
+      "id": "dc4c9ab2-3514-4a3c-be00-6f64ad3b5102",
+      "name": "The Order of the Light",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "To protect the world from darkness and chaos",
+        "locations": "base in main city, scattered presence in many locations"
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.659384"
+    },
+    {
+      "id": "b492c65d-0740-4a01-b991-0f03f62756a1",
+      "name": "hunters guild",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": NaN,
+        "locations": NaN
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.659463"
+    },
+    {
+      "id": "f34b3291-4630-4f02-8ac6-df755c3d7c28",
+      "name": "merchants guild",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "try to maintain global trade management and funnels money to capital",
+        "locations": NaN
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.659495"
+    },
+    {
+      "id": "63dd28dc-b793-4ce6-99d0-5e92c469ec8a",
+      "name": "ahahin",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": NaN,
+        "locations": NaN
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.659528"
+    },
+    {
+      "id": "4817b883-28f9-4e55-8b69-ea5131de141c",
+      "name": "jinja",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": NaN,
+        "locations": NaN
+      },
+      "metadata": {},
+      "created_at": "2025-02-16T22:54:50.659559"
+    }
+  ],
+  "relationships": [],
+  "statistics": {
+    "total_entities": 61,
+    "entity_types": {
+      "element": 6,
+      "monster": 40,
+      "faction": 15
+    },
+    "total_relationships": 0,
+    "relationship_types": {},
+    "element_counts": {
+      "Void": 1,
+      "Plant": 9,
+      "Water": 9,
+      "Fire": 9,
+      "Dark": 6,
+      "Light": 6
+    }
+  }
+}

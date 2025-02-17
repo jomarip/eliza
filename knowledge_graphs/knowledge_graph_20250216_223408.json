@@ -1,0 +1,2157 @@
+{
+  "entities": {
+    "7638eaa1-eac6-4ecd-ad6b-8008bd79cfd7": {
+      "id": "7638eaa1-eac6-4ecd-ad6b-8008bd79cfd7",
+      "name": "Metal",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Metal",
+        "symbol": "\u2699\ufe0f",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.213726"
+    },
+    "10a8aeee-2b1b-4e8e-828f-a5c258e5e4a3": {
+      "id": "10a8aeee-2b1b-4e8e-828f-a5c258e5e4a3",
+      "name": "Light",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Light",
+        "symbol": "\u2728",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.213843"
+    },
+    "4bd15651-c15d-4917-ba4b-cd4b7e9cdcbe": {
+      "id": "4bd15651-c15d-4917-ba4b-cd4b7e9cdcbe",
+      "name": "Air",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Air",
+        "symbol": "\ud83c\udf2a\ufe0f",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.213934"
+    },
+    "2692e7cc-959d-46df-826b-47d3b87c5224": {
+      "id": "2692e7cc-959d-46df-826b-47d3b87c5224",
+      "name": "Order",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Order",
+        "symbol": "\u2696\ufe0f",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.214023"
+    },
+    "dbd58609-ac40-48ec-99a9-49deaaba54ae": {
+      "id": "dbd58609-ac40-48ec-99a9-49deaaba54ae",
+      "name": "Earth",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Earth",
+        "symbol": "\ud83c\udf0d",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.214102"
+    },
+    "2645e7bd-0911-4a1c-808c-09ce193b2fad": {
+      "id": "2645e7bd-0911-4a1c-808c-09ce193b2fad",
+      "name": "Solar",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Solar",
+        "symbol": "\u2600\ufe0f",
+        "is_core_element": true,
+        "related_to": "Light",
+        "is_special_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.214194"
+    },
+    "1e0f589a-9f06-406f-8826-31c81db9fe8d": {
+      "id": "1e0f589a-9f06-406f-8826-31c81db9fe8d",
+      "name": "Dark",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Dark",
+        "symbol": "\ud83c\udf11",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.214286"
+    },
+    "df48d620-2be1-4da1-9332-65b04c5bad88": {
+      "id": "df48d620-2be1-4da1-9332-65b04c5bad88",
+      "name": "Water",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Water",
+        "symbol": "\ud83d\udca7",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.214377"
+    },
+    "d014a4a0-8e5f-4ef6-bf72-b0add96e5407": {
+      "id": "d014a4a0-8e5f-4ef6-bf72-b0add96e5407",
+      "name": "Plant",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Plant",
+        "symbol": "\ud83c\udf3f",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.214473"
+    },
+    "2046d7d1-c801-4a62-8239-83cf1352a4ac": {
+      "id": "2046d7d1-c801-4a62-8239-83cf1352a4ac",
+      "name": "Electric",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Electric",
+        "symbol": "\u26a1",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.214565"
+    },
+    "08909c85-e814-4078-a2c5-77b9bf671b3d": {
+      "id": "08909c85-e814-4078-a2c5-77b9bf671b3d",
+      "name": "Lunar",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Lunar",
+        "symbol": "\ud83c\udf19",
+        "is_core_element": true,
+        "related_to": "Dark",
+        "is_special_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.214647"
+    },
+    "3e7e46e1-f6dd-46ab-9d83-4545d3228bc6": {
+      "id": "3e7e46e1-f6dd-46ab-9d83-4545d3228bc6",
+      "name": "Void",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Void",
+        "symbol": "\ud83c\udf0c",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.214750"
+    },
+    "f037dbc4-884b-4e36-9a6a-173a31006770": {
+      "id": "f037dbc4-884b-4e36-9a6a-173a31006770",
+      "name": "Both",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Both",
+        "symbol": "\u262f\ufe0f",
+        "is_core_element": true,
+        "combines": [
+          "Light",
+          "Dark"
+        ],
+        "is_dual_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.214842"
+    },
+    "8b78d43b-b258-4549-8ab8-b8fe5b376279": {
+      "id": "8b78d43b-b258-4549-8ab8-b8fe5b376279",
+      "name": "Fire",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Fire",
+        "symbol": "\ud83d\udd25",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.214925"
+    },
+    "3c784a17-e832-462c-be61-69671fdfdd66": {
+      "id": "3c784a17-e832-462c-be61-69671fdfdd66",
+      "name": "Chaos",
+      "entity_type": "element",
+      "attributes": {
+        "name": "Chaos",
+        "symbol": "\ud83c\udf00",
+        "is_core_element": true
+      },
+      "metadata": {
+        "core_element": true
+      },
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.215032"
+    },
+    "d1a3750a-6c26-4d6f-9a3a-63ef162c736a": {
+      "id": "d1a3750a-6c26-4d6f-9a3a-63ef162c736a",
+      "name": "Fire",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "heat",
+        "polarity": "active"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.218810"
+    },
+    "58accba9-a379-49b8-9207-26fb8238d8f4": {
+      "id": "58accba9-a379-49b8-9207-26fb8238d8f4",
+      "name": "Water",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "fluid",
+        "polarity": "passive"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.218868"
+    },
+    "f39d7393-5244-40b1-9507-148406e0f974": {
+      "id": "f39d7393-5244-40b1-9507-148406e0f974",
+      "name": "Plant",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "life",
+        "polarity": "neutral"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.218917"
+    },
+    "1c9783e6-a69e-4131-ad4f-f5d2a1f3d846": {
+      "id": "1c9783e6-a69e-4131-ad4f-f5d2a1f3d846",
+      "name": "Light",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "radiance",
+        "polarity": "active"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.218957"
+    },
+    "76b3c163-74e7-43c5-a053-7a1b8ae634e2": {
+      "id": "76b3c163-74e7-43c5-a053-7a1b8ae634e2",
+      "name": "Dark",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "shadow",
+        "polarity": "passive"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.219008"
+    },
+    "4d7ae8ee-7d08-4ab7-b9fb-d2defb35a019": {
+      "id": "4d7ae8ee-7d08-4ab7-b9fb-d2defb35a019",
+      "name": "Void",
+      "entity_type": "element",
+      "attributes": {
+        "domain": "space",
+        "polarity": "neutral"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.219061"
+    },
+    "570ad63c-dd90-4147-9b7f-0fc90504f7d0": {
+      "id": "570ad63c-dd90-4147-9b7f-0fc90504f7d0",
+      "name": "Celestion",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Void",
+        "description": "Celestions rarely appear from the void. Their wings emit a strange energy, which absorbs objects that get too close.",
+        "height": "300",
+        "weight": "9999",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240096"
+    },
+    "e0c98704-7796-4244-b1d1-e35abfd95d89": {
+      "id": "e0c98704-7796-4244-b1d1-e35abfd95d89",
+      "name": "Solarion",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Self sufficient and able to produce their own light, Solarions often live in solidarity",
+        "height": "180",
+        "weight": "450",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240165"
+    },
+    "cbe8efff-f30b-486b-92b9-8d9c5adf2428": {
+      "id": "cbe8efff-f30b-486b-92b9-8d9c5adf2428",
+      "name": "Mangris",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "A Mangris will confuse its prey with floral appendages. Once it is near, its saw-like front legs strike at the speed of sound.",
+        "height": "60",
+        "weight": "20",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240216"
+    },
+    "9cc37388-a9cb-48f7-9256-13b1a2e7b41a": {
+      "id": "9cc37388-a9cb-48f7-9256-13b1a2e7b41a",
+      "name": "Sporeleon",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Sporeleons are often found perched high in the forest canopy, waiting for an unsuspecting meal to pass underneath.",
+        "height": "100",
+        "weight": "35",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240267"
+    },
+    "ff0ed70f-3d49-4b45-848e-e0c38e00e35c": {
+      "id": "ff0ed70f-3d49-4b45-848e-e0c38e00e35c",
+      "name": "Bazub",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Bazub swarms are both deadly and destructive and can destroy entire croplands in mere minutes",
+        "height": "30",
+        "weight": "5",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240322"
+    },
+    "9aab5187-35db-4b40-9d21-a01eea251615": {
+      "id": "9aab5187-35db-4b40-9d21-a01eea251615",
+      "name": "Bolbon",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "A Bolbon can be inactive for so long that moss, shrubs, or even small trees grow on their backs and limbs.",
+        "height": "200",
+        "weight": "2000",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240376"
+    },
+    "0486900e-e49e-4f5b-9139-515b80c9e22a": {
+      "id": "0486900e-e49e-4f5b-9139-515b80c9e22a",
+      "name": "Nocterra",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Nocterra spread halucinogenic pollens which can severely disorient travellers and predators.",
+        "height": "80",
+        "weight": "100",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240425"
+    },
+    "9589ef49-025e-4a57-bc65-f6531117b143": {
+      "id": "9589ef49-025e-4a57-bc65-f6531117b143",
+      "name": "Lycospore",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Lycospores release clouds of fine particles that shut down the immune systems of other living things.",
+        "height": "60",
+        "weight": "120",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240474"
+    },
+    "b2a11df0-317c-4953-91ba-2390cc467265": {
+      "id": "b2a11df0-317c-4953-91ba-2390cc467265",
+      "name": "Florean",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Floreans root themselves to the ground and become immovable objects. Their vines are stronger than threaded steel, and often it is easier to move the earth itself.",
+        "height": "210",
+        "weight": "90",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240523"
+    },
+    "9c7480e5-4fe3-4377-b7e4-8fc6674a1f3f": {
+      "id": "9c7480e5-4fe3-4377-b7e4-8fc6674a1f3f",
+      "name": "Koranok",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Plant",
+        "description": "Koranok claws are powerful enough to burrow through permafrost and bedrock, where they build their nests in warm safety.",
+        "height": "350",
+        "weight": "1400",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240574"
+    },
+    "3c63f5d7-809a-487c-ae76-91fa2a78df2c": {
+      "id": "3c63f5d7-809a-487c-ae76-91fa2a78df2c",
+      "name": "Sharakus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "While swimming at full speed, a Sharakus generates enough energy to cause fifty-meter swells.",
+        "height": "220",
+        "weight": "200",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240624"
+    },
+    "62b9bc04-377d-4904-acc2-f57f5fabb61a": {
+      "id": "62b9bc04-377d-4904-acc2-f57f5fabb61a",
+      "name": "Sujin",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "Sujin are mischevious tricksters that are able to shape their watery bodies at will to mimic anything they have already seen",
+        "height": "180",
+        "weight": "1",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240673"
+    },
+    "92468750-75fc-407a-834e-b9c8fefcfd9d": {
+      "id": "92468750-75fc-407a-834e-b9c8fefcfd9d",
+      "name": "Leviathan",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "Leviathans usually drift throughout the dark abyss, their maws held open like black holes in the sea.",
+        "height": "410",
+        "weight": "800",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240724"
+    },
+    "ea2cdc77-543a-485d-85cc-ea5c521d2992": {
+      "id": "ea2cdc77-543a-485d-85cc-ea5c521d2992",
+      "name": "Seaqueen",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "The horns of Seaqueens are coated with a powerful toxin that can potentially paralyze a target or attacker for several days--if they survive the blow.",
+        "height": "60",
+        "weight": "40",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240774"
+    },
+    "e66eaa2c-90ef-404d-ae87-d083575150ac": {
+      "id": "e66eaa2c-90ef-404d-ae87-d083575150ac",
+      "name": "Naga",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "The Nagae have powerful, muscular bodies that enable them to manoeuvre swiftly and easily through water.",
+        "height": "160",
+        "weight": "60",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240823"
+    },
+    "df3d283d-5ef1-4728-b4c6-2baf82ed2a50": {
+      "id": "df3d283d-5ef1-4728-b4c6-2baf82ed2a50",
+      "name": "Mermos",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "Despite not having bones, each tentacle on a Mermos is capable of crushing a rock to beach sand.",
+        "height": "220",
+        "weight": "180",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240873"
+    },
+    "8c7c91ae-59d0-42e9-9218-550b29153646": {
+      "id": "8c7c91ae-59d0-42e9-9218-550b29153646",
+      "name": "Glacioise",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "Glacioises move so slowly that they are often mistaken for part of the glaciar.",
+        "height": "80",
+        "weight": "250",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.240924"
+    },
+    "41fbcdce-706a-43fb-949f-b78f04615058": {
+      "id": "41fbcdce-706a-43fb-949f-b78f04615058",
+      "name": "Antarcticus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "The wings of an Antarcticus emit a cold wind that cause dense clouds to erupt in snow.",
+        "height": "100",
+        "weight": "30",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241002"
+    },
+    "3bdcf022-2d44-44af-8729-5ae9c5789545": {
+      "id": "3bdcf022-2d44-44af-8729-5ae9c5789545",
+      "name": "Woover",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Water",
+        "description": "Woovers travel in packs and chase down their prey over extremely long distances, or work together to set ambushes and traps.",
+        "height": "180",
+        "weight": "60",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241157"
+    },
+    "bcabfffc-338a-4a9d-a14b-14df89dd35f8": {
+      "id": "bcabfffc-338a-4a9d-a14b-14df89dd35f8",
+      "name": "Lavekans",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "Lavekans increase their elemental power when they are on firey ground, and often coil themselves up during combat to amplify that effect",
+        "height": "520",
+        "weight": "640",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241233"
+    },
+    "2337e5c9-a9c5-459c-8dec-a647e616c3c8": {
+      "id": "2337e5c9-a9c5-459c-8dec-a647e616c3c8",
+      "name": "Calidus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "When a Calidus senses a threat, it begins to burn white hot and emits heatwaves that melt swords and char spears to black.",
+        "height": "250",
+        "weight": "4500",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241290"
+    },
+    "c6cdc187-4741-48e5-b31c-27d8b80472ba": {
+      "id": "c6cdc187-4741-48e5-b31c-27d8b80472ba",
+      "name": "Magmus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "Magmusii ooze a trail of lava wherever they go, which remains hot for many hours before cooling. This makes them easy to track in the wild--and even easier in cities.",
+        "height": "220",
+        "weight": "550",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241343"
+    },
+    "3f298ce1-6f7f-4a97-85a6-986b515ee062": {
+      "id": "3f298ce1-6f7f-4a97-85a6-986b515ee062",
+      "name": "Chargoyle",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "Chargoyles usually nest in groups on the sides of volcanoes. Easily startled, their manes erupt with flames in sychronicity as they take wing.",
+        "height": "160",
+        "weight": "80",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241396"
+    },
+    "2ecc79dd-8391-46dd-9414-bbf0061507ef": {
+      "id": "2ecc79dd-8391-46dd-9414-bbf0061507ef",
+      "name": "Firadactus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "A Firadactus heats the air under its wings to aid its flight, allowing it to soar for many days without rest.",
+        "height": "230",
+        "weight": "250",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241447"
+    },
+    "c6283648-e321-4de5-a8a2-a12f2386867c": {
+      "id": "c6283648-e321-4de5-a8a2-a12f2386867c",
+      "name": "Ignis",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "When harmed or threatened, a Ignis emits a strong odor that alerts its hive to the presence of invaders. Soon, there are many buzzing flames and red hot stingers.",
+        "height": "60",
+        "weight": "10",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241499"
+    },
+    "b0fc0b43-5fcc-4494-9707-c3ea3b82a12f": {
+      "id": "b0fc0b43-5fcc-4494-9707-c3ea3b82a12f",
+      "name": "Blazeo",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "If threatened, Blazeos fan out their burning tails to shield themselves from attacks and obscure their image.",
+        "height": "140",
+        "weight": "25",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241550"
+    },
+    "fbde7de3-ba47-4176-9d27-c5e2e46e7d12": {
+      "id": "fbde7de3-ba47-4176-9d27-c5e2e46e7d12",
+      "name": "Phoenix",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "When a Phoenix sheds its feathers, the discarded plumage continues to burn until the end of its cycle, even if placed underwater.",
+        "height": "150",
+        "weight": "45",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241604"
+    },
+    "df9f18f9-6e6d-4842-9707-1b48863c9a25": {
+      "id": "df9f18f9-6e6d-4842-9707-1b48863c9a25",
+      "name": "Flamus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Fire",
+        "description": "A Flamus must always be on the move, lest it melts the ground it stands upon.",
+        "height": "170",
+        "weight": "25",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241655"
+    },
+    "28fcd39c-ce4c-4aa2-abd5-b388f9e33146": {
+      "id": "28fcd39c-ce4c-4aa2-abd5-b388f9e33146",
+      "name": "Goblen",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Dark",
+        "description": "Goblens are social creatures that work in large groups. Although small, their voices carry over heat and can extend many miles in the right conditions.",
+        "height": "155",
+        "weight": "60",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241709"
+    },
+    "a8855957-f8c0-4a37-a6f4-b7587fcbc291": {
+      "id": "a8855957-f8c0-4a37-a6f4-b7587fcbc291",
+      "name": "Depedus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Dark",
+        "description": "Depedusae cause small earthquakes as they build their complex tunnel networks. They are believed to live at the bottom of the world's crust in perpetual heat, pressure, and darkness.",
+        "height": "320",
+        "weight": "250",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241758"
+    },
+    "40ea4bb9-2375-480c-8b2e-28eeff5b8c4a": {
+      "id": "40ea4bb9-2375-480c-8b2e-28eeff5b8c4a",
+      "name": "Darthys",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Dark",
+        "description": "Whenever something dies near a Darthys, its soul risks being trapped in the crystal on the Darthys' back forever.",
+        "height": "130",
+        "weight": "210",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241810"
+    },
+    "be5eb73c-c3ce-4e8f-b197-8b24656ab1e0": {
+      "id": "be5eb73c-c3ce-4e8f-b197-8b24656ab1e0",
+      "name": "Wraith",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Dark",
+        "description": "The claws of Wraiths are massive and terrifying, but their slash is the legend of stories, which put kids to bed in fear.",
+        "height": "150",
+        "weight": "60",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241861"
+    },
+    "f5c609ba-3581-40ae-903c-01d24b966238": {
+      "id": "f5c609ba-3581-40ae-903c-01d24b966238",
+      "name": "Wanderer",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Dark",
+        "description": "Wanderers are said to be powerful warrior spirits that travel the world in desperate search for a worthy opponent.",
+        "height": "180",
+        "weight": "80",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241915"
+    },
+    "3b83ce3a-4ff3-496a-a151-e475dcbf815b": {
+      "id": "3b83ce3a-4ff3-496a-a151-e475dcbf815b",
+      "name": "Baphomet",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Dark",
+        "description": "Baphomets are highly deceptive shapeshifters that commit to their disguises at great lengths, sometimes posing as another being for a full lifetime.",
+        "height": "270",
+        "weight": "160",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.241967"
+    },
+    "589c5c96-0c5a-4522-b868-988a5613d9ad": {
+      "id": "589c5c96-0c5a-4522-b868-988a5613d9ad",
+      "name": "Sentinel",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Light",
+        "description": "Because they have no desires of their own, Sentinels stand guard at attention indefinitely. They are the perfect soldiers.",
+        "height": "333",
+        "weight": "3333",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.242019"
+    },
+    "80293f39-5b5f-48bf-9414-ea5d5c0f6b86": {
+      "id": "80293f39-5b5f-48bf-9414-ea5d5c0f6b86",
+      "name": "Elkar",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Light",
+        "description": "The glowing gold antlers of Elkari are used for mating rituals and courtship combat. Elkari are sometimes found to be training against large boulders and can turn a mountainside to rubble.",
+        "height": "150",
+        "weight": "60",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.242071"
+    },
+    "9072bead-a604-450b-928f-e28b53d19cc0": {
+      "id": "9072bead-a604-450b-928f-e28b53d19cc0",
+      "name": "Lumenicia",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Light",
+        "description": "Highly sensitive to the world and its vibrations, Lumeniciae communicate through photons of light.",
+        "height": "180",
+        "weight": "1",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.242121"
+    },
+    "513118b5-d0e8-4c50-9250-9f14fc69af79": {
+      "id": "513118b5-d0e8-4c50-9250-9f14fc69af79",
+      "name": "Gryphon",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Light",
+        "description": "Gryphons whip their tails to send shockwaves of air that stun and shatter with sound on impact.",
+        "height": "380",
+        "weight": "770",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.242173"
+    },
+    "7b179be1-ce34-4e10-965d-d12e655b7431": {
+      "id": "7b179be1-ce34-4e10-965d-d12e655b7431",
+      "name": "Pegasus",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Light",
+        "description": "Pegasusies gallop through the night sky, wherefore they are commonly mistaken for falling stars.",
+        "height": "420",
+        "weight": "600",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.242225"
+    },
+    "12c26c5e-37e8-41b8-a5cd-74a8de7c5bb6": {
+      "id": "12c26c5e-37e8-41b8-a5cd-74a8de7c5bb6",
+      "name": "Templar",
+      "entity_type": "monster",
+      "attributes": {
+        "element": "Light",
+        "description": "Templars have powerful wings that allow for sudden take-off and blurring flight. They cannot be caught--only trapped and befriended.",
+        "height": "270",
+        "weight": "160",
+        "generation": 1
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.242265"
+    },
+    "10517912-d252-4577-967c-6e41d230cb9f": {
+      "id": "10517912-d252-4577-967c-6e41d230cb9f",
+      "name": "The Undead Corruption",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "The Undead Corruption is unleashed into the world which taints souls and turns them into hivemind zombies",
+        "agenda": "To spread the corruption and create the abyssal horde and control all chaos in creation",
+        "symbol": "\u25cf",
+        "locations": "presence through channelling or spread around the world, greater presence in corrupted sites"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.253687"
+    },
+    "188ca51d-ee12-4151-a753-2ddb84457f3f": {
+      "id": "188ca51d-ee12-4151-a753-2ddb84457f3f",
+      "name": "The Dark Brotherhood",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "The Dark Brotherhood is a group of assassins and thieves who seek to control the world from the shadows",
+        "agenda": "To gain power and control over the world",
+        "symbol": "\u2620",
+        "locations": "presence in every major city and scattered presence anywhere in the world"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.253755"
+    },
+    "1800d91a-fdda-45e0-a5da-a4d0ce0a41b5": {
+      "id": "1800d91a-fdda-45e0-a5da-a4d0ce0a41b5",
+      "name": "The Cult of the silent night",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "The Cult of the Undead is a group of fanatics who worship the Undead Corruption and seek to spread it throughout the world",
+        "agenda": "To spread the Undead Corruption and gain power",
+        "symbol": "\u25f6\u2688",
+        "locations": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.253809"
+    },
+    "40e8878c-e2ab-4cc7-868c-9db66a01f424": {
+      "id": "40e8878c-e2ab-4cc7-868c-9db66a01f424",
+      "name": "the empire",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "an aging monarch desperate to maintain its hold on power",
+        "agenda": "to recover its lost lands and return to its former glory, to conquer the entire world",
+        "symbol": "\ud83d\udf03",
+        "locations": "controls smaller kingdoms and satellite states"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.253849"
+    },
+    "0bd10396-50a0-48a4-9904-2986b378e5d0": {
+      "id": "0bd10396-50a0-48a4-9904-2986b378e5d0",
+      "name": "Kingdom of Azura",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "technological scientific people pushing for superiority, creating conflict in ethics and fighting for resources to fuel their hungry tech",
+        "agenda": "maintaining their prosperity and independence, bringing freedom to more people",
+        "symbol": "\u272a",
+        "locations": "Star Co' the company secretly owned by the empire, deals in several major situations\n- provides aid and sells medicine to water kingdom\n- creates and sells weapons"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.253899"
+    },
+    "b1378f4b-f86e-41d7-a8e9-f55a2aef5159": {
+      "id": "b1378f4b-f86e-41d7-a8e9-f55a2aef5159",
+      "name": "togenkyo monastery village",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "minimalist fighter monks",
+        "agenda": "",
+        "symbol": "",
+        "locations": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.253959"
+    },
+    "077b7510-68f5-4c4f-b3ba-c4c7f1048143": {
+      "id": "077b7510-68f5-4c4f-b3ba-c4c7f1048143",
+      "name": "political nomads",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "detached from the land they are convinced to destroy the lands they are in for wealth, they turn against the others to get their way",
+        "agenda": "control of the region, wealth and power",
+        "symbol": "",
+        "locations": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.254015"
+    },
+    "889fd6a4-d412-4819-8fca-28cc91985564": {
+      "id": "889fd6a4-d412-4819-8fca-28cc91985564",
+      "name": "religious nomads",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "traditional people living spiritual lives on the plains, they feel a responsibility to the ecosystem and try to avoid actions that can cause harm",
+        "agenda": "maintaining their prosperity and independence, living harmoniously with the land",
+        "symbol": "\u25cd",
+        "locations": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.254065"
+    },
+    "5f0dc16c-b3b1-49dc-a7a9-7f8ba962aa7e": {
+      "id": "5f0dc16c-b3b1-49dc-a7a9-7f8ba962aa7e",
+      "name": "realm guard",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "politically agnostic order of elite warriors from around the world sworn to the protection of the realm against major threats",
+        "agenda": "to maintain control and ensure there is no political threat while maintaining diplomacy to request resources, with at least an ambassador from representing each nation in the order",
+        "symbol": "\u2637",
+        "locations": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.254113"
+    },
+    "c63a3f06-a4a0-48bd-844f-eda157840e69": {
+      "id": "c63a3f06-a4a0-48bd-844f-eda157840e69",
+      "name": "priests",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "a religious group of priest monks who travel the world compiling knowledge and running various services",
+        "agenda": "some people have been hijacked in by the order, theyve added their own information to the main directives\n\ntheyve taken some of the directives and layered on extra commandments that are a bit more sectarian, being used to reinforce divisions ",
+        "symbol": "\u03f4",
+        "locations": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.254166"
+    },
+    "3a222fa1-0f4f-4ae8-982b-4dbcfbb57934": {
+      "id": "3a222fa1-0f4f-4ae8-982b-4dbcfbb57934",
+      "name": "The Order of the Light",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "The Order of the Light is a group of fanatical warrior knights who are sworn to protect the realm until the return of the prophet",
+        "agenda": "To protect the world from darkness and chaos",
+        "symbol": "\u2641",
+        "locations": "base in main city, scattered presence in many locations"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.254206"
+    },
+    "0ba33d7f-d68c-4c7a-bdb6-5cd452342bf6": {
+      "id": "0ba33d7f-d68c-4c7a-bdb6-5cd452342bf6",
+      "name": "neutral good",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "",
+        "symbol": "\ud83d\udf28",
+        "locations": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.254255"
+    },
+    "e66ac10f-363e-4d4c-b743-2f197f6c2cbf": {
+      "id": "e66ac10f-363e-4d4c-b743-2f197f6c2cbf",
+      "name": "hunters guild",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "",
+        "symbol": "",
+        "locations": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.254304"
+    },
+    "95eadc9c-9275-4911-bbcb-047a026b19a3": {
+      "id": "95eadc9c-9275-4911-bbcb-047a026b19a3",
+      "name": "merchants guild",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "global trade management",
+        "agenda": "try to maintain global trade management and funnels money to capital",
+        "symbol": "",
+        "locations": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.254352"
+    },
+    "e8fa2f9c-20d4-42e2-9fe6-426c58a7676d": {
+      "id": "e8fa2f9c-20d4-42e2-9fe6-426c58a7676d",
+      "name": "ahahin",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "bit darker, usually involved in nefarious things, controlled by crime gang(dark brotherhood)",
+        "agenda": "",
+        "symbol": "",
+        "locations": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.254391"
+    },
+    "de9766e4-c7e8-4458-a0de-328729a38092": {
+      "id": "de9766e4-c7e8-4458-a0de-328729a38092",
+      "name": "jinja",
+      "entity_type": "faction",
+      "attributes": {
+        "description": "",
+        "agenda": "",
+        "symbol": "",
+        "locations": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.254438"
+    },
+    "b75f90aa-8fb8-475a-902b-d6cb0208ef18": {
+      "id": "b75f90aa-8fb8-475a-902b-d6cb0208ef18",
+      "name": "the pantheon",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "",
+        "subplot": "",
+        "nation": "",
+        "agenda": "when someone becomes a legend of the realm, theyre honored on the pantheon"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.278492"
+    },
+    "a5677540-3eca-4b60-bc61-a3092d22d0ee": {
+      "id": "a5677540-3eca-4b60-bc61-a3092d22d0ee",
+      "name": "this page is not started",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "this page is not started",
+        "subplot": "this page is not started",
+        "nation": "",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.278562"
+    },
+    "9b5e896e-48b3-4767-9abd-f750e3c46b7e": {
+      "id": "9b5e896e-48b3-4767-9abd-f750e3c46b7e",
+      "name": "Jax",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Jax",
+        "subplot": "A hatchling with a rebellious streak who befriends Lulu and joins her quest",
+        "nation": "",
+        "agenda": "Jax becomes Lulu's closest ally and supporter, willing to help her achieve her goals at any cost"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.278644"
+    },
+    "4e0324e7-4126-4137-b62c-a5dc5d6c6d4a": {
+      "id": "4e0324e7-4126-4137-b62c-a5dc5d6c6d4a",
+      "name": "General Torm",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "General Torm",
+        "subplot": "The leader of the Royal Hatchling Army who opposes Lulu and her friends",
+        "nation": "",
+        "agenda": "Torm sees Lulu's group as a threat to the established order and is determined to stop them at all costs"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.278732"
+    },
+    "752e2d35-a11d-43ae-99f9-d838686adcd6": {
+      "id": "752e2d35-a11d-43ae-99f9-d838686adcd6",
+      "name": "Professor Wren",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Professor Wren",
+        "subplot": "A wise and eccentric scientist who helps Lulu and her friends on their quest",
+        "nation": "",
+        "agenda": "Wren sees the value in Lulu's mission and is determined to aid her in any way possible"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.278776"
+    },
+    "f829359b-39e0-47e7-93c5-98595d21ff60": {
+      "id": "f829359b-39e0-47e7-93c5-98595d21ff60",
+      "name": "The Enforcers",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Enforcers",
+        "subplot": "A group of powerful hatchlings tasked with maintaining order and enforcing the law",
+        "nation": "",
+        "agenda": "The Enforcers initially see Lulu's group as a threat, but they eventually come to realize the importance of their mission"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.278824"
+    },
+    "8fc941ee-65a4-4745-a66f-d31db1864787": {
+      "id": "8fc941ee-65a4-4745-a66f-d31db1864787",
+      "name": "Queen Vespera",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Queen Vespera",
+        "subplot": "The powerful and mysterious queen of the hatchling world",
+        "nation": "",
+        "agenda": "Vespera is initially a looming presence in the background, but as the series progresses, her true motivations are revealed"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.278874"
+    },
+    "9e9c6249-4fbb-4553-a5e5-69aa7c7f1d94": {
+      "id": "9e9c6249-4fbb-4553-a5e5-69aa7c7f1d94",
+      "name": "The Wise Mentor",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Wise Mentor",
+        "subplot": "Provides guidance and advice to the protagonist",
+        "nation": "",
+        "agenda": "To help the protagonist fulfill their destiny and become a hero"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.278945"
+    },
+    "88904a43-4681-429d-9c77-5f9fe30d8583": {
+      "id": "88904a43-4681-429d-9c77-5f9fe30d8583",
+      "name": "The Rival",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Rival",
+        "subplot": "Competes with the protagonist for a common goal",
+        "nation": "",
+        "agenda": "To prove themselves better than the protagonist"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.278995"
+    },
+    "2603ac1a-017a-4b2e-9f7b-201698965176": {
+      "id": "2603ac1a-017a-4b2e-9f7b-201698965176",
+      "name": "The Traitor",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Traitor",
+        "subplot": "Betrays the protagonist or their allies",
+        "nation": "",
+        "agenda": "To gain power or to further their own goals"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279046"
+    },
+    "125f6647-5f6c-4293-8dc0-630a67aa4bd6": {
+      "id": "125f6647-5f6c-4293-8dc0-630a67aa4bd6",
+      "name": "The Antihero",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Antihero",
+        "subplot": "Resembles a hero but lacks traditional heroic qualities",
+        "nation": "",
+        "agenda": "To achieve their own goals, which may conflict with the greater good"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279092"
+    },
+    "1028a764-d288-4b05-9f2b-3d7294ffb6f5": {
+      "id": "1028a764-d288-4b05-9f2b-3d7294ffb6f5",
+      "name": "The Love Interest",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Love Interest",
+        "subplot": "Provides a romantic subplot for the protagonist",
+        "nation": "",
+        "agenda": "To pursue or be pursued by the protagonist"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279139"
+    },
+    "386577b7-36a1-4529-8566-d8cb6e8c8460": {
+      "id": "386577b7-36a1-4529-8566-d8cb6e8c8460",
+      "name": "The Mad Scientist",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Mad Scientist",
+        "subplot": "Pursues scientific knowledge and advancement regardless of the consequences",
+        "nation": "Scientists Guild",
+        "agenda": "To unlock the secrets of the universe, often at the expense of others"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279187"
+    },
+    "72f73ce5-a293-4bec-95d0-1c5c37b33234": {
+      "id": "72f73ce5-a293-4bec-95d0-1c5c37b33234",
+      "name": "The Religious Fanatic",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Religious Fanatic",
+        "subplot": "Devotes themselves completely to a religion or ideology",
+        "nation": "The Faith",
+        "agenda": "To spread their beliefs and achieve salvation"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279234"
+    },
+    "101aa2f4-54d0-4f87-82e8-36651b6dbc79": {
+      "id": "101aa2f4-54d0-4f87-82e8-36651b6dbc79",
+      "name": "The Corrupt Politician",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Corrupt Politician",
+        "subplot": "Abuses their power for personal gain",
+        "nation": "The Government",
+        "agenda": "To maintain their position and increase their wealth and influence"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279282"
+    },
+    "189741ea-4fb8-4d57-b3c8-5b2024c5c6f3": {
+      "id": "189741ea-4fb8-4d57-b3c8-5b2024c5c6f3",
+      "name": "The Vigilante",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Vigilante",
+        "subplot": "Takes justice into their own hands",
+        "nation": "",
+        "agenda": "To right wrongs and punish criminals"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279331"
+    },
+    "6eb825c5-dc96-444d-9ea2-dd26deed827d": {
+      "id": "6eb825c5-dc96-444d-9ea2-dd26deed827d",
+      "name": "The Rebel Leader",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Rebel Leader",
+        "subplot": "Fights against a tyrannical regime",
+        "nation": "The Rebellion",
+        "agenda": "To overthrow the regime and establish a new order"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279378"
+    },
+    "7befa0fe-7e6a-4cde-a988-1d28b3f793a1": {
+      "id": "7befa0fe-7e6a-4cde-a988-1d28b3f793a1",
+      "name": "The Immortal Being",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Immortal Being",
+        "subplot": "Possesses eternal life and immense power",
+        "nation": "",
+        "agenda": "To maintain their existence and exert their will on the world"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279417"
+    },
+    "13115144-52a7-46df-946e-3c4bf401dfb9": {
+      "id": "13115144-52a7-46df-946e-3c4bf401dfb9",
+      "name": "The Wise Old Mentor",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Wise Old Mentor",
+        "subplot": "A mentor figure who imparts important knowledge and guidance to the protagonist",
+        "nation": "",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279463"
+    },
+    "1ba29fb0-c09f-45e1-b362-9d269ef62aaf": {
+      "id": "1ba29fb0-c09f-45e1-b362-9d269ef62aaf",
+      "name": "The Trickster",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Trickster",
+        "subplot": "A mischievous and unpredictable character who often acts as a foil to the protagonist",
+        "nation": "",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279511"
+    },
+    "0979e794-74c8-4ebb-9ca0-b5a776d70f5d": {
+      "id": "0979e794-74c8-4ebb-9ca0-b5a776d70f5d",
+      "name": "The Femme Fatale",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Femme Fatale",
+        "subplot": "A seductive and dangerous woman who uses her charms to manipulate others",
+        "nation": "",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279558"
+    },
+    "dea13a2a-faf0-4203-b82b-f6f82d480897": {
+      "id": "dea13a2a-faf0-4203-b82b-f6f82d480897",
+      "name": "The Beast",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Beast",
+        "subplot": "A powerful and dangerous creature that is often a symbol of primal nature",
+        "nation": "",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279606"
+    },
+    "9b971d4c-3739-4cd5-a435-07d299bfdbd9": {
+      "id": "9b971d4c-3739-4cd5-a435-07d299bfdbd9",
+      "name": "The Prophet",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Prophet",
+        "subplot": "A visionary or religious figure who provides insight into the future or spiritual realm",
+        "nation": "",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279654"
+    },
+    "eb8902e0-06df-46b5-b097-e07bd8e083e8": {
+      "id": "eb8902e0-06df-46b5-b097-e07bd8e083e8",
+      "name": "The Outsider",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Outsider",
+        "subplot": "A character who is an outsider to the society they find themselves in, often bringing an outside perspective and disrupting the status quo",
+        "nation": "",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279702"
+    },
+    "7e578ba7-527c-4234-ab57-5a8ce477c93e": {
+      "id": "7e578ba7-527c-4234-ab57-5a8ce477c93e",
+      "name": "The Anti-Hero",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "The Anti-Hero",
+        "subplot": "A protagonist who lacks traditional heroic qualities and often engages in morally ambiguous behavior",
+        "nation": "",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279750"
+    },
+    "99ae1232-e263-4a0f-acbe-7e0c1fdfb487": {
+      "id": "99ae1232-e263-4a0f-acbe-7e0c1fdfb487",
+      "name": "Azura, Queen of the Sky",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Azura, Queen of the Sky",
+        "subplot": "Ruler of the Sky Kingdom, ally to the Light",
+        "nation": "",
+        "agenda": "Protect her people and maintain power"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279798"
+    },
+    "58c36624-c6d2-43fd-827f-adfa1f2380b6": {
+      "id": "58c36624-c6d2-43fd-827f-adfa1f2380b6",
+      "name": "Thorne, Leader of the Rebellion",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Thorne, Leader of the Rebellion",
+        "subplot": "Leader of the Resistance against the Dark Empire",
+        "nation": "",
+        "agenda": "Overthrow the Dark Empire and establish democracy"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279837"
+    },
+    "762243f0-b213-48a9-bbe3-b07abd8cf68b": {
+      "id": "762243f0-b213-48a9-bbe3-b07abd8cf68b",
+      "name": "Xiulan, High Priestess of the Temple of Balance",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Xiulan, High Priestess of the Temple of Balance",
+        "subplot": "Spiritual leader of the world, mediator between Light and Dark",
+        "nation": "",
+        "agenda": "Restore balance to the world, prevent the Chaos God from being unleashed"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.279920"
+    },
+    "e89cac73-d9a2-4e93-87ca-0a183476563a": {
+      "id": "e89cac73-d9a2-4e93-87ca-0a183476563a",
+      "name": "Maelstrom, Admiral of the Undead Fleet",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Maelstrom, Admiral of the Undead Fleet",
+        "subplot": "Commander of the Undead Fleet, serves the Chaos God",
+        "nation": "",
+        "agenda": "Unleash the Chaos God and spread undead corruption throughout the world"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280011"
+    },
+    "69fa7bd7-9de5-43b9-9e22-15452aadc002": {
+      "id": "69fa7bd7-9de5-43b9-9e22-15452aadc002",
+      "name": "Helena",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Helena",
+        "subplot": "A high-ranking member of the Order, Helena is committed to the pursuit of order and control, even if it means sacrificing personal freedoms. She is a staunch advocate for the Order's methods, and is willing to go to great lengths to ensure their goals are met.",
+        "nation": "The Order of the Sun",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280104"
+    },
+    "28c3c06e-9594-41a3-94cd-2c18a7091d8d": {
+      "id": "28c3c06e-9594-41a3-94cd-2c18a7091d8d",
+      "name": "Zephyr",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Zephyr",
+        "subplot": "A skilled warrior and leader of the Wind Clan, Zephyr is fiercely independent and values personal freedom above all else. He is a thorn in the side of both the Order and the Dominion, and is often caught in the middle of their conflicts.",
+        "nation": "The Wind Clan",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280325"
+    },
+    "ca575104-b839-4804-a272-e3739f9ec7d8": {
+      "id": "ca575104-b839-4804-a272-e3739f9ec7d8",
+      "name": "Aria",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Aria",
+        "subplot": "A powerful healer and diplomat, Aria is dedicated to the pursuit of unity and cooperation between the different nations and factions. She is often called upon to mediate disputes and broker peace between warring parties.",
+        "nation": "The Water Tribe",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280375"
+    },
+    "f4043965-93a9-4178-bf1d-7227cd31cf39": {
+      "id": "f4043965-93a9-4178-bf1d-7227cd31cf39",
+      "name": "Viktor",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Viktor",
+        "subplot": "A ruthless general in the Dominion's army, Viktor is driven by a desire for power and control. He sees democracy as a weakness, and views the Dominion's rule as the only way to maintain order and stability in the world.",
+        "nation": "The Dominion",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280446"
+    },
+    "2240bc73-290e-407e-9153-976e73082899": {
+      "id": "2240bc73-290e-407e-9153-976e73082899",
+      "name": "Vesper",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Vesper",
+        "subplot": "A mysterious and enigmatic figure, Vesper is the leader of the Moon Clan and has a deep connection to the powers of darkness. Her motivations are often unclear, and she is a wildcard in the ongoing conflicts between the different factions.",
+        "nation": "The Moon Clan",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280503"
+    },
+    "14d67153-fdef-46ce-9a28-060ee21df4a2": {
+      "id": "14d67153-fdef-46ce-9a28-060ee21df4a2",
+      "name": "Kalen",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Kalen",
+        "subplot": "A powerful and ambitious firebender, Kalen is determined to prove herself as a worthy successor to the throne. She is fiercely loyal to her nation, but also recognizes the need for cooperation and unity in the face of external threats.",
+        "nation": "The Fire Nation",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280552"
+    },
+    "4bebaabd-5506-4772-bac0-bb6ae62155fd": {
+      "id": "4bebaabd-5506-4772-bac0-bb6ae62155fd",
+      "name": "Arin",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Arin",
+        "subplot": "A skilled earthbender and member of the royal family, Arin is torn between her duty to her nation and her desire for personal freedom. She struggles to balance her responsibilities as a leader with her own ambitions and desires.",
+        "nation": "The Earth Kingdom",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280601"
+    },
+    "9b139f42-4ab9-4f38-b2c7-220bdabf7e7d": {
+      "id": "9b139f42-4ab9-4f38-b2c7-220bdabf7e7d",
+      "name": "Thorne",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Thorne",
+        "subplot": "A master assassin and leader of the Shadow Guild, Thorne operates in the shadows and is feared by many. He has his own agenda and motivations, but is often willing to work with others if it serves his interests.",
+        "nation": "The Shadow Guild",
+        "agenda": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280649"
+    },
+    "0f05dfeb-4c39-4ccf-8b2d-97b853e302d4": {
+      "id": "0f05dfeb-4c39-4ccf-8b2d-97b853e302d4",
+      "name": "Lucius",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Lucius",
+        "subplot": "Discovers the world of hatchy and becomes a summoner",
+        "nation": "Protagonist, becomes central to the fight against the Crystalists",
+        "agenda": "To learn about hatchy and become a strong summoner, to protect his loved ones and the world from the Crystalists"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280697"
+    },
+    "3e3023c6-7350-4a5d-ae6b-3442231183d8": {
+      "id": "3e3023c6-7350-4a5d-ae6b-3442231183d8",
+      "name": "Elena",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Elena",
+        "subplot": "Specializes in spirit binding and helps Lucius navigate the dangerous world of summoning",
+        "nation": "Ally to Lucius",
+        "agenda": "To restore the power of the omni and protect the world from the Crystalists"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280744"
+    },
+    "9ec7bb31-7b78-4285-a401-79506c980732": {
+      "id": "9ec7bb31-7b78-4285-a401-79506c980732",
+      "name": "Kael",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Kael",
+        "subplot": "Skilled tamer who joins Lucius on his quest",
+        "nation": "Ally to Lucius",
+        "agenda": "To help Lucius restore the power of the omni and protect the world from the Crystalists"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280794"
+    },
+    "ab93bb9e-7ca8-4fd0-8cee-f7bf7a9a8303": {
+      "id": "ab93bb9e-7ca8-4fd0-8cee-f7bf7a9a8303",
+      "name": "Saria",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Saria",
+        "subplot": "Card summoner who initially opposes Lucius and his mission, but eventually becomes an ally",
+        "nation": "Ally to Lucius",
+        "agenda": "To pursue her own agenda and fight for her family's interests"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280842"
+    },
+    "4d18129f-c5ba-4ce5-b094-21e758fd7ecd": {
+      "id": "4d18129f-c5ba-4ce5-b094-21e758fd7ecd",
+      "name": "Alazar",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Alazar",
+        "subplot": "Ancient hatchy who holds the key to unlocking the full power of the omni",
+        "nation": "Ally to Lucius",
+        "agenda": "To assist Lucius and the hatchy in their fight against the Crystalists"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280882"
+    },
+    "57b7b665-c14e-4880-b0e6-b751e7e477d7": {
+      "id": "57b7b665-c14e-4880-b0e6-b751e7e477d7",
+      "name": "Baphomet",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Baphomet",
+        "subplot": "Dark monster who haunts Lucius and threatens to consume him",
+        "nation": "Antagonist, works with the Crystalists",
+        "agenda": "To use Lucius to help the Crystalists achieve their goals"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280921"
+    },
+    "5ea60740-12c2-4d3d-a768-81403411ffb5": {
+      "id": "5ea60740-12c2-4d3d-a768-81403411ffb5",
+      "name": "Grendel",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Grendel",
+        "subplot": "Powerful summoner who has a history with Lucius' family",
+        "nation": "Secondary protagonist, helps Lucius on his journey",
+        "agenda": "To protect the world from the Crystalists and help Lucius become a strong summoner"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.280968"
+    },
+    "51cb81fc-3d2b-4507-a5e5-b0f490d814ea": {
+      "id": "51cb81fc-3d2b-4507-a5e5-b0f490d814ea",
+      "name": "Aria",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Aria",
+        "subplot": "Hatchy companion to Grendel, also has a history with Lucius' family",
+        "nation": "Helps Grendel and Lucius on their journey",
+        "agenda": "To protect the world from the Crystalists and restore the power of the omni"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.281016"
+    },
+    "f7f3d0b2-fb51-432a-87e4-70a6e163883c": {
+      "id": "f7f3d0b2-fb51-432a-87e4-70a6e163883c",
+      "name": "Crystalists",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Crystalists",
+        "subplot": "Group of humans who seek to use crystals for destruction",
+        "nation": "Antagonists, seek to control the world",
+        "agenda": "To gain power and control over the world"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.281063"
+    },
+    "ae6d08c4-9456-4dd7-8c51-7b9ab78669cb": {
+      "id": "ae6d08c4-9456-4dd7-8c51-7b9ab78669cb",
+      "name": "Elemental spirits",
+      "entity_type": "champion",
+      "attributes": {
+        "description": "Elemental spirits",
+        "subplot": "Guardians of the world's elemental power",
+        "nation": "Guides and helps the main characters on their journey",
+        "agenda": "To restore the power of the omni and protect the world from the Crystalists"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.281111"
+    },
+    "514983a9-804e-4f2e-9320-d50556c2e348": {
+      "id": "514983a9-804e-4f2e-9320-d50556c2e348",
+      "name": "eastern",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "",
+        "culture": "",
+        "conflict": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285262"
+    },
+    "d0c41bec-b428-4d56-b365-9030a08793ce": {
+      "id": "d0c41bec-b428-4d56-b365-9030a08793ce",
+      "name": "Arcadia",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "A wealthy coastal nation known for its strong navy and mercantile trade.",
+        "themes": "secular political",
+        "culture": "exploitative",
+        "conflict": "The ruling aristocracy is fiercely opposed by a populist movement seeking to expand voting rights and democratize the government."
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285342"
+    },
+    "7aa579ef-71e9-4182-bd4b-60194b7183e3": {
+      "id": "7aa579ef-71e9-4182-bd4b-60194b7183e3",
+      "name": "Somola",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "a small farming kingdom, once arid, turned into an oasis with the help of the hatchies and now the foodbowl of the region",
+        "themes": "",
+        "culture": "cooperative",
+        "conflict": "with added value comes added conflict, the other kingdoms are fighting to take the land for their advantage, shifting delegates vote to absorb them to the larger kingdom"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285393"
+    },
+    "192855df-1180-4b93-923c-4dcff8e8d6a8": {
+      "id": "192855df-1180-4b93-923c-4dcff8e8d6a8",
+      "name": "Kingdom of Azura",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "a democratic nation that seeks to promote freedom and democracy throughout the world",
+        "themes": "- multicultural\n- ",
+        "culture": "domineering\ncondescending\nexploitative",
+        "conflict": "The Dominion of Arcadia is a highly advanced society, where technology and magic are used in harmony to improve people's lives. However, a powerful corporation has gained too much control over the government, and are using their resources to conduct dangerous experiments in genetics, robotics and advanced weapons"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285435"
+    },
+    "3eb3be21-7e94-46cc-a332-0cdfab301bf1": {
+      "id": "3eb3be21-7e94-46cc-a332-0cdfab301bf1",
+      "name": "midworld",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "",
+        "culture": "",
+        "conflict": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285483"
+    },
+    "06481352-4eda-40db-9fd8-7d84a4b2bf80": {
+      "id": "06481352-4eda-40db-9fd8-7d84a4b2bf80",
+      "name": "Ixor City of Chants",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "The Kingdom of Azura is a powerful and prosperous nation that seeks to maintain its dominance over other nations",
+        "themes": "america",
+        "culture": "mixed peoples, \nexploitative",
+        "conflict": "To maintain its power and control over other nations, controller of the trade routes, owners of the colloseum and hosts of events"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285532"
+    },
+    "935f4457-309a-4bc5-91e9-00dd959f3d00": {
+      "id": "935f4457-309a-4bc5-91e9-00dd959f3d00",
+      "name": "western plainlands",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "",
+        "culture": "",
+        "conflict": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285630"
+    },
+    "6e95be0b-4acb-4056-ba60-b3177c8d44ff": {
+      "id": "6e95be0b-4acb-4056-ba60-b3177c8d44ff",
+      "name": "The Artarian",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "scattered ancient race, some oral tradition and history preserved by elders",
+        "themes": "wartorn remnants of a once great empire",
+        "culture": "collaborative",
+        "conflict": "mostly tribal nomadic peoples, scattered around the plains and the pirate nation ports"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285705"
+    },
+    "bdd25038-0434-443f-b993-27e36dd085d8": {
+      "id": "bdd25038-0434-443f-b993-27e36dd085d8",
+      "name": "pirate nation",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "rough port town location full of rogue gypsy like pirates\n\nsome of the inhabitants are scattered remnants of the ancient peoples, with some small stories managing to survive amongst the elders who somehow can still maintain some order in and around the chaotic ports and tribalistic pirates",
+        "themes": "",
+        "culture": "exploitative\nrespectful\ncollaborative",
+        "conflict": "barely loyalty to anyone, the pirates are known to even fight amongst themselves for power or loot"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285755"
+    },
+    "56737234-12c4-46d6-b3f1-71ce11b89041": {
+      "id": "56737234-12c4-46d6-b3f1-71ce11b89041",
+      "name": "The Confederacy of Thorn",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "- nomadic spiritual tribes",
+        "culture": "respectful\ncollaborative",
+        "conflict": "The Confederacy of Thorn is made up of several tribes of druidic summoners, who live in harmony with nature and the spirits of their ancestors. However, a group of extremist summoners believe that the spirits are not doing enough to protect their people, and have started experimenting with the corruption to gain more power."
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285803"
+    },
+    "103c3bcf-6714-4f11-9fcc-1d3c89d06d54": {
+      "id": "103c3bcf-6714-4f11-9fcc-1d3c89d06d54",
+      "name": "Ashul",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "A harsh, desert land ruled by a powerful warlord who has united many warring tribes under his banner.",
+        "themes": "nomadic warring tribes",
+        "culture": "collaborative\nexploitative",
+        "conflict": "The warlord's brutal tactics and demands for tribute have sparked a rebellion among some of the tribes, who seek to overthrow his rule and establish their own independence."
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285851"
+    },
+    "62f47006-aab0-4a57-8e76-a4a5caee82a2": {
+      "id": "62f47006-aab0-4a57-8e76-a4a5caee82a2",
+      "name": "northern",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "",
+        "culture": "",
+        "conflict": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285899"
+    },
+    "04086d0e-0e9a-4448-a365-cea4ab6fad80": {
+      "id": "04086d0e-0e9a-4448-a365-cea4ab6fad80",
+      "name": "The Republic of Ironclad",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "fortress city",
+        "culture": "",
+        "conflict": "The Republic of Ironclad has long been a major exporter of iron and steel, but a recent discovery of a rare mineral in their territory has led to tensions with neighboring nations. The government is willing to do whatever it takes to protect their interests, including making deals with dark entities."
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285947"
+    },
+    "3c8df9b4-9c0d-499e-89be-bd637ee1e6c3": {
+      "id": "3c8df9b4-9c0d-499e-89be-bd637ee1e6c3",
+      "name": "Drakonia",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "- esoteric artefact fued",
+        "culture": "",
+        "conflict": "Two powerful mage families feud over control of a valuable magical artifact"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.285995"
+    },
+    "72f61891-751d-4ead-982a-475c613d1c72": {
+      "id": "72f61891-751d-4ead-982a-475c613d1c72",
+      "name": "Selvador",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "- revolution\n- forced governance",
+        "culture": "",
+        "conflict": "A rebellion seeks to overthrow the corrupt monarchy"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.286042"
+    },
+    "a3f60acc-1b41-47d5-bcb6-a2b51fee94c3": {
+      "id": "a3f60acc-1b41-47d5-bcb6-a2b51fee94c3",
+      "name": "Eziria",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "- forced governance\n- natural resource control",
+        "culture": "",
+        "conflict": "The central government attempts to assert control over various regional governments"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.286090"
+    },
+    "06fe581b-8b36-4ae7-89d2-bcdaa7d2d61f": {
+      "id": "06fe581b-8b36-4ae7-89d2-bcdaa7d2d61f",
+      "name": "Norlund",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "A frozen tundra populated by hardy, isolated communities that have developed their own distinct cultures and traditions.",
+        "themes": "",
+        "culture": "",
+        "conflict": "A new railroad project linking Norlund to other parts of the continent has sparked a wave of immigration and economic development, but has also threatened the traditional ways of life and autonomy of the local communities."
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.286131"
+    },
+    "543fdefc-6fe3-4a4d-93d3-09b464b48375": {
+      "id": "543fdefc-6fe3-4a4d-93d3-09b464b48375",
+      "name": "southern and islands",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "",
+        "culture": "",
+        "conflict": ""
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.286178"
+    },
+    "fd1f9f28-f77f-4bb5-81da-015890175b25": {
+      "id": "fd1f9f28-f77f-4bb5-81da-015890175b25",
+      "name": "oria",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "",
+        "culture": "",
+        "conflict": "The royal family is divided over the throne succession, leading to a civil war"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.286228"
+    },
+    "5eb7ebdb-2568-4d50-83e4-eacd0647ff12": {
+      "id": "5eb7ebdb-2568-4d50-83e4-eacd0647ff12",
+      "name": "Kethar",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "A highly centralized monarchy with a strong tradition of magic and scholarship.",
+        "themes": "",
+        "culture": "",
+        "conflict": "The queen's ambitious reform program has sparked widespread resentment among the nobility and the conservative clergy, who fear that their privileges and influence are under threat."
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.286273"
+    },
+    "ffb70607-d45f-4669-a53b-cc332be5bb59": {
+      "id": "ffb70607-d45f-4669-a53b-cc332be5bb59",
+      "name": "Norland",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "",
+        "culture": "",
+        "conflict": "A religious sect gains political power and begins imposing their beliefs on the rest of the nation"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.286321"
+    },
+    "9cd452ef-509a-472c-baef-1081b4e27ee2": {
+      "id": "9cd452ef-509a-472c-baef-1081b4e27ee2",
+      "name": "Kaltoria",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "taken under eziria, fighting for independence",
+        "culture": "",
+        "conflict": "A separatist movement seeks independence from the central government(eziria)"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.286370"
+    },
+    "a751f787-0b8f-4740-9f08-119c54b62795": {
+      "id": "a751f787-0b8f-4740-9f08-119c54b62795",
+      "name": "Astoria",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "",
+        "culture": "",
+        "conflict": "The ruling class hoards resources while the lower classes suffer from poverty and disease, causing a group of revolutionaries to rise up against them"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.286412"
+    },
+    "8c9d5bd7-26ce-40a0-b807-5c858c95d62f": {
+      "id": "8c9d5bd7-26ce-40a0-b807-5c858c95d62f",
+      "name": "Orendor",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "A vast, rugged frontier region with a diverse population of humans, dwarves, and elves.",
+        "themes": "mining - expats/immigrants - displacement etc",
+        "culture": "",
+        "conflict": "The kingdom's resources are being rapidly depleted by a mining boom that has attracted large numbers of outsiders, sparking conflict with indigenous communities and straining the government's ability to maintain order."
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.286459"
+    },
+    "6ed4a937-ab9b-415f-a2cf-663cb67930c9": {
+      "id": "6ed4a937-ab9b-415f-a2cf-663cb67930c9",
+      "name": "The Kingdom of Arktos",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "",
+        "themes": "",
+        "culture": "",
+        "conflict": "The queen of Arktos is obsessed with finding a way to bring back her deceased husband, and has hired a team of rogue summoners to help her. However, her actions are causing a rift between her and her people, who believe that death should be respected."
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.286506"
+    },
+    "0b0cc7d2-590a-4863-87b4-d6e6c363b2d9": {
+      "id": "0b0cc7d2-590a-4863-87b4-d6e6c363b2d9",
+      "name": "The Communal Empire",
+      "entity_type": "nation",
+      "attributes": {
+        "description": "corrupted lands",
+        "themes": "zombie corrupted landscape",
+        "culture": "",
+        "conflict": "The ruling class of nobles practice forbidden alchemy and necromancy seeking to expand their influence and territory"
+      },
+      "metadata": {},
+      "source": null,
+      "created_at": "2025-02-16T22:34:08.286555"
+    }
+  },
+  "relationships": []
+}

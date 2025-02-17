@@ -22,6 +22,7 @@ from src.models.political_loader import PoliticalLoader
 from src.models.evolution_loader import EvolutionLoader
 from src.models.item_loader import ItemLoader
 from src.models.world_loader import WorldLoader
+from src.models.base_loader import BaseLoader
 
 # Load environment variables
 load_dotenv()
@@ -140,7 +141,6 @@ def load_experimental_data(graph, data_dir):
                 graph.bulk_add(entities, source='experimental')
 
 def main():
-    """Build and save the knowledge graph."""
     parser = argparse.ArgumentParser()
     parser.add_argument("--data-dir", default="data", help="Data directory path")
     parser.add_argument("--rebuild", action="store_true", help="Force rebuild graph")
@@ -151,100 +151,36 @@ def main():
     logging.basicConfig(level=getattr(logging, args.log_level.upper()))
 
     logger.info("Initializing knowledge graph...")
-    graph = HatchyKnowledgeGraph()
-
-    # Initialize loader with correct data dir
-    loader = EnhancedLoader(args.data_dir)
-    
-    logger.info("Loading data into knowledge graph...")
+    loader = BaseLoader(args.data_dir)
     
     # Load core elements first
     elements = loader.initialize_core_elements()
     for element in elements:
-        # Elements are already formatted with type
-        graph.add_entity(
-            name=element['name'],
-            entity_type=element['type'],
-            attributes=element['attributes']
-        )
+        loader.knowledge_graph.add_entity(**element)
         
-    # Load monsters
-    monsters = loader.load_monsters()
-    for monster in monsters:
-        # Monsters are formatted with type
-        graph.add_entity(
-            name=monster['name'],
-            entity_type=monster['type'],
-            attributes={
-                'element': monster['element'],
-                'description': monster['description'],
-                **monster['attributes']  # Include height, weight, generation
-            }
-        )
-        
-    # Load factions
-    factions = loader.load_factions()
-    for faction in factions:
-        graph.add_entity(
-            name=faction['name'],
-            entity_type=faction['type'],
-            attributes={
-                'description': faction['description'],
-                **faction['attributes']  # Include agenda, symbol, locations
-            }
-        )
-        
-    # Load champions
-    champions = loader.load_champions() 
-    for champion in champions:
-        graph.add_entity(
-            name=champion['name'],
-            entity_type=champion['type'],
-            attributes={
-                'description': champion['description'],
-                **champion['attributes']  # Include subplot, nation, agenda
-            }
-        )
-        
-    # Load nations
-    nations = loader.load_nations()
-    for nation in nations:
-        graph.add_entity(
-            name=nation['name'],
-            entity_type=nation['type'],
-            attributes={
-                'description': nation['description'],
-                **nation['attributes']  # Include themes, culture, conflict
-            }
-        )
-        
+    # Load structured data
+    logger.info("Loading structured data...")
+    loader.load_monsters()
+    loader.load_factions()
+    
+    # Load text content
+    logger.info("Loading text content...")
+    for text_file in (Path(args.data_dir)/"official_canon").glob("*.txt"):
+        entities = loader.load_text_content(text_file)
+        for entity in entities:
+            loader.knowledge_graph.add_entity(**entity)
+    
+    # Process world design document
+    logger.info("Processing world design...")
+    world_file = Path(args.data_dir)/"official_canon"/"Hatchy World _ world design.txt"
+    if world_file.exists():
+        world_entities = loader.load_text_content(world_file)
+        for entity in world_entities:
+            loader.knowledge_graph.add_entity(**entity)
+    
     # Get statistics
-    stats = graph.get_statistics()
+    stats = loader.knowledge_graph.get_statistics()
     logger.info(f"Knowledge graph statistics: {json.dumps(stats, indent=2)}")
-    
-    # Export graph
-    logger.info("Exporting knowledge graph...")
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_dir = project_root / "knowledge_graphs"
-    output_dir.mkdir(exist_ok=True)
-    
-    output_file = output_dir / f"knowledge_graph_{timestamp}.json"
-    latest_link = output_dir / "knowledge_graph_latest.json"
-    
-    # Save graph data
-    graph_data = graph.export_to_dict()
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(graph_data, f, indent=2)
-        
-    # Update symlink
-    try:
-        if latest_link.exists():
-            latest_link.unlink()
-        latest_link.symlink_to(output_file.name)
-    except OSError as e:
-        logger.warning(f"Could not create symlink: {e}. Continuing anyway...")
-        
-    logger.info(f"Knowledge graph saved to {output_file}")
 
 if __name__ == '__main__':
     # Set up paths
